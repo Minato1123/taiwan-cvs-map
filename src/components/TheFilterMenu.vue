@@ -1,9 +1,16 @@
 <script setup lang="ts">
 import { useServiceStore } from '../stores/service'
+import { useMapStore } from '../stores/map'
+import type { ServiceType } from '../types/index'
 const { serviceMap } = useServiceStore()
+const { updateSelectedServiceList } = useMapStore()
 
 const searchPicked = ref<'address' | 'mart-name' | 'mart-no'>('address')
-const checkedServiceList = ref<string[]>([])
+const checkedServiceList = ref<ServiceType[]>([])
+
+watch(checkedServiceList, () => {
+  updateSelectedServiceList(checkedServiceList.value)
+})
 </script>
 
 <template>
@@ -47,7 +54,7 @@ const checkedServiceList = ref<string[]>([])
         服務項目篩選
       </div>
       <div class="menu-content">
-        <label class="menu-item" v-for="service of Object.keys(serviceMap)" :key="service" :for="service">
+        <label class="menu-item" v-for="service of (Object.keys(serviceMap) as ServiceType[])" :key="service" :for="service">
           <input class="menu-item-input" :id="service" type="checkbox" :value="service" v-model="checkedServiceList">
           {{ serviceMap[service] }}
         </label>
@@ -79,6 +86,11 @@ const checkedServiceList = ref<string[]>([])
       .menu-label {
         cursor: pointer;
         padding: 0.3rem 0;
+        transition: all 0.3s;
+        
+        &:hover {
+          opacity: 0.7;
+        }
       }
 
       .search-block {
@@ -109,6 +121,11 @@ const checkedServiceList = ref<string[]>([])
 
       .menu-item {
         cursor: pointer;
+        transition: all 0.3s;
+
+        &:hover {
+          opacity: 0.7;
+        }
 
         .menu-item-input {
           outline: none;

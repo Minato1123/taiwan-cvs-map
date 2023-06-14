@@ -2,16 +2,17 @@
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { useMapStore } from '../stores/map'
-import type { BoundType } from '../types/index'
+import type { MartDataType, BoundType } from '../types/index'
 
-const { updateMapBounds } = useMapStore()
-const { mapCenterPoint, martListInMap } = storeToRefs(useMapStore())
+const { updateCenterPoint, updateMapBounds, updateCurrentMart, updateSortedMartList, updateMapZoom, showMartZoomLimit } = useMapStore()
+const { mapCenterPoint, currentMart, martListInMap, mapZoom } = storeToRefs(useMapStore())
 
 const mapEl = ref<HTMLElement | null>(null)
 const map = shallowRef<L.Map | null>(null)
 
-const mapBound = computed<BoundType | null>(() => {
-  if (map.value == null) return null
+function getMapBound(): BoundType | undefined {
+  if (map.value == null) 
+    return
 
   const bound = map.value.getBounds()
   return {
@@ -20,16 +21,63 @@ const mapBound = computed<BoundType | null>(() => {
     west: bound.getWest(),
     south: bound.getSouth()
   }
+}
+
+const iconSize = computed<number>(() => mapZoom.value * 1.5)
+const theIconSize = computed<number>(() => mapZoom.value * 2.4)
+
+const martMarkerList = ref<(L.Marker<any> | undefined)[]>([])
+function setMarkers(martList: MartDataType[]) {
+  if (martMarkerList.value != null) {
+    martMarkerList.value.forEach((marker)=> {
+      if (marker == null) return
+      marker.remove()
+    })
+    martMarkerList.value = []
+  }
+  if (mapZoom.value < showMartZoomLimit) return []
+
+
+  const familyMartIcon = L.icon({
+    iconUrl: 'familymart-icon.svg',
+    iconSize: [iconSize.value, iconSize.value],
+  })
+
+  const theMartIcon = L.icon({
+    iconUrl: 'the-mart-icon.svg',
+    iconSize: [theIconSize.value, theIconSize.value],
+  })
   
+  martMarkerList.value = martList.map((mart) => {
+    if (map.value == null) return
+
+    const isTheMart = currentMart && currentMart.value && currentMart.value.pkey === mart.pkey ? true : false
+
+    return L.marker([mart.lat, mart.lng], {
+      icon: isTheMart ? theMartIcon : familyMartIcon,
+      alt: mart.name,
+      title: mart.name,
+      opacity: isTheMart ? 1 : 0.75
+    }).addTo(map.value).on('click', () => {
+      updateCenterPoint(mart.lat, mart.lng)
+      updateCurrentMart(mart)
+      updateMapZoom(17)
+    })
+  })
+}
+
+const sortedMartList = computed<MartDataType[]>(() => {
+  const theMap = map.value
+  if (theMap == null) return []
+
+  return martListInMap.value.sort((a, b) => {
+    return theMap.distance([mapCenterPoint.value.lat, mapCenterPoint.value.lng], [a.lat, a.lng]) - theMap.distance([mapCenterPoint.value.lat, mapCenterPoint.value.lng], [b.lat, b.lng])
+  })
 })
 
-const mapZoom = ref<number>(16)
-const iconSize = computed<number>(() => mapZoom.value * 1.65)
-const familyMartIcon = L.icon({
-  iconUrl: 'familymart-icon.svg',
-  iconSize: [iconSize.value, iconSize.value],
+watch(sortedMartList, () => {
+  updateSortedMartList(sortedMartList.value)
 })
-
 
 onMounted(() => {
   if (mapEl.value == null)
@@ -41,47 +89,56 @@ onMounted(() => {
     zoomControl: true
   })
 
-  if (mapBound.value != null)
-    updateMapBounds(mapBound.value)
+  const bound = getMapBound()
+
+  if (bound != null)
+    updateMapBounds(bound)
 
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map.value)
   
-  // TODO: 現在只有第一次會放 maker，後續更新 bounds 時需要重新放置
-  const martMarkerList = martListInMap.value.map((mart) => {
-    if (map.value == null) return
-
-    return L.marker([mart.lat, mart.lng], {
-      icon: familyMartIcon
-    }).addTo(map.value)
-  })
-  console.log(martListInMap.value)
+  setMarkers(martListInMap.value)
 
   // 註冊監聽地圖縮放
   map.value.on('zoom', () => {
     if (map.value == null) return
 
-    mapZoom.value = map.value.getZoom()
-    console.log(map.value.getZoom())
+    updateMapZoom(map.value.getZoom())
+    const bounds = getMapBound()
+    if (bounds == null) return
+    updateMapBounds(bounds)
+    setMarkers(martListInMap.value)
   })
 
+  // 註冊監聽地圖拖動
+  map.value.on('move', () => {
+    const bounds = getMapBound()
+    if (bounds == null) return
+    updateMapBounds(bounds)
+    setMarkers(martListInMap.value)
+  })
 })
 
+watch(martListInMap, () => {
+  setMarkers(martListInMap.value)
+})
 
 watch(mapCenterPoint, () => {
   if (map.value == null)
     return
 
-  map.value.flyTo(mapCenterPoint.value)
+  map.value.flyTo(mapCenterPoint.value, mapZoom.value)
 
-  if (mapBound.value == null)
+  const bounds = getMapBound()
+  if (bounds == null)
     return
 
-  updateMapBounds(mapBound.value)
+  updateMapBounds(bounds)
 }, {
   deep: true
 })
+
 
 
 

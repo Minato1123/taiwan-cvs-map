@@ -69,8 +69,7 @@ import InfoList from '../components/InfoList.vue'
     }
 
     .mart-container {
-      flex-grow: 1;
-
+      width: 100%;
       .map-container {
         width: 100%;
         aspect-ratio: 1.8;

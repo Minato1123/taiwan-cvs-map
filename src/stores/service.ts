@@ -1,7 +1,8 @@
 import { defineStore } from 'pinia'
+import type { ServiceType } from '../types/index'
 
 export const useServiceStore = defineStore('service', () => {
-  const serviceMap: { [x: string]: string } = {
+  const serviceMap: { [x in ServiceType]: string } = {
     'coffee-hybrid-shop': '咖啡複合店',
     'fami-super': 'FamiSuper',
     'fami-laundry': 'Fami 自助洗衣',
@@ -29,14 +30,12 @@ export const useServiceStore = defineStore('service', () => {
     'toilet': '廁所'
   }
   
-
-  function getServiceListByMart(service: string) {
+  function getServiceListByMart(service: ServiceType) {
     return serviceMap[service]
   }
 
   return { 
     serviceMap,
     getServiceListByMart,
-    
   }
 })

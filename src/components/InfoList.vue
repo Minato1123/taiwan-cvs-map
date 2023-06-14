@@ -1,32 +1,38 @@
 <script setup lang="ts">
 import { useMapStore } from '../stores/map'
+import type { MartDataType } from '../types/index'
 import { useServiceStore } from '../stores/service'
 
-const { setCenterPoint } = useMapStore()
-const { martListInMap } = storeToRefs(useMapStore())
+const { updateCenterPoint, updateCurrentMart } = useMapStore()
+const { sortedMartList } = storeToRefs(useMapStore())
 const { getServiceListByMart } = useServiceStore()
 
-function clickMartInfo(lat: number, lng: number) {
-  setCenterPoint(lat, lng)
+function clickMartInfo(mart: MartDataType) {
+  updateCenterPoint(mart.lat, mart.lng)
+  updateCurrentMart(mart)
   scrollTo({
     top: 0,
     behavior: 'smooth'
   })
 }
 
+
 </script>
 
 <template>
   <div class="info">
     <div class="info-title">門市資訊</div>
-    <div class="info-item" v-for="(mart, i) in martListInMap" :key="`mart-${i}`" @click="clickMartInfo(mart.lat, mart.lng)">
+    <div class="none-info" v-if="sortedMartList.length <= 0">
+      當前地圖範圍內沒有符合條件的全家門市喔～
+    </div>
+    <div class="info-item" v-for="(mart, i) in sortedMartList" :key="`mart-${i}`" @click="clickMartInfo(mart)">
       <div class="item-content">
         <div class="mart-name-no">
           <span class="mart-name">
             {{ mart.name }}
-            <button class="map-btn">
+            <a @click.stop href="/" target="_blank" class="map-btn">
               <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 0 1 0-5a2.5 2.5 0 0 1 0 5z"></path></svg>
-            </button>
+            </a>
           </span>
           店舖號：{{ mart.pkey }}
         </div>
@@ -56,9 +62,23 @@ function clickMartInfo(lat: number, lng: number) {
       color: rgb(var(--white-color));
       font-weight: 500;
       padding: 0.2rem 0 0.2rem 0.5rem;
+      box-sizing: border-box;
+    }
+
+    .none-info {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 5rem;
+      font-size: 1.2rem;
+      color: rgb(var(--main-color));
+      width: 100%;
+      box-sizing: border-box;
     }
 
     .info-item {
+      width: 100%;
+      box-sizing: border-box;
       border-radius: 1rem;
       border: 0.15rem solid rgb(var(--main-color));
       margin-top: 1rem;
