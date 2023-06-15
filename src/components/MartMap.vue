@@ -4,8 +4,8 @@ import 'leaflet/dist/leaflet.css'
 import { useMapStore } from '../stores/map'
 import type { MartDataType, BoundType } from '../types/index'
 
-const { updateCenterPoint, updateMapBounds, updateCurrentMart, updateSortedMartList, updateMapZoom, showMartZoomLimit } = useMapStore()
-const { mapCenterPoint, currentMart, martListInMap, mapZoom } = storeToRefs(useMapStore())
+const { getMartListInMap, updateCenterPoint, updateMapBounds, updateCurrentMart, updateSortedMartList, updateMapZoom, showMartZoomLimit } = useMapStore()
+const { mapCenterPoint, currentMart, mapZoom } = storeToRefs(useMapStore())
 
 const mapEl = ref<HTMLElement | null>(null)
 const map = shallowRef<L.Map | null>(null)
@@ -70,7 +70,8 @@ const sortedMartList = computed<MartDataType[]>(() => {
   const theMap = map.value
   if (theMap == null) return []
 
-  return martListInMap.value.sort((a, b) => {
+  const martListInMap = getMartListInMap()
+  return martListInMap.sort((a, b) => {
     return theMap.distance([mapCenterPoint.value.lat, mapCenterPoint.value.lng], [a.lat, a.lng]) - theMap.distance([mapCenterPoint.value.lat, mapCenterPoint.value.lng], [b.lat, b.lng])
   })
 })
@@ -98,7 +99,8 @@ onMounted(() => {
     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map.value)
   
-  setMarkers(martListInMap.value)
+  const martListInMap = getMartListInMap()
+  setMarkers(martListInMap)
 
   // 註冊監聽地圖縮放
   map.value.on('zoom', () => {
@@ -108,7 +110,12 @@ onMounted(() => {
     const bounds = getMapBound()
     if (bounds == null) return
     updateMapBounds(bounds)
-    setMarkers(martListInMap.value)
+    
+  })
+
+  map.value.on('zoomend', () => {
+    const martListInMap = getMartListInMap()
+    setMarkers(martListInMap)
   })
 
   // 註冊監聽地圖拖動
@@ -116,12 +123,13 @@ onMounted(() => {
     const bounds = getMapBound()
     if (bounds == null) return
     updateMapBounds(bounds)
-    setMarkers(martListInMap.value)
+    
   })
-})
 
-watch(martListInMap, () => {
-  setMarkers(martListInMap.value)
+  map.value.on('moveend', () => {
+    const martListInMap = getMartListInMap()
+    setMarkers(martListInMap)
+  })
 })
 
 watch(mapCenterPoint, () => {

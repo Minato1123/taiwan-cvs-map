@@ -3,14 +3,41 @@ import { useServiceStore } from '../stores/service'
 import { useMapStore } from '../stores/map'
 import type { ServiceType } from '../types/index'
 const { serviceMap } = useServiceStore()
-const { updateSelectedServiceList } = useMapStore()
+const { updateSelectedServiceList, searchByAddress, searchByMartName, searchByMartNumber } = useMapStore()
 
-const searchPicked = ref<'address' | 'mart-name' | 'mart-no'>('address')
+const searchPicked = ref<'address' | 'mart-name' | 'mart-number'>('address')
+
+const addressInput = ref<string>('')
+const addressInputEl = ref<HTMLElement | null>(null)
+const martNameInput = ref<string>('')
+const martNameInputEl = ref<HTMLElement | null>(null)
+
+const martNumberInput = ref<string>('')
+const martNumberInputEl = ref<HTMLElement | null>(null)
+
+function submitInput(e: KeyboardEvent) {
+  if (e.isComposing) return
+  
+  console.log(searchPicked.value)
+  if (searchPicked.value === 'address')
+    searchByAddress(addressInput.value)
+  else if (searchPicked.value === 'mart-name')
+    searchByMartName(martNameInput.value)
+  else if (searchPicked.value === 'mart-number')
+    searchByMartNumber(martNumberInput.value)
+}
+
+const isFocus = ref<boolean>(false)
+watch(isFocus, () => {
+  if (isFocus.value === false) return
+})
+
 const checkedServiceList = ref<ServiceType[]>([])
 
 watch(checkedServiceList, () => {
   updateSelectedServiceList(checkedServiceList.value)
 })
+
 </script>
 
 <template>
@@ -20,32 +47,32 @@ watch(checkedServiceList, () => {
         搜尋條件
       </div>
       <div class="menu-search-content">
-        <label for="address" class="menu-label">
+        <label for="address" class="menu-label" @click="addressInputEl?.focus">
           <input name="search" id="address" type="radio" value="address" v-model="searchPicked">
           依地址周邊查詢
         </label>
         <div class="search-block" :class="{
           'hide': searchPicked !== 'address'
         }">
-          <input class="search-input" type="text" placeholder="縣市／區域／街道">
+          <input @focus="isFocus = true" @blur="isFocus = false" ref="addressInputEl" class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" @keyup.enter="submitInput">
         </div>
-        <label for="mart-name" class="menu-label">
+        <label for="mart-name" class="menu-label" @click="martNameInputEl?.focus">
           <input name="search" id="mart-name" type="radio" value="mart-name" v-model="searchPicked">
           依店名查詢
         </label>
         <div class="search-block" :class="{
           'hide': searchPicked !== 'mart-name'
         }">
-          <input class="search-input" type="text">
+          <input ref="martNameInputEl" class="search-input" type="text" v-model="martNameInput" @keyup.enter="submitInput">
         </div>
-        <label for="mart-no" class="menu-label">
-          <input name="search" id="mart-no" type="radio" value="mart-no" v-model="searchPicked">
+        <label for="mart-number" class="menu-label" @click="martNumberInputEl?.focus">
+          <input name="search" id="mart-number" type="radio" value="mart-number" v-model="searchPicked">
           依店號查詢
         </label>
         <div class="search-block" :class="{
-          'hide': searchPicked !== 'mart-no'
+          'hide': searchPicked !== 'mart-number'
         }">
-          <input class="search-input" type="text" placeholder="共 6 碼">
+          <input ref="martNumberInputEl" class="search-input" type="text" placeholder="共 6 碼" v-model="martNumberInput" @keyup.enter="submitInput">
         </div>
       </div>
     </div>

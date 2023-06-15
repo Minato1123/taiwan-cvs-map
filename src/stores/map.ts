@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
 import type { MartDataType, PointType, BoundType, ServiceType } from '../types/index'
 import data from '../assets/json/data.json'
+import type { MaybeRef } from 'vue'
 
 
 export const useMapStore = defineStore('map', () => {
@@ -31,7 +32,8 @@ export const useMapStore = defineStore('map', () => {
   }
 
   const showMartZoomLimit = 14
-  const martListInMap = computed(() => {
+
+  function getMartListInMap() {
     const bounds = mapBounds.value
     if (bounds == null || mapZoom.value < showMartZoomLimit)
       return []
@@ -52,7 +54,7 @@ export const useMapStore = defineStore('map', () => {
         return mart.service.includes(service)
       })
     })
-  })
+  }
 
   function updateSelectedServiceList(selectedList: ServiceType[]) {
     selectedServiceList.value = selectedList
@@ -68,21 +70,42 @@ export const useMapStore = defineStore('map', () => {
     mapBounds.value = bounds
   }
 
+  function searchByAddress(address: MaybeRef<string>) {
+    console.log(unref(address))
+  }
+
+  function searchByMartName(name: MaybeRef<string>) {
+    const theMart = allMartList.find((mart) => mart.name.includes(unref(name)))
+    console.log(theMart, name)
+    if (theMart == null) return
+    currentMart.value = theMart
+    updateCenterPoint(theMart.lat, theMart.lng)
+  }
+
+  function searchByMartNumber(number: MaybeRef<string>) {
+    const theMart = allMartList.find((mart) => mart.pkey.startsWith(unref(number)))
+    if (theMart == null) return
+    currentMart.value = theMart
+    updateCenterPoint(theMart.lat, theMart.lng)
+  }
   
   return { 
     mapCenterPoint,
     mapBounds,
     currentMart,
     makerPointList,
-    martListInMap,
     sortedMartList,
     mapZoom,
     showMartZoomLimit,
+    getMartListInMap,
     updateMapZoom,
     updateSelectedServiceList,
     updateCenterPoint,
     updateMapBounds,
     updateCurrentMart,
-    updateSortedMartList
+    updateSortedMartList,
+    searchByAddress,
+    searchByMartName,
+    searchByMartNumber
   }
 })
