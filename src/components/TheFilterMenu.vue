@@ -1,9 +1,10 @@
 <script setup lang="ts">
+import { OnClickOutside } from '@vueuse/components'
 import { useServiceStore } from '../stores/service'
 import { useMapStore } from '../stores/map'
-import type { ServiceType } from '../types/index'
+import type { ServiceType, MartDataType } from '../types/index'
 const { serviceMap } = useServiceStore()
-const { updateSelectedServiceList, searchByAddress, searchByMartName, searchByMartNumber } = useMapStore()
+const { updateSelectedServiceList, searchByAddress, getRecommendMartList, searchByMartName, searchByMartNumber } = useMapStore()
 
 const searchPicked = ref<'address' | 'mart-name' | 'mart-number'>('address')
 
@@ -14,23 +15,35 @@ const martNameInputEl = ref<HTMLElement | null>(null)
 
 const martNumberInput = ref<string>('')
 const martNumberInputEl = ref<HTMLElement | null>(null)
+const recommendMartList = ref<MartDataType[]>()
 
 function submitInput(e: KeyboardEvent) {
   if (e.isComposing) return
   
-  console.log(searchPicked.value)
-  if (searchPicked.value === 'address')
-    searchByAddress(addressInput.value)
-  else if (searchPicked.value === 'mart-name')
+  if (searchPicked.value === 'mart-name')
     searchByMartName(martNameInput.value)
   else if (searchPicked.value === 'mart-number')
     searchByMartNumber(martNumberInput.value)
 }
 
+function submitMart(mart: MartDataType) {
+  searchByAddress(mart)
+  isFocus.value = false
+}
+
+
 const isFocus = ref<boolean>(false)
-watch(isFocus, () => {
-  if (isFocus.value === false) return
+const isTyping = ref<boolean>(false)
+watch(addressInput, () => {
+  if (addressInput.value.trim() === '') {
+    isTyping.value = false
+    return
+  }
+
+  isTyping.value = true
+  recommendMartList.value = getRecommendMartList(addressInput.value)
 })
+
 
 const checkedServiceList = ref<ServiceType[]>([])
 
@@ -54,7 +67,23 @@ watch(checkedServiceList, () => {
         <div class="search-block" :class="{
           'hide': searchPicked !== 'address'
         }">
-          <input @focus="isFocus = true" @blur="isFocus = false" ref="addressInputEl" class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" @keyup.enter="submitInput">
+          <OnClickOutside @trigger="isFocus = false">
+            <VDropdown :triggers="[]" :shown="isTyping && isFocus && recommendMartList && recommendMartList.length > 0" :auto-hide="false">
+              <input ref="addressInputEl" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput">
+              <template #popper>
+                <ul class="search-recommend-list">
+                  <li class="recommend-item" v-for="mart in recommendMartList" :key="`recommend-mart-${mart.pkey}`">
+                    <button class="item" @click="submitMart(mart)" @keyup.enter="submitMart(mart)">
+                      <div class="recommend-mart-name">
+                        {{ mart.name }}
+                      </div>
+                      <div class="recommend-mart-address" v-html="mart.address" />
+                    </button>
+                  </li>
+                </ul>
+              </template>
+            </VDropdown>
+          </OnClickOutside>
         </div>
         <label for="mart-name" class="menu-label" @click="martNameInputEl?.focus">
           <input name="search" id="mart-name" type="radio" value="mart-name" v-model="searchPicked">
@@ -136,6 +165,7 @@ watch(checkedServiceList, () => {
           padding: 0.1rem 0 0.1rem 0.3rem;
           font-size: 1rem;
           outline: none;
+
         }
       }
     }
@@ -162,4 +192,54 @@ watch(checkedServiceList, () => {
     }
   }
 }
+</style>
+
+<style>
+.v-popper__arrow-container {
+  display: none;
+}
+
+.v-popper__popper > .v-popper__wrapper > .v-popper__inner {
+  border: 0.1rem solid rgba(var(--match-color), 0.9);
+  width: 14rem;
+}
+
+.search-recommend-list {
+  padding: 0;
+  margin: 0;
+  max-height: 14rem;
+}
+
+.recommend-item {
+  width: 100%;
+  list-style-type: none;
+  border-bottom: 0.1rem solid rgba(var(--match-color), 0.9);
+}
+
+.item {
+  width: 100%;
+  padding: 0.5rem;
+  outline: none;
+  border: none;
+  background: transparent;
+  transition: all 0.3s;
+  text-align: left;
+}
+
+.item:hover {
+  background-color: rgba(var(--match-color), 0.05);
+  cursor: pointer;
+}
+
+.recommend-mart-address {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+.search-keyword {
+  color: rgb(var(--match-color));
+  font-weight: 500;
+}
+
 </style>

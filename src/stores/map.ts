@@ -1,4 +1,5 @@
 import { defineStore } from 'pinia'
+import { Fzf } from 'fzf'
 import type { MartDataType, PointType, BoundType, ServiceType } from '../types/index'
 import data from '../assets/json/data.json'
 import type { MaybeRef } from 'vue'
@@ -70,13 +71,30 @@ export const useMapStore = defineStore('map', () => {
     mapBounds.value = bounds
   }
 
-  function searchByAddress(address: MaybeRef<string>) {
-    console.log(unref(address))
+  function searchByAddress(mart: MartDataType) {
+    currentMart.value = mart
+    updateCenterPoint(mart.lat, mart.lng)
+  }
+
+
+  function getRecommendMartList(address: MaybeRef<string>): MartDataType[] {
+    address = unref(address).replace(' ', '')
+    const fzf = new Fzf(allMartList, {
+      selector: (mart) => mart.address,
+      limit: 10
+    })
+    const recommendList = fzf.find(address)
+    return recommendList.map((item) => {
+      const theItem = {...item.item}
+      Array.from(item.positions).forEach((index) => {
+        theItem.address = theItem.address.replace(theItem.address[index], `<span class="search-keyword">${theItem.address[index]}</span>`)
+      })
+      return theItem
+    })
   }
 
   function searchByMartName(name: MaybeRef<string>) {
     const theMart = allMartList.find((mart) => mart.name.includes(unref(name)))
-    console.log(theMart, name)
     if (theMart == null) return
     currentMart.value = theMart
     updateCenterPoint(theMart.lat, theMart.lng)
@@ -105,6 +123,7 @@ export const useMapStore = defineStore('map', () => {
     updateCurrentMart,
     updateSortedMartList,
     searchByAddress,
+    getRecommendMartList,
     searchByMartName,
     searchByMartNumber
   }
