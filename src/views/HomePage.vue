@@ -26,6 +26,7 @@ import InfoList from '../components/InfoList.vue'
   width: 100vw;
   min-height: 98vh;
   margin-bottom: 3rem;
+  overflow-x: hidden;
 
   .nav-container {
     width: 100%;
@@ -57,16 +58,11 @@ import InfoList from '../components/InfoList.vue'
   }
 
   .main-container {
-    width: 70%;
     display: flex;
     justify-content: center;
     box-sizing: border-box;
     margin: auto;
     gap: 1rem;
-
-    .menu-container {
-      width: 16rem;
-    }
 
     .mart-container {
       width: 100%;
@@ -83,5 +79,36 @@ import InfoList from '../components/InfoList.vue'
     }
 
   }
+}
+
+@media screen and (min-width: 1271px) {
+  .main-container {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 1270px) {
+  .main-container {
+    width: 90%;
+  }
+}
+
+@media screen and (min-width: 901px) {
+  .menu-container {
+    width: 16rem;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .main-container {
+    width: 100%;
+    flex-direction: column;
+    padding: 0 0.5rem;
+
+    .menu-container {
+      width: 100%;
+    }
+  }
+  
 }
 </style>

@@ -61,8 +61,9 @@ function clickMartInfo(mart: MartDataType) {
       background-color: rgb(var(--main-color));
       color: rgb(var(--white-color));
       font-weight: 500;
-      padding: 0.2rem 0 0.2rem 0.5rem;
+      padding: 0.3rem 0 0.3rem 1rem;
       box-sizing: border-box;
+      border-radius: 1rem;
     }
 
     .none-info {
@@ -117,7 +118,6 @@ function clickMartInfo(mart: MartDataType) {
       }
 
       .item-services {
-        width: 40%;
         .item-service {
           display: inline-block;
           border-radius: 0.4rem;
@@ -126,6 +126,22 @@ function clickMartInfo(mart: MartDataType) {
           color: rgb(var(--main-color));
           margin: 0.2rem;
         }
+      }
+    }
+  }
+
+  @media screen and (min-width: 1011px) {
+    .item-services {
+      width: 40%;
+    }
+  }
+
+  @media screen and (max-width: 1010px) {
+    .info-item {
+      flex-direction: column;
+      gap: 1rem;
+      .item-services {
+        width: 100%;
       }
     }
   }

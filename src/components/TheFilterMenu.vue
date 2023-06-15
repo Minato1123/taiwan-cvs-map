@@ -51,87 +51,117 @@ watch(checkedServiceList, () => {
   updateSelectedServiceList(checkedServiceList.value)
 })
 
+const { width } = useWindowSize()
+const isShowToggle = computed(() => width.value < 901)
+const isOpenMenu = ref(false)
+const isShowMenu = computed(() => width.value >= 901 || isOpenMenu.value === true)
+
 </script>
 
 <template>
-  <div class="menu">
-    <div class="menu-block">
-      <div class="menu-title">
-        搜尋條件
-      </div>
-      <div class="menu-search-content">
-        <label for="address" class="menu-label" @click="addressInputEl?.focus">
-          <input name="search" id="address" type="radio" value="address" v-model="searchPicked">
-          依地址周邊查詢
-        </label>
-        <div class="search-block" :class="{
-          'hide': searchPicked !== 'address'
-        }">
-          <OnClickOutside @trigger="isFocus = false">
-            <VDropdown :triggers="[]" :shown="isTyping && isFocus && recommendMartList && recommendMartList.length > 0" :auto-hide="false">
-              <input ref="addressInputEl" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" autocomplete="nope">
-              <template #popper>
-                <ul class="search-recommend-list">
-                  <li class="recommend-item" v-for="mart in recommendMartList" :key="`recommend-mart-${mart.pkey}`">
-                    <button class="item" @click="submitMart(mart)" @keyup.enter="submitMart(mart)">
-                      <div class="recommend-mart-name">
-                        {{ mart.name }}
-                      </div>
-                      <div class="recommend-mart-address" v-html="mart.address" />
-                    </button>
-                  </li>
-                </ul>
-              </template>
-            </VDropdown>
-          </OnClickOutside>
-        </div>
-        <label for="mart-name" class="menu-label" @click="martNameInputEl?.focus">
-          <input name="search" id="mart-name" type="radio" value="mart-name" v-model="searchPicked">
-          依店名查詢
-        </label>
-        <div class="search-block" :class="{
-          'hide': searchPicked !== 'mart-name'
-        }">
-          <input ref="martNameInputEl" class="search-input" type="text" v-model="martNameInput" @keyup.enter="submitInput">
-        </div>
-        <label for="mart-number" class="menu-label" @click="martNumberInputEl?.focus">
-          <input name="search" id="mart-number" type="radio" value="mart-number" v-model="searchPicked">
-          依店號查詢
-        </label>
-        <div class="search-block" :class="{
-          'hide': searchPicked !== 'mart-number'
-        }">
-          <input ref="martNumberInputEl" class="search-input" type="text" placeholder="共 6 碼" v-model="martNumberInput" @keyup.enter="submitInput">
-        </div>
-      </div>
+  <div class="menu-outer">
+    <div v-if="isShowToggle" class="mobile-menu-toggle">
+      <button class="toggle-btn" @click="isOpenMenu = !isOpenMenu">
+        {{ isOpenMenu === true ? '關閉' : '開啟' }} 搜尋條件
+      </button>
     </div>
-    <div class="menu-block">
-      <div class="menu-title">
-        服務項目篩選
+    <Transition>
+      <div v-if="isShowMenu" class="menu">
+        <div class="menu-block">
+          <div class="menu-title">
+            搜尋條件
+          </div>
+          <div class="menu-search-content">
+            <label for="address" class="menu-label" @click="addressInputEl?.focus">
+              <input name="search" id="address" type="radio" value="address" v-model="searchPicked">
+              依地址周邊查詢
+            </label>
+            <div class="search-block" :class="{
+              'hide': searchPicked !== 'address'
+            }">
+              <OnClickOutside @trigger="isFocus = false">
+                <VDropdown placement="bottom-start" :preventOverflow="false" :triggers="[]" :shown="isTyping && isFocus && recommendMartList && recommendMartList.length > 0" :auto-hide="false">
+                  <input ref="addressInputEl" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" autocomplete="nope">
+                  <template #popper>
+                    <ul class="search-recommend-list">
+                      <li class="recommend-item" v-for="mart in recommendMartList" :key="`recommend-mart-${mart.pkey}`">
+                        <button class="item" @click="submitMart(mart)" @keyup.enter="submitMart(mart)">
+                          <div class="recommend-mart-name">
+                            {{ mart.name }}
+                          </div>
+                          <div class="recommend-mart-address" v-html="mart.address" />
+                        </button>
+                      </li>
+                    </ul>
+                  </template>
+                </VDropdown>
+              </OnClickOutside>
+            </div>
+            <label for="mart-name" class="menu-label" @click="martNameInputEl?.focus">
+              <input name="search" id="mart-name" type="radio" value="mart-name" v-model="searchPicked">
+              依店名查詢
+            </label>
+            <div class="search-block" :class="{
+              'hide': searchPicked !== 'mart-name'
+            }">
+              <input ref="martNameInputEl" class="search-input" type="text" v-model="martNameInput" @keyup.enter="submitInput">
+            </div>
+            <label for="mart-number" class="menu-label" @click="martNumberInputEl?.focus">
+              <input name="search" id="mart-number" type="radio" value="mart-number" v-model="searchPicked">
+              依店號查詢
+            </label>
+            <div class="search-block" :class="{
+              'hide': searchPicked !== 'mart-number'
+            }">
+              <input ref="martNumberInputEl" class="search-input" type="text" placeholder="共 6 碼" v-model="martNumberInput" @keyup.enter="submitInput">
+            </div>
+          </div>
+        </div>
+        <div class="menu-block">
+          <div class="menu-title">
+            服務項目篩選
+          </div>
+          <div class="menu-content">
+            <label class="menu-item" v-for="service of (Object.keys(serviceMap) as ServiceType[])" :key="service" :for="service">
+              <input class="menu-item-input" :id="service" type="checkbox" :value="service" v-model="checkedServiceList">
+              {{ serviceMap[service] }}
+            </label>
+          </div>
+        </div>
       </div>
-      <div class="menu-content">
-        <label class="menu-item" v-for="service of (Object.keys(serviceMap) as ServiceType[])" :key="service" :for="service">
-          <input class="menu-item-input" :id="service" type="checkbox" :value="service" v-model="checkedServiceList">
-          {{ serviceMap[service] }}
-        </label>
-      </div>
-    </div>
-
-
+    </Transition>
   </div>
 </template>
 
 <style lang="scss" scoped>
-.menu {
-  border-left: 0.2rem solid rgb(var(--match-color));
 
+.mobile-menu-toggle {
+  width: 100%;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: center;
+
+  .toggle-btn {
+    width: 50%;
+    font-weight: 500;
+    color: rgb(var(--white-color));
+    background-color: rgb(var(--match-color));
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    padding: 0.5rem 0;
+    cursor: pointer;
+  }
+}
+.menu {
   .menu-block {
     margin-bottom: 1rem;
 
     .menu-title {
       background-color: rgb(var(--match-color));
       color: rgb(var(--white-color));
-      padding: 0.2rem 0 0.2rem 0.5rem;
+      padding: 0.3rem 0 0.3rem 1rem;
+      border-radius: 1rem;
     }
 
     .menu-search-content {
@@ -192,6 +222,16 @@ watch(checkedServiceList, () => {
     }
   }
 }
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
 </style>
 
 <style>
@@ -240,6 +280,10 @@ watch(checkedServiceList, () => {
 .search-keyword {
   color: rgb(var(--match-color));
   font-weight: 500;
+}
+
+@media screen and (max-width: 900px) {
+  
 }
 
 </style>
