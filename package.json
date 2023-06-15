@@ -11,7 +11,10 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@vueuse/components": "^10.1.2",
+    "@vueuse/core": "^10.1.2",
     "floating-vue": "2.0.0-beta.20",
+    "fzf": "^0.5.2",
     "leaflet": "^1.9.4",
     "normalize.css": "^8.0.1",
     "pinia": "^2.0.36",

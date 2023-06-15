@@ -17,7 +17,8 @@ export default defineConfig({
       imports: [
         'vue',
         'vue-router',
-        'pinia'
+        'pinia',
+        '@vueuse/core',
       ],
       dts: true,
       eslintrc: {
