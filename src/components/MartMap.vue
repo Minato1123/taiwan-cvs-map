@@ -79,6 +79,14 @@ watch(sortedMartList, () => {
   updateSortedMartList(sortedMartList.value)
 })
 
+const { coords } = useGeolocation()
+watchOnce(coords, () => {
+  if (isFinite(coords.value.latitude) && isFinite(coords.value.longitude)) {
+    updateCenterPoint(coords.value.latitude, coords.value.longitude)
+  }
+})
+
+
 onMounted(() => {
   if (mapEl.value == null)
     return
@@ -145,9 +153,6 @@ watch(mapCenterPoint, () => {
 }, {
   deep: true
 })
-
-
-
 
 </script>
 
