@@ -69,7 +69,7 @@ watch(checkedServiceList, () => {
         }">
           <OnClickOutside @trigger="isFocus = false">
             <VDropdown :triggers="[]" :shown="isTyping && isFocus && recommendMartList && recommendMartList.length > 0" :auto-hide="false">
-              <input ref="addressInputEl" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput">
+              <input ref="addressInputEl" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" autocomplete="nope">
               <template #popper>
                 <ul class="search-recommend-list">
                   <li class="recommend-item" v-for="mart in recommendMartList" :key="`recommend-mart-${mart.pkey}`">
