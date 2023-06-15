@@ -57,7 +57,6 @@ function setMarkers(martList: MartDataType[]) {
       icon: isTheMart ? theMartIcon : familyMartIcon,
       alt: mart.name,
       title: mart.name,
-      opacity: isTheMart ? 1 : 0.75
     }).addTo(map.value).on('click', () => {
       updateCenterPoint(mart.lat, mart.lng)
       updateCurrentMart(mart)
