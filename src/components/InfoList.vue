@@ -20,7 +20,7 @@ function clickMartInfo(mart: MartDataType) {
 </script>
 
 <template>
-  <div class="info">
+  <div v-auto-animate class="info">
     <div class="info-title">門市資訊</div>
     <div class="none-info" v-if="sortedMartList.length <= 0">
       當前地圖範圍內沒有符合條件的全家門市喔～
