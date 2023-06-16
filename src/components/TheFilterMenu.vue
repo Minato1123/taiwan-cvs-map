@@ -1,10 +1,12 @@
 <script setup lang="ts">
 import { OnClickOutside } from '@vueuse/components'
+import LatLngInputDialog from './LatLngInputDialog.vue'
+import MessageDialog from './MessageDialog.vue'
 import { useServiceStore } from '../stores/service'
 import { useMapStore } from '../stores/map'
 import type { ServiceType, MartDataType } from '../types/index'
 const { serviceMap } = useServiceStore()
-const { updateSelectedServiceList, searchByAddress, getRecommendMartList, searchByMartName, searchByMartNumber } = useMapStore()
+const { updateSelectedServiceList, searchByAddress, getRecommendMartList, searchByMartName, searchByMartNumber, updateCurrentMart, updateCenterPoint } = useMapStore()
 
 const searchPicked = ref<'address' | 'mart-name' | 'mart-number'>('address')
 
@@ -17,13 +19,30 @@ const martNumberInput = ref<string>('')
 const martNumberInputEl = ref<HTMLElement | null>(null)
 const recommendMartList = ref<MartDataType[]>()
 
+const isOpenMessageDialog = ref(false)
 function submitInput(e: KeyboardEvent) {
   if (e.isComposing) return
   
-  if (searchPicked.value === 'mart-name')
-    searchByMartName(martNameInput.value)
-  else if (searchPicked.value === 'mart-number')
-    searchByMartNumber(martNumberInput.value)
+  if (searchPicked.value === 'mart-name') {
+    const mart = searchByMartName(martNameInput.value)
+    if (mart == null) {
+      isOpenMessageDialog.value = true
+      return
+    }
+
+    updateCurrentMart(mart)
+    updateCenterPoint(mart.lat, mart.lng)
+  }
+  else if (searchPicked.value === 'mart-number') {
+    const mart = searchByMartNumber(martNumberInput.value)
+    if (mart == null) {
+      isOpenMessageDialog.value = true
+      return
+    }
+
+    updateCurrentMart(mart)
+    updateCenterPoint(mart.lat, mart.lng)
+  }
 }
 
 function submitMart(mart: MartDataType) {
@@ -55,6 +74,8 @@ const { width } = useWindowSize()
 const isShowToggle = computed(() => width.value < 901)
 const isOpenMenu = ref(false)
 const isShowMenu = computed(() => width.value >= 901 || isOpenMenu.value === true)
+
+const isOpenLatLngInputDialog = ref(false)
 
 </script>
 
@@ -92,6 +113,11 @@ const isShowMenu = computed(() => width.value >= 901 || isOpenMenu.value === tru
                           <div class="recommend-mart-address" v-html="mart.address" />
                         </button>
                       </li>
+                      <li class="recommend-item">
+                        <button class="item" @click="isOpenLatLngInputDialog = true">
+                          根據此地址搜尋附近的全家
+                        </button>
+                      </li>
                     </ul>
                   </template>
                 </VDropdown>
@@ -113,7 +139,7 @@ const isShowMenu = computed(() => width.value >= 901 || isOpenMenu.value === tru
             <div class="search-block" :class="{
               'hide': searchPicked !== 'mart-number'
             }">
-              <input ref="martNumberInputEl" class="search-input" type="text" placeholder="共 6 碼" v-model="martNumberInput" @keyup.enter="submitInput">
+              <input ref="martNumberInputEl" class="search-input" type="text" maxlength="6" placeholder="共 6 碼" v-model="martNumberInput" @keyup.enter="submitInput">
             </div>
           </div>
         </div>
@@ -130,6 +156,16 @@ const isShowMenu = computed(() => width.value >= 901 || isOpenMenu.value === tru
         </div>
       </div>
     </Transition>
+    <Teleport to="body">
+      <Transition>
+        <LatLngInputDialog v-if="isOpenLatLngInputDialog" :address="addressInput" @closeLatLngInputDialog="isOpenLatLngInputDialog = false" />
+      </Transition>
+    </Teleport>
+    <Teleport to="body">
+      <Transition>
+        <MessageDialog v-if="isOpenMessageDialog" :searchMethod="searchPicked" @closeMessageDialog="isOpenMessageDialog = false" />
+      </Transition>
+    </Teleport>
   </div>
 </template>
 

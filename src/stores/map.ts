@@ -93,18 +93,16 @@ export const useMapStore = defineStore('map', () => {
     })
   }
 
-  function searchByMartName(name: MaybeRef<string>) {
+  function searchByMartName(name: MaybeRef<string>): MartDataType | null {
     const theMart = allMartList.find((mart) => mart.name.includes(unref(name)))
-    if (theMart == null) return
-    currentMart.value = theMart
-    updateCenterPoint(theMart.lat, theMart.lng)
+    if (theMart == null) return null
+    return theMart
   }
 
-  function searchByMartNumber(number: MaybeRef<string>) {
+  function searchByMartNumber(number: MaybeRef<string>): MartDataType | null {
     const theMart = allMartList.find((mart) => mart.pkey.startsWith(unref(number)))
-    if (theMart == null) return
-    currentMart.value = theMart
-    updateCenterPoint(theMart.lat, theMart.lng)
+    if (theMart == null) return null
+    return theMart
   }
   
   return { 
