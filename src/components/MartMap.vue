@@ -79,10 +79,12 @@ watch(sortedMartList, () => {
   updateSortedMartList(sortedMartList.value)
 })
 
+// 獲取 GPS 位置
 const { coords } = useGeolocation()
 watchOnce(coords, () => {
   if (isFinite(coords.value.latitude) && isFinite(coords.value.longitude)) {
-    updateCenterPoint(coords.value.latitude, coords.value.longitude)
+    if (map.value == null) return
+    map.value.panTo([coords.value.latitude, coords.value.longitude])
   }
 })
 
