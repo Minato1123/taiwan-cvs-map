@@ -112,10 +112,13 @@ function handleAddressInputKeyBoardEvent(e: KeyboardEvent) {
     } else {
       submitMart(recommendMartList.value[selectedIndex.value])
     }
-    selectedIndex.value = -1
     isFocus.value = false
   }
 }
+
+watch(isFocus, () => {
+  selectedIndex.value = -1
+})
 
 const checkedServiceList = ref<ServiceType[]>([])
 
@@ -408,10 +411,6 @@ const isOpenLatLngInputDialog = ref(false)
   padding: 0.5rem 0;
 }
 
-.item-footer:hover, .item-footer:focus, .active {
-  background-color: rgba(var(--match-color), 0.1);
-  cursor: pointer;
-}
 
 
 .recommend-mart-address {
