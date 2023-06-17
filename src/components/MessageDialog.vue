@@ -36,7 +36,7 @@ const searchName = computed(() => props.searchMethod === 'mart-name' ? '店名' 
     justify-content: center;
     align-items: center;
     z-index: 1000;
-    background-color: rgba(#000, 0.05);
+    background-color: rgba(#000, 0.3);
 
     .message-container {
       width: 100%;

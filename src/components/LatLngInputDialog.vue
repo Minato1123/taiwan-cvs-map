@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { OnClickOutside } from '@vueuse/components'
-import { useMapStore } from '@/stores/map';
 
 defineProps<{
   address: string
@@ -11,11 +10,17 @@ const emit = defineEmits<{
 
 const latlngInput = ref<string>('')
 
-const { updateCenterPoint } = useMapStore()
+const router = useRouter()
 function clickConfirm() {
   if (latlngInput.value.trim() === '') return
   const [lat, lng] = latlngInput.value.split(',')
-  updateCenterPoint(+(lat.trim()), +(lng.trim()))
+  
+  router.push({
+    name: 'home',
+    params: {
+      latlng: `${String(lat.trim()).replace('.', '_')},${String(lng.trim()).replace('.', '_')}`
+    }
+  })
   emit('closeLatLngInputDialog')
 
 }
@@ -36,7 +41,7 @@ function clickCancel() {
           <ol>
             <li>點進此<a class="link-btn" :href="`https://www.google.com/maps/search/${address}`" target="_blank">連結</a></li>
             <li>按著所需位置不放（沒有地標也沒關係）</li>
-            <li>複製上方搜尋框出線的經緯度</li>
+            <li>複製上方搜尋框出現的經緯度</li>
           </ol>
         </div>
         <div>
@@ -71,7 +76,7 @@ function clickCancel() {
     justify-content: center;
     align-items: center;
     z-index: 1000;
-    background-color: rgba(#000, 0.05);
+    background-color: rgba(#000, 0.3);
     .latlng-container {
       width: 100%;
       max-width: 30rem;
