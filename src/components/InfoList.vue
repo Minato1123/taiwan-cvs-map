@@ -3,12 +3,20 @@ import { useMapStore } from '../stores/map'
 import type { MartDataType } from '../types/index'
 import { useServiceStore } from '../stores/service'
 
-const { updateCenterPoint, updateCurrentMart } = useMapStore()
+const { updateCurrentMart } = useMapStore()
 const { sortedMartList } = storeToRefs(useMapStore())
 const { getServiceListByMart } = useServiceStore()
 
+const router = useRouter()
+const route = useRoute()
 function clickMartInfo(mart: MartDataType) {
-  updateCenterPoint(mart.lat, mart.lng)
+  router.push({
+    ...route,
+    params: {
+      latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
+    }
+  })
+
   updateCurrentMart(mart)
   scrollTo({
     top: 0,

@@ -13,6 +13,7 @@ const latlngInput = ref<string>('')
 
 const { updateCenterPoint } = useMapStore()
 function clickConfirm() {
+  if (latlngInput.value.trim() === '') return
   const [lat, lng] = latlngInput.value.split(',')
   updateCenterPoint(+(lat.trim()), +(lng.trim()))
   emit('closeLatLngInputDialog')

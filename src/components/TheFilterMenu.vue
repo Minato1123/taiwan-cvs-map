@@ -5,10 +5,19 @@ import MessageDialog from './MessageDialog.vue'
 import { useServiceStore } from '../stores/service'
 import { useMapStore } from '../stores/map'
 import type { ServiceType, MartDataType } from '../types/index'
+import { useRouter, useRoute } from 'vue-router'
+
+
 const { serviceMap } = useServiceStore()
-const { updateSelectedServiceList, searchByAddress, getRecommendMartList, searchByMartName, searchByMartNumber, updateCurrentMart, updateCenterPoint } = useMapStore()
+const { updateMapZoom, updateSelectedServiceList, getRecommendMartList, searchByMartName, searchByMartNumber, updateCurrentMart } = useMapStore()
 
 const searchPicked = ref<'address' | 'mart-name' | 'mart-number'>('address')
+
+watch(searchPicked, () => {
+  addressInput.value = ''
+  martNameInput.value = ''
+  martNumberInput.value = ''
+})
 
 const addressInput = ref<string>('')
 const addressInputEl = ref<HTMLElement | null>(null)
@@ -31,7 +40,13 @@ function submitInput(e: KeyboardEvent) {
     }
 
     updateCurrentMart(mart)
-    updateCenterPoint(mart.lat, mart.lng)
+    updateMapZoom(17)
+    router.push({
+      name: 'home',
+      params: {
+        latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
+      }
+    })
   }
   else if (searchPicked.value === 'mart-number') {
     const mart = searchByMartNumber(martNumberInput.value)
@@ -41,32 +56,101 @@ function submitInput(e: KeyboardEvent) {
     }
 
     updateCurrentMart(mart)
-    updateCenterPoint(mart.lat, mart.lng)
+    updateMapZoom(17)
+    router.push({
+      name: 'home',
+      params: {
+        latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
+      }
+    })
   }
 }
 
 function submitMart(mart: MartDataType) {
-  searchByAddress(mart)
-  isFocus.value = false
+  router.push({
+    name: 'home',
+    params: {
+      latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
+    }
+  })
+  updateCurrentMart(mart)
+  updateMapZoom(17)
 }
 
-
 const isFocus = ref<boolean>(false)
-const isTyping = ref<boolean>(false)
-watch(addressInput, () => {
-  if (addressInput.value.trim() === '') {
-    isTyping.value = false
-    return
-  }
+const isTyping = computed<boolean>(() => addressInput.value.trim() !== '')
 
-  isTyping.value = true
+watch(addressInput, () => {
+  if (addressInput.value.trim() === '') return
   recommendMartList.value = getRecommendMartList(addressInput.value)
 })
 
+const recommendListEl = ref<HTMLElement | null>(null)
+  const { y: recommendListElY } = useScroll(recommendListEl, {
+    behavior: 'smooth'
+  })
+const selectedIndex = ref(-1)
+function handleAddressInputKeyBoardEvent(e: KeyboardEvent) {
+  isFocus.value = true
+  if (e.isComposing) return
+  if (!isFocus.value || !isTyping.value) return
+  if (recommendMartList.value == null || recommendListEl.value == null) return
+
+  if (e.key === 'ArrowUp') {
+    if (selectedIndex.value <= 0) return
+    selectedIndex.value -=1
+    recommendListElY.value = ([...recommendListEl.value.children][selectedIndex.value] as HTMLElement).offsetTop - 20
+    
+  } else if (e.key === 'ArrowDown') {
+    if (selectedIndex.value >= recommendMartList.value.length) return
+    selectedIndex.value += 1
+    recommendListElY.value = ([...recommendListEl.value.children][selectedIndex.value] as HTMLElement).offsetTop - 20
+  } else if (e.key === 'Enter') {
+    if (selectedIndex.value === recommendMartList.value.length) {
+      isOpenLatLngInputDialog.value = true
+    } else {
+      submitMart(recommendMartList.value[selectedIndex.value])
+    }
+    selectedIndex.value = -1
+    isFocus.value = false
+  }
+}
 
 const checkedServiceList = ref<ServiceType[]>([])
 
+const router = useRouter()
+const route = useRoute()
+const checkedServiceString = computed(() => (route.query.services as string))
+
+watch(checkedServiceString, () => {
+  if (checkedServiceString.value == null) {
+    checkedServiceList.value = []
+    return
+  }
+  checkedServiceList.value = checkedServiceString.value.split(',') as ServiceType[]
+}, {
+  immediate: true
+})
+
 watch(checkedServiceList, () => {
+  if (checkedServiceList.value.length > 0) {
+    router.push({
+      name: 'home',
+      params: {
+        latlng: route.params.latlng
+      },
+      query: {
+        services: checkedServiceList.value.join(',')
+      }
+    })
+  } else {
+    router.push({
+      name: 'home',
+      params: {
+        latlng: route.params.latlng
+      }
+    })
+  }
   updateSelectedServiceList(checkedServiceList.value)
 })
 
@@ -101,12 +185,14 @@ const isOpenLatLngInputDialog = ref(false)
               'hide': searchPicked !== 'address'
             }">
               <OnClickOutside @trigger="isFocus = false">
-                <VDropdown placement="bottom-start" :preventOverflow="false" :triggers="[]" :shown="isTyping && isFocus && recommendMartList && recommendMartList.length > 0" :auto-hide="false">
-                  <input ref="addressInputEl" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" autocomplete="nope">
+                <VDropdown placement="bottom-start" :preventOverflow="false" :triggers="[]" :shown="isTyping && isFocus" :auto-hide="false">
+                  <input ref="addressInputEl" @click="isFocus = true" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" autocomplete="nope" @keydown="handleAddressInputKeyBoardEvent">
                   <template #popper>
-                    <ul class="search-recommend-list">
-                      <li class="recommend-item" v-for="mart in recommendMartList" :key="`recommend-mart-${mart.pkey}`">
-                        <button class="item" @click="submitMart(mart)" @keyup.enter="submitMart(mart)">
+                    <ul class="search-recommend-list" ref="recommendListEl">
+                      <li class="recommend-item" v-for="(mart, i) in recommendMartList" :key="`recommend-mart-${mart.pkey}`">
+                        <button class="item" :class="{
+                          'active': i === selectedIndex
+                        }" @click="submitMart(mart)">
                           <div class="recommend-mart-name">
                             {{ mart.name }}
                           </div>
@@ -114,8 +200,13 @@ const isOpenLatLngInputDialog = ref(false)
                         </button>
                       </li>
                       <li class="recommend-item">
-                        <button class="item" @click="isOpenLatLngInputDialog = true">
-                          根據此地址搜尋附近的全家
+                        <button class="item" :class="{
+                          'active': recommendMartList?.length === selectedIndex
+                        }" @click="isOpenLatLngInputDialog = true">
+                          <div class="item-footer">
+                            根據此地址搜尋附近的全家
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24"><path fill="currentColor" fillRule="evenodd" d="M5 20h14v2H5v-2zm7-13c-1.1 0-2 .9-2 2s.9 2 2 2a2 2 0 1 0 0-4zm0-5c3.27 0 7 2.46 7 7.15c0 3.12-2.33 6.41-7 9.85c-4.67-3.44-7-6.73-7-9.85C5 4.46 8.73 2 12 2z"></path></svg>
+                          </div>
                         </button>
                       </li>
                     </ul>
@@ -191,8 +282,6 @@ const isOpenLatLngInputDialog = ref(false)
 }
 .menu {
   .menu-block {
-    margin-bottom: 1rem;
-
     .menu-title {
       background-color: rgb(var(--match-color));
       color: rgb(var(--white-color));
@@ -277,13 +366,14 @@ const isOpenLatLngInputDialog = ref(false)
 
 .v-popper__popper > .v-popper__wrapper > .v-popper__inner {
   border: 0.1rem solid rgba(var(--match-color), 0.9);
-  width: 14rem;
+  width: 16rem;
 }
 
 .search-recommend-list {
   padding: 0;
   margin: 0;
   max-height: 14rem;
+  overflow-y: auto;
 }
 
 .recommend-item {
@@ -302,10 +392,25 @@ const isOpenLatLngInputDialog = ref(false)
   text-align: left;
 }
 
-.item:hover {
-  background-color: rgba(var(--match-color), 0.05);
+.item:hover, .item:focus, .active {
+  background-color: rgba(var(--match-color), 0.1);
   cursor: pointer;
 }
+
+.item-footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0.5rem 0;
+}
+
+.item-footer:hover, .item-footer:focus, .active {
+  background-color: rgba(var(--match-color), 0.1);
+  cursor: pointer;
+}
+
 
 .recommend-mart-address {
   margin-top: 0.5rem;

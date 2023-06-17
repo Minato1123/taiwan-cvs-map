@@ -32,7 +32,7 @@ export const useMapStore = defineStore('map', () => {
     mapZoom.value = zoom
   }
 
-  const showMartZoomLimit = 14
+  const showMartZoomLimit = 15
 
   function getMartListInMap() {
     const bounds = mapBounds.value

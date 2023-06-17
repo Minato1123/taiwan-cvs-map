@@ -2,9 +2,9 @@
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { useMapStore } from '../stores/map'
-import type { MartDataType, BoundType } from '../types/index'
+import type { MartDataType, BoundType, PointType } from '../types/index'
 
-const { getMartListInMap, updateCenterPoint, updateMapBounds, updateCurrentMart, updateSortedMartList, updateMapZoom, showMartZoomLimit } = useMapStore()
+const { getMartListInMap, updateMapBounds, updateCurrentMart, updateSortedMartList, updateMapZoom, showMartZoomLimit } = useMapStore()
 const { mapCenterPoint, currentMart, mapZoom } = storeToRefs(useMapStore())
 
 const mapEl = ref<HTMLElement | null>(null)
@@ -58,43 +58,103 @@ function setMarkers(martList: MartDataType[]) {
       alt: mart.name,
       title: mart.name,
     }).addTo(map.value).on('click', () => {
-      updateCenterPoint(mart.lat, mart.lng)
+
+      router.push({
+        ...route,
+        params: {
+          latlng: turnLatLngToParam({lat: mart.lat, lng: mart.lng})
+        }
+      })
+      
       updateCurrentMart(mart)
       updateMapZoom(17)
     })
   })
 }
 
+const router = useRouter()
+const route = useRoute()
+
+const centerPoint = ref<PointType | null>(null)
+
+watch(() => route.params.latlng, () => {
+  if (route.params.latlng === '') {
+      centerPoint.value = {
+      lat: mapCenterPoint.value.lat,
+      lng: mapCenterPoint.value.lng
+    }
+  } else {
+    const latlng = (route.params.latlng as string).split(',')
+    centerPoint.value = {
+      lat: +latlng[0].replace('_', '.'),
+      lng: +latlng[1].replace('_', '.')
+    }
+  }
+  if (map.value == null) return
+  map.value.flyTo(centerPoint.value, mapZoom.value)
+}, {
+  immediate: true
+})
+
 const sortedMartList = computed<MartDataType[]>(() => {
   const theMap = map.value
   if (theMap == null) return []
-
+  
+  const center = centerPoint.value
+  if (center == null) return []
   const martListInMap = getMartListInMap()
   return martListInMap.sort((a, b) => {
-    return theMap.distance([mapCenterPoint.value.lat, mapCenterPoint.value.lng], [a.lat, a.lng]) - theMap.distance([mapCenterPoint.value.lat, mapCenterPoint.value.lng], [b.lat, b.lng])
+    return theMap.distance([center.lat, center.lng], [a.lat, a.lng]) - theMap.distance([center.lat, center.lng], [b.lat, b.lng])
   })
 })
 
 watch(sortedMartList, () => {
   updateSortedMartList(sortedMartList.value)
+
+  const martListInMap = getMartListInMap()
+  setMarkers(martListInMap)
 })
+
+function getCenterPoint() {
+  if (map.value == null) return
+  return map.value.getCenter()
+}
 
 // 獲取 GPS 位置
 const { coords } = useGeolocation()
-watchOnce(coords, () => {
-  if (isFinite(coords.value.latitude) && isFinite(coords.value.longitude)) {
-    if (map.value == null) return
-    map.value.panTo([coords.value.latitude, coords.value.longitude])
-  }
-})
+if (route.params.latlng === '') {
+  watchOnce(coords, () => {
+    if (isFinite(coords.value.latitude) && isFinite(coords.value.longitude)) {
+      if (map.value == null) return
+      map.value.panTo([coords.value.latitude, coords.value.longitude])
+    }
+  })
+}
+
+function turnLatLngToParam({ lat, lng }: {
+  lat: number
+  lng: number
+}) {
+  return `${String(lat).replace('.', '_')},${String(lng).replace('.', '_')}`
+}
 
 
 onMounted(() => {
   if (mapEl.value == null)
     return
 
+  if (centerPoint.value == null) return
+
+
+  router.replace({
+    name: 'home',
+    params: {
+      latlng: turnLatLngToParam(centerPoint.value)
+    }
+  })
+
   map.value = L.map(mapEl.value, {
-    center: mapCenterPoint.value,
+    center: centerPoint.value,
     zoom: mapZoom.value,
     zoomControl: true
   })
@@ -116,15 +176,6 @@ onMounted(() => {
     if (map.value == null) return
 
     updateMapZoom(map.value.getZoom())
-    const bounds = getMapBound()
-    if (bounds == null) return
-    updateMapBounds(bounds)
-    
-  })
-
-  map.value.on('zoomend', () => {
-    const martListInMap = getMartListInMap()
-    setMarkers(martListInMap)
   })
 
   // 註冊監聽地圖拖動
@@ -132,28 +183,23 @@ onMounted(() => {
     const bounds = getMapBound()
     if (bounds == null) return
     updateMapBounds(bounds)
-    
   })
 
   map.value.on('moveend', () => {
     const martListInMap = getMartListInMap()
     setMarkers(martListInMap)
+
+    const center = getCenterPoint()
+    if (center == null) return
+
+    router.push({
+      ...route,
+      params: {
+        latlng: turnLatLngToParam({lat: center.lat, lng: center.lng})
+      }
+    })
+        
   })
-})
-
-watch(mapCenterPoint, () => {
-  if (map.value == null)
-    return
-
-  map.value.flyTo(mapCenterPoint.value, mapZoom.value)
-
-  const bounds = getMapBound()
-  if (bounds == null)
-    return
-
-  updateMapBounds(bounds)
-}, {
-  deep: true
 })
 
 </script>
