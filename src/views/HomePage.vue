@@ -3,12 +3,23 @@ import MartMap from '../components/MartMap.vue'
 import TheFilterMenu from '../components/TheFilterMenu.vue'
 import InfoList from '../components/InfoList.vue'
 
+const route = useRoute()
+const router = useRouter()
+
+function toHome() {
+  router.replace({
+    name: 'home',
+    params: {
+      latlng: route.params.latlng
+    }
+  })
+}
 </script>
 
 <template>
   <div class="outer-container">
     <div class="nav-container">
-      <a class="logo-container" href="/"><img class="nav-icon" src="familymart-icon.svg" alt=""><span class="nav-title">FamilyMart Map</span></a>
+      <a class="logo-container" @click="toHome"><img class="nav-icon" src="familymart-icon.svg" alt=""><span class="nav-title">FamilyMart Map</span></a>
     </div>
     <main class="main-container">
       <TheFilterMenu class="menu-container" />
@@ -43,6 +54,7 @@ import InfoList from '../components/InfoList.vue'
       align-items: center;
       gap: 0.5rem;
       text-decoration: none;
+      cursor: pointer;
 
       .nav-icon {
         height: 1.6rem;
