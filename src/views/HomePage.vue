@@ -114,7 +114,7 @@ const isMobile = computed(() => width.value < 901)
     margin-bottom: 1rem;
   }
   .menu-container {
-    width: 16rem;
+    min-width: 16rem;
   }
 }
 

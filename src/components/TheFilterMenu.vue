@@ -176,7 +176,7 @@ const isOpenLatLngInputDialog = ref(false)
     </div>
     <Transition>
       <div v-if="isShowMenu" class="menu" :class="{
-        'gap-top': isShowMenu
+        'gap-top': isShowToggle && isShowMenu
       }">
         <div class="menu-block">
           <div class="menu-title">
@@ -325,11 +325,13 @@ const isOpenLatLngInputDialog = ref(false)
         }
 
         .search-input {
-          height: 1.2rem;
+          height: 1.5rem;
           padding: 0.1rem 0 0.1rem 0.3rem;
           font-size: 1rem;
           outline: none;
-
+          width: 100%;
+          box-sizing: border-box;
+          
         }
       }
     }
