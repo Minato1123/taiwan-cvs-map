@@ -14,6 +14,9 @@ function toHome() {
     }
   })
 }
+
+const { width } = useWindowSize()
+const isMobile = computed(() => width.value < 901)
 </script>
 
 <template>
@@ -22,9 +25,10 @@ function toHome() {
       <a class="logo-container" @click="toHome"><img class="nav-icon" src="familymart-icon.svg" alt=""><span class="nav-title">FamilyMart Map</span></a>
     </div>
     <main class="main-container">
-      <TheFilterMenu class="menu-container" />
+      <TheFilterMenu v-if="!isMobile" class="menu-container" />
       <div class="mart-container">
         <MartMap class="map-container" />
+        <TheFilterMenu v-if="isMobile" class="menu-container" />
         <InfoList class="info-container" />
       </div>
     </main>
@@ -46,7 +50,6 @@ function toHome() {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 1rem;
 
     .logo-container {
       display: flex;
@@ -78,13 +81,14 @@ function toHome() {
 
     .mart-container {
       width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
       .map-container {
         width: 100%;
-        aspect-ratio: 1.8;
       }
 
       .info-container {
-        margin-top: 1rem;
         width: 100%;
 
       }
@@ -106,12 +110,19 @@ function toHome() {
 }
 
 @media screen and (min-width: 901px) {
+  .nav-container {
+    margin-bottom: 1rem;
+  }
   .menu-container {
     width: 16rem;
   }
 }
 
 @media screen and (max-width: 900px) {
+
+  .nav-container {
+    margin-bottom: 0.5rem;
+  }
   .main-container {
     width: 100%;
     flex-direction: column;
@@ -121,6 +132,21 @@ function toHome() {
       width: 100%;
     }
   }
-  
+}
+
+@media screen and (min-width: 586px) {
+  .main-container {
+    .map-container {
+      aspect-ratio: 1.8;
+    }
+  }
+}
+
+@media screen and (max-width: 585px) {
+  .main-container {
+    .map-container {
+      aspect-ratio: 1.2;
+    }
+  }
 }
 </style>

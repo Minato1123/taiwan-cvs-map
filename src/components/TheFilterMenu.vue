@@ -127,7 +127,6 @@ const route = useRoute()
 const checkedServiceString = computed(() => (route.query.services as string))
 
 watch(checkedServiceString, () => {
-  console.log(checkedServiceString.value)
   if (checkedServiceString.value == null) {
     checkedServiceList.value = []
     return
@@ -176,7 +175,9 @@ const isOpenLatLngInputDialog = ref(false)
       </button>
     </div>
     <Transition>
-      <div v-if="isShowMenu" class="menu">
+      <div v-if="isShowMenu" class="menu" :class="{
+        'gap-top': isShowMenu
+      }">
         <div class="menu-block">
           <div class="menu-title">
             搜尋條件
@@ -269,12 +270,11 @@ const isOpenLatLngInputDialog = ref(false)
 
 .mobile-menu-toggle {
   width: 100%;
-  margin-bottom: 0.5rem;
   display: flex;
   justify-content: center;
 
   .toggle-btn {
-    width: 50%;
+    width: 60%;
     font-weight: 500;
     color: rgb(var(--white-color));
     background-color: rgb(var(--match-color));
@@ -286,6 +286,10 @@ const isOpenLatLngInputDialog = ref(false)
   }
 }
 .menu {
+
+  &.gap-top {
+    margin-top: 0.5rem;
+  }
   .menu-block {
     .menu-title {
       background-color: rgb(var(--match-color));
