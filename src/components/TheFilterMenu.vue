@@ -89,6 +89,7 @@ const recommendListEl = ref<HTMLElement | null>(null)
   const { y: recommendListElY } = useScroll(recommendListEl, {
     behavior: 'smooth'
   })
+
 const selectedIndex = ref(-1)
 function handleAddressInputKeyBoardEvent(e: KeyboardEvent) {
   isFocus.value = true
@@ -123,6 +124,7 @@ const route = useRoute()
 const checkedServiceString = computed(() => (route.query.services as string))
 
 watch(checkedServiceString, () => {
+  console.log(checkedServiceString.value)
   if (checkedServiceString.value == null) {
     checkedServiceList.value = []
     return

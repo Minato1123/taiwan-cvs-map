@@ -8,7 +8,13 @@ import AutoImport from 'unplugin-auto-import/vite'
 export default defineConfig({
   base: '/taiwan-familymart-map/',
   plugins: [
-    vue(),
+    vue({
+      template: {
+        transformAssetUrls: {
+          includeAbsolute: false
+        }
+      }
+    }),
     AutoImport({
       include: [
         /\.[tj]sx?$/, // .ts, .tsx, .js, .jsx

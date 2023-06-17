@@ -26,10 +26,6 @@ function getMapBound(): BoundType | undefined {
 const iconSize = computed<number>(() => mapZoom.value * 1.5)
 const theIconSize = computed<number>(() => mapZoom.value * 2.4)
 
-function getPublicImgSrc(path: string) {
-    return path.replace(/^\//, import.meta.env.BASE_URL)
-  }
-
 const martMarkerList = ref<(L.Marker<any> | undefined)[]>([])
 function setMarkers(martList: MartDataType[]) {
   if (martMarkerList.value != null) {
@@ -44,12 +40,12 @@ function setMarkers(martList: MartDataType[]) {
   
 
   const familyMartIcon = L.icon({
-    iconUrl: getPublicImgSrc('familymart-icon.svg'),
+    iconUrl: 'familymart-icon.svg',
     iconSize: [iconSize.value, iconSize.value],
   })
 
   const theMartIcon = L.icon({
-    iconUrl: getPublicImgSrc('the-mart-icon.svg'),
+    iconUrl: 'the-mart-icon.svg',
     iconSize: [theIconSize.value, theIconSize.value],
   })
   

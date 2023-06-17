@@ -5,7 +5,7 @@ defineEmits<{
   (e: 'closeMessageDialog'): void
 }>()
 const props = defineProps<{
-  searchMethod: 'mart-name' | 'mart-number'
+  searchMethod: 'address' | 'mart-name' | 'mart-number'
 }>()
 
 const searchName = computed(() => props.searchMethod === 'mart-name' ? '店名' : '店號')
