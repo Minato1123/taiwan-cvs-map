@@ -2,14 +2,45 @@
 import { OnClickOutside } from '@vueuse/components'
 import LatLngInputDialog from './LatLngInputDialog.vue'
 import MessageDialog from './MessageDialog.vue'
-import { useServiceStore } from '../stores/service'
-import { useMapStore } from '../stores/map'
-import type { ServiceType, MartDataType } from '../types/index'
-import { useRouter, useRoute } from 'vue-router'
+import type { ServiceType, MartDataType, PointType } from '../types/index'
+import type { MaybeRef } from 'vue'
 
+const props = defineProps<{
+  useMenu: () => {
+    serviceMap: {[x in ServiceType]: string}
+    searchByMartName: (name: string) => MartDataType
+    searchByMartNumber: (number: string) => MartDataType
+    updateCurrentMart: (mart: MartDataType) => void
+    currentLatLng: Ref<PointType | null>
+    updateLatLng: (latlng: PointType, replace?: boolean) => void
+    updateZoom: (zoom: number) => void
+    getRecommendMartList: (address: MaybeRef<string>) => MartDataType[]
+    updateServices: (serviceList: ServiceType[]) => void
+    currentServiceList: Ref<ServiceType[]>
+    pushRouter: (replace?: boolean) => void
+  }
+}>()
 
-const { serviceMap } = useServiceStore()
-const { updateMapZoom, updateSelectedServiceList, getRecommendMartList, searchByMartName, searchByMartNumber, updateCurrentMart } = useMapStore()
+const { 
+  serviceMap,
+  searchByMartName,
+  updateCurrentMart,
+  searchByMartNumber,
+  updateLatLng,
+  updateZoom,
+  updateServices,
+  getRecommendMartList,
+  currentServiceList,
+  pushRouter
+} = props.useMenu()
+
+const useInputDialog = () => {
+  return {
+    updateLatLng,
+    updateZoom,
+    pushRouter
+  }
+}
 
 const searchPicked = ref<'address' | 'mart-name' | 'mart-number'>('address')
 
@@ -40,12 +71,9 @@ function submitInput(e: KeyboardEvent) {
     }
 
     updateCurrentMart(mart)
-    updateMapZoom(17)
-    router.push({
-      name: 'home',
-      params: {
-        latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
-      }
+    updateLatLng({
+      lat: mart.lat,
+      lng: mart.lng
     })
   }
   else if (searchPicked.value === 'mart-number') {
@@ -56,25 +84,24 @@ function submitInput(e: KeyboardEvent) {
     }
 
     updateCurrentMart(mart)
-    updateMapZoom(17)
-    router.push({
-      name: 'home',
-      params: {
-        latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
-      }
+    updateLatLng({
+      lat: mart.lat,
+      lng: mart.lng
     })
+
   }
+  updateZoom(17)
+  pushRouter()
 }
 
 function submitMart(mart: MartDataType) {
-  router.push({
-    name: 'home',
-    params: {
-      latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
-    }
+  updateLatLng({
+    lat: mart.lat,
+    lng: mart.lng
   })
+  updateZoom(17)
   updateCurrentMart(mart)
-  updateMapZoom(17)
+  pushRouter()
 }
 
 const isFocus = ref<boolean>(false)
@@ -122,40 +149,18 @@ watch(isFocus, () => {
 
 const checkedServiceList = ref<ServiceType[]>([])
 
-const router = useRouter()
-const route = useRoute()
-const checkedServiceString = computed(() => (route.query.services as string))
-
-watch(checkedServiceString, () => {
-  if (checkedServiceString.value == null) {
-    checkedServiceList.value = []
-    return
-  }
-  checkedServiceList.value = checkedServiceString.value.split(',') as ServiceType[]
-}, {
-  immediate: true
+watch(checkedServiceList, () => {
+  updateServices(checkedServiceList.value)
+  pushRouter()
 })
 
-watch(checkedServiceList, () => {
-  if (checkedServiceList.value.length > 0) {
-    router.push({
-      name: 'home',
-      params: {
-        latlng: route.params.latlng
-      },
-      query: {
-        services: checkedServiceList.value.join(',')
-      }
-    })
-  } else {
-    router.push({
-      name: 'home',
-      params: {
-        latlng: route.params.latlng
-      }
-    })
-  }
-  updateSelectedServiceList(checkedServiceList.value)
+watch(currentServiceList, () => {
+  if (currentServiceList.value.length > 0)
+    checkedServiceList.value = currentServiceList.value
+  else
+    checkedServiceList.value = []
+}, {
+  immediate: true
 })
 
 const { width } = useWindowSize()
@@ -164,7 +169,6 @@ const isOpenMenu = ref(false)
 const isShowMenu = computed(() => width.value >= 901 || isOpenMenu.value === true)
 
 const isOpenLatLngInputDialog = ref(false)
-
 </script>
 
 <template>
@@ -255,7 +259,7 @@ const isOpenLatLngInputDialog = ref(false)
     </Transition>
     <Teleport to="body">
       <Transition>
-        <LatLngInputDialog v-if="isOpenLatLngInputDialog" :address="addressInput" @closeLatLngInputDialog="isOpenLatLngInputDialog = false" />
+        <LatLngInputDialog v-if="isOpenLatLngInputDialog" :address="addressInput" :useInputDialog="useInputDialog" @closeLatLngInputDialog="isOpenLatLngInputDialog = false" />
       </Transition>
     </Teleport>
     <Teleport to="body">

@@ -1,28 +1,33 @@
 <script setup lang="ts">
+import type { PointType } from '@/types'
 import { OnClickOutside } from '@vueuse/components'
 
-defineProps<{
+const props = defineProps<{
   address: string
+  useInputDialog: () => {
+    updateLatLng: (latlng: PointType) => void
+    updateZoom: (zoom: number) => void
+    pushRouter: (replace?: boolean) => void
+  }
 }>()
 const emit = defineEmits<{
   (e: 'closeLatLngInputDialog'): void
 }>()
 
 const latlngInput = ref<string>('')
+const { updateLatLng, updateZoom, pushRouter } = props.useInputDialog()
 
-const router = useRouter()
 function clickConfirm() {
   if (latlngInput.value.trim() === '') return
   const [lat, lng] = latlngInput.value.split(',')
   
-  router.push({
-    name: 'home',
-    params: {
-      latlng: `${String(lat.trim()).replace('.', '_')},${String(lng.trim()).replace('.', '_')}`
-    }
+  updateLatLng({
+    lat: +lat,
+    lng: +lng
   })
+  updateZoom(16)
+  pushRouter()
   emit('closeLatLngInputDialog')
-
 }
 function clickCancel() {
   emit('closeLatLngInputDialog')

@@ -1,21 +1,33 @@
 <script setup lang="ts">
-import { useMapStore } from '../stores/map'
-import type { MartDataType } from '../types/index'
-import { useServiceStore } from '../stores/service'
+import type { MartDataType, PointType, ServiceType } from '../types/index'
 
-const { updateCurrentMart } = useMapStore()
-const { sortedMartList } = storeToRefs(useMapStore())
-const { getServiceListByMart } = useServiceStore()
+const props = defineProps<{
+  useMartInfo: () => {
+    sortedMartList: Ref<MartDataType[]>
+    updateCurrentMart: (mart: MartDataType) => void
+    updateLatLng: (latlng: PointType) => void
+    updateZoom: (zoom: number) => void
+    getServiceListByMart: (serivce: ServiceType) => string
+    pushRouter: (replace?: boolean) => void
+  }
+}>()
 
-const router = useRouter()
-const route = useRoute()
+const { 
+  sortedMartList,
+  updateCurrentMart,
+  updateLatLng,
+  updateZoom,
+  getServiceListByMart,
+  pushRouter
+} = props.useMartInfo()
+
 function clickMartInfo(mart: MartDataType) {
-  router.push({
-    ...route,
-    params: {
-      latlng: `${String(mart.lat).replace('.', '_')},${String(mart.lng).replace('.', '_')}`
-    }
+  updateLatLng({
+    lat: mart.lat,
+    lng: mart.lng
   })
+  updateZoom(17)
+  pushRouter()
 
   updateCurrentMart(mart)
   scrollTo({
@@ -23,7 +35,6 @@ function clickMartInfo(mart: MartDataType) {
     behavior: 'smooth'
   })
 }
-
 
 </script>
 
@@ -79,7 +90,6 @@ function clickMartInfo(mart: MartDataType) {
       justify-content: center;
       align-items: center;
       min-height: 5rem;
-      font-size: 1.2rem;
       color: rgb(var(--main-color));
       width: 100%;
       box-sizing: border-box;
@@ -151,6 +161,18 @@ function clickMartInfo(mart: MartDataType) {
       .item-services {
         width: 100%;
       }
+    }
+  }
+
+  @media screen and (min-width: 461px) {
+    .none-info {
+      font-size: 1.2rem;
+    }
+  }
+
+  @media screen and (max-width: 460px) {
+    .none-info {
+      font-size: 1rem;
     }
   }
 </style>
