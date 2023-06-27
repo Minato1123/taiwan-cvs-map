@@ -17,18 +17,36 @@ const emit = defineEmits<{
 const latlngInput = ref<string>('')
 const { updateLatLng, updateZoom, pushRouter } = props.useInputDialog()
 
+const errorMessage = ref('')
+
+function checkInputLatlng(latlngStr: string): PointType | null {
+  const [lat, lng] = latlngStr.split(',')
+  if (isNaN(+lat) || isNaN(+lng)) {
+    errorMessage.value = '經緯度格式不對喔！'
+    return null
+  } else if (+lat > 27 || +lat < 21 || +lng > 122 || +lng < 117) {
+    errorMessage.value = '經緯度不正確，只適用於台灣地區喔！'
+    return null
+  } else {
+    errorMessage.value = ''
+    return {
+      lat: +lat,
+      lng: +lng
+    }
+  }
+
+}
+
 function clickConfirm() {
-  if (latlngInput.value.trim() === '') return
-  const [lat, lng] = latlngInput.value.split(',')
+  const resultLatlng = checkInputLatlng(latlngInput.value.trim())
   
-  updateLatLng({
-    lat: +lat,
-    lng: +lng
-  })
+  if (resultLatlng == null) return
+  updateLatLng(resultLatlng)
   updateZoom(16)
   pushRouter()
   emit('closeLatLngInputDialog')
 }
+
 function clickCancel() {
   emit('closeLatLngInputDialog')
 }
@@ -65,7 +83,8 @@ onMounted(() => {
       </div>
       <div class="input-block">
         將內容在此直接貼上
-        <input class="input" type="text" v-model="latlngInput">
+        <input class="input" type="text" v-model="latlngInput" placeholder="25.023293,121.468481">
+        <div class="input-error" v-if="errorMessage !== ''">{{ errorMessage }}</div>
       </div>
       <div class="btns-block">
         <button class="btn-cancel" @click="clickCancel">取消</button>
@@ -139,6 +158,15 @@ onMounted(() => {
           line-height: 1.5rem;
           box-sizing: border-box;
           padding: 0.3rem;
+
+          &::placeholder {
+            opacity: 0.45;
+          }
+        }
+
+        .input-error {
+          color: red;
+          font-size: 0.9rem;
         }
       }
 
