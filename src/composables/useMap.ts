@@ -147,7 +147,6 @@ export function useMap({
     })
 
     if (currentLatLng.value == null) {
-      console.log('123')
       moveToGpsLatlng()
     }
 
