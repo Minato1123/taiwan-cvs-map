@@ -169,6 +169,7 @@ const isOpenMenu = ref(false)
 const isShowMenu = computed(() => width.value >= 901 || isOpenMenu.value === true)
 
 const isOpenLatLngInputDialog = ref(false)
+
 </script>
 
 <template>

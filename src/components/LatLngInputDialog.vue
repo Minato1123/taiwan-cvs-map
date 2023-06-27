@@ -32,6 +32,11 @@ function clickConfirm() {
 function clickCancel() {
   emit('closeLatLngInputDialog')
 }
+
+const isBackgroundLocked = useScrollLock(window.document.body)
+onMounted(() => {
+  isBackgroundLocked.value = true
+})
 </script>
 
 <template>
@@ -74,7 +79,7 @@ function clickCancel() {
   .mask {
     width: 100%;
     height: 100%;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     display: flex;
