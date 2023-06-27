@@ -14,11 +14,21 @@ export function useRouterUrl() {
     return `${String(lat).replace('.', '_')},${String(lng).replace('.', '_')}`
   }
 
-  function turnParamToLatLng(str: MaybeRef<string>): PointType {
-    const latlng = unref(str).split(',')
+  function turnParamToLatLng(str: MaybeRef<string>): PointType | null {
+    const latlngList = unref(str).split(',')
+
+    if (latlngList.length !== 2) return null
+    const latStr = latlngList[0].replace('_', '.').trim()
+    const lngStr = latlngList[1].replace('_', '.').trim()
+
+    const lat = +latStr
+    const lng = +lngStr
+    if (isNaN(lat) || isNaN(lng)) return null
+    if (lat > 27 || lat < 21 || lng < 117 || lng > 122) return null
+    
     return {
-      lat: +latlng[0].replace('_', '.').trim(),
-      lng: +latlng[1].replace('_', '.').trim()
+      lat,
+      lng
     }
   }
 
