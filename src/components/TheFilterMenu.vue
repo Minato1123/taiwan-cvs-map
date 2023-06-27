@@ -8,8 +8,8 @@ import type { MaybeRef } from 'vue'
 const props = defineProps<{
   useMenu: () => {
     serviceMap: {[x in ServiceType]: string}
-    searchByMartName: (name: string) => MartDataType
-    searchByMartNumber: (number: string) => MartDataType
+    searchByMartName: (name: MaybeRef<string>) => MartDataType | null
+    searchByMartNumber: (number: MaybeRef<string>) => MartDataType | null
     updateCurrentMart: (mart: MartDataType) => void
     currentLatLng: Ref<PointType | null>
     updateLatLng: (latlng: PointType, replace?: boolean) => void
