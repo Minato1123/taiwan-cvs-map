@@ -146,7 +146,7 @@ const route = useRoute()
   <div class="outer-container">
     <div class="nav-main-container">
       <div class="nav-container">
-        <a class="logo-container" @click="moveToGpsLatlng"><img class="nav-icon" src="/7-eleven_logo.svg" alt=""><span class="nav-title">7-11 門市地圖</span></a>
+        <a class="logo-container" @click="moveToGpsLatlng"><img class="nav-icon" src="/taiwan-cvs-map/7-eleven_logo.svg" alt=""><span class="nav-title">7-11 門市地圖</span></a>
         <button 
           class="another-map-btn"
           @click="router.push({ name: 'familymart', params: { ...route.params }, query: { zoom: route.query.zoom } })"

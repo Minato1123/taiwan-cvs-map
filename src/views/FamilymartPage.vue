@@ -147,7 +147,7 @@ const route = useRoute()
     <div class="nav-main-container">
       <div class="nav-container">
         <a class="logo-container" @click="moveToGpsLatlng">
-          <img class="nav-icon" src="/familymart-icon.svg" alt="">
+          <img class="nav-icon" src="/taiwan-cvs-map/familymart-icon.svg" alt="">
           <span class="nav-title">全家門市地圖</span>
         </a>
         <button 

@@ -62,12 +62,12 @@ export function useMap({
     }
     
     const familyMartIcon = L.icon({
-      iconUrl: store === '7-11' ? '/7-eleven_logo.svg' : '/familymart-icon.svg',
+      iconUrl: store === '7-11' ? '/taiwan-cvs-map/7-eleven_logo.svg' : '/taiwan-cvs-map/familymart-icon.svg',
       iconSize: [iconSize.value, iconSize.value],
     })
   
     const theMartIcon = L.icon({
-      iconUrl: '/the-mart-icon.svg',
+      iconUrl: '/taiwan-cvs-map/the-mart-icon.svg',
       iconSize: [theIconSize.value, theIconSize.value],
     })
     
