@@ -1,12 +1,12 @@
-# Taiwan FamilyMart Map
+# 台灣超商（7-11、全家）地圖｜Taiwan CVS Map
 
-Demo：https://minato1123.github.io/taiwan-familymart-map/
+Demo：https://minato1123.github.io/taiwan-cvs-map/
 
 ## 介紹
 使用 Figma 規劃網頁設計，配合開源地圖（[openstreetmap](https://www.openstreetmap.org/)）及 Leaflet 實作 SPA 全家門市地圖，並具備 RWD。<br>
 門市資料獲取方式為透過全家官方店舖地圖，撰寫程式碼腳本打 API 獲取並整理。
 
-資料來源與參考：[FamilyMart 全家便利商店](https://www.family.com.tw/Marketing/Map)
+資料來源與參考：[FamilyMart 全家便利商店](https://www.family.com.tw/Marketing/Map)、[7-11 電子地圖](https://emap.pcsc.com.tw/)
 
 ## 動機
 全家的霜淇淋越來越出名，大多人想知道附近有哪些門市有販賣「單口味」或是「雙口味」的霜淇淋等，都需要透過全家官方提供的店舖地圖來查詢。<br>
@@ -53,3 +53,6 @@ Demo：https://minato1123.github.io/taiwan-familymart-map/
 5. [floating-vue](https://floating-vue.starpad.dev/)
 6. [ofetch](https://github.com/unjs/ofetch)
 7. [tsx](https://github.com/esbuild-kit/tsx)
+
+## Change Log
+- 2024/05：新增 7-11 門市地圖、顯示資料最後更新時間
