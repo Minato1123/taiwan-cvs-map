@@ -7,7 +7,7 @@ export function useRouterUrl() {
   const route = useRoute()
   const router = useRouter()
   const theRoute = ref<RouteLocationPathRaw | RouteLocationNamedRaw>({
-    ...route
+    ...route,
   })
 
   function turnLatLngToParam({ lat, lng }: PointType) {

@@ -200,7 +200,7 @@ const isOpenLatLngInputDialog = ref(false)
                   <input ref="addressInputEl" @click="isFocus = true" @focus="isFocus = true"  class="search-input" type="text" placeholder="縣市／區域／街道" v-model="addressInput" autocomplete="nope" @keydown="handleAddressInputKeyBoardEvent">
                   <template #popper>
                     <ul class="search-recommend-list" ref="recommendListEl">
-                      <li class="recommend-item" v-for="(mart, i) in recommendMartList" :key="`recommend-mart-${mart.pkey}`">
+                      <li class="recommend-item" v-for="(mart, i) in recommendMartList" :key="`recommend-mart-${mart.id}`">
                         <button class="item" :class="{
                           'active': i === selectedIndex
                         }" @click="submitMart(mart)">
@@ -215,7 +215,7 @@ const isOpenLatLngInputDialog = ref(false)
                           'active': recommendMartList?.length === selectedIndex
                         }" @click="isOpenLatLngInputDialog = true">
                           <div class="item-footer">
-                            根據此地址搜尋附近的全家
+                            根據此地址搜尋附近的門市
                             <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24"><path fill="currentColor" fillRule="evenodd" d="M5 20h14v2H5v-2zm7-13c-1.1 0-2 .9-2 2s.9 2 2 2a2 2 0 1 0 0-4zm0-5c3.27 0 7 2.46 7 7.15c0 3.12-2.33 6.41-7 9.85c-4.67-3.44-7-6.73-7-9.85C5 4.46 8.73 2 12 2z"></path></svg>
                           </div>
                         </button>
@@ -433,10 +433,6 @@ const isOpenLatLngInputDialog = ref(false)
 .search-keyword {
   color: rgb(var(--match-color));
   font-weight: 500;
-}
-
-@media screen and (max-width: 900px) {
-  
 }
 
 </style>

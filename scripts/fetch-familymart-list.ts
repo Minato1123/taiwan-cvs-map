@@ -25,9 +25,8 @@ type OriginStoreDataType = {
 
 type NewStoreDataType = {
     name: string
-    pkey: string
+    id: string
     tel: string
-    POSTel: string
     lat: number
     lng: number
     city: string
@@ -169,9 +168,8 @@ function refactorStoreData(list: OriginStoreDataType[], city: string, area: stri
   return list.map((item) => {
     return {
       name: item.NAME,
-      pkey: item.pkey,
+      id: item.pkey,
       tel: item.TEL,
-      POSTel: item.POSTel,
       lat: item.py,
       lng: item.px,
       city,
@@ -203,7 +201,7 @@ const delay = (delayInms) => {
   return new Promise(resolve => setTimeout(resolve, delayInms))
 }
 
-const path = './data.json'
+const path = './src/assets/json/f_data.json'
 async function execute() {
   const storeList: NewStoreDataType[] = []
 

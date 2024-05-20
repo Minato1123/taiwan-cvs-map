@@ -8,7 +8,8 @@ export function useMap({
   updateZoom,
   currentLatLng,
   updateLatLng,
-  pushRouter
+  pushRouter,
+  store
 }: {
   centerPoint: MaybeRef<PointType>
   currentZoom: MaybeRef<number>
@@ -16,6 +17,7 @@ export function useMap({
   currentLatLng: Ref<PointType | null>
   updateLatLng: (latlng: PointType, replace?: boolean) => void
   pushRouter: (replace?: boolean) => void
+  store: '7-11' | 'familymart'
 }) {
 
   const mapEl = ref<HTMLElement | null>(null)
@@ -60,12 +62,12 @@ export function useMap({
     }
     
     const familyMartIcon = L.icon({
-      iconUrl: 'familymart-icon.svg',
+      iconUrl: store === '7-11' ? '/7-eleven_logo.svg' : '/familymart-icon.svg',
       iconSize: [iconSize.value, iconSize.value],
     })
   
     const theMartIcon = L.icon({
-      iconUrl: 'the-mart-icon.svg',
+      iconUrl: '/the-mart-icon.svg',
       iconSize: [theIconSize.value, theIconSize.value],
     })
     
@@ -73,7 +75,7 @@ export function useMap({
       if (map.value == null) return
   
       const theMart = unref(currentMart)
-      const isTheMart = theMart && theMart && theMart.pkey === mart.pkey ? true : false
+      const isTheMart = theMart && theMart && theMart.id === mart.id ? true : false
   
       return L.marker([mart.lat, mart.lng], {
         icon: isTheMart ? theMartIcon : familyMartIcon,

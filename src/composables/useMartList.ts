@@ -31,7 +31,7 @@ export function useMartList({
   }
 
   function searchByMartNumber(number: MaybeRef<string>): MartDataType | null {
-    const theMart = allMartList.find((mart) => mart.pkey.startsWith(unref(number)))
+    const theMart = allMartList.find((mart) => mart.id.startsWith(unref(number)))
     if (theMart == null) return null
     return theMart
   }
