@@ -95,6 +95,10 @@ onMounted(() => {
   })
 })
 
+onBeforeUnmount(() => {
+  map.value?.remove()
+})
+
 const sortedMartList = computed<MartDataType[]>(() => {
   const center = currentLatLng.value
   if (center == null) return []
