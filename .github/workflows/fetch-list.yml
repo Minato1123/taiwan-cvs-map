@@ -1,7 +1,7 @@
 name: Update csv data and re-deploy to GitHub pages
 on:
   schedule:
-    - cron: "*/10 * * * *" # 每 10 分鐘
+    - cron: "0 0 1 * *" # 每月 1 號
   workflow_dispatch: # 允許手動觸發
 
 jobs:
