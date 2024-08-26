@@ -217,7 +217,6 @@ async function getAreaStoreList(city: string, town: string): Promise<NewStoreDat
     parseResponse(responseText) {
       const jsonData = JSON.parse(xml2json(responseText, { compact: true, spaces: 4 }))
       const dataList = jsonData.iMapSDKOutput.GeoPosition
-      console.log(dataList.length)
       return refactorStoreData(dataList, city, town)
     },
   })
@@ -235,7 +234,6 @@ async function execute() {
     const cityId = `${i+1}`.padStart(2, '0')
     const city = cities[i]
     const townList = await getTownList(city, cityId)
-    console.log(townList)
     for (const town of townList) {
       const theStoreList = await getAreaStoreList(city, town.town)
       storeList.push(...theStoreList)
@@ -244,7 +242,6 @@ async function execute() {
   }
 
   await writeFile(path, JSON.stringify(storeList, null, 2))
-  console.log(storeList.length)
 }
 
 execute()
