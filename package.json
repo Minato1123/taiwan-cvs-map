@@ -2,6 +2,7 @@
   "name": "taiwan-cvs-map",
   "version": "0.0.0",
   "private": true,
+  "packageManager": "pnpm@8.6.7",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
