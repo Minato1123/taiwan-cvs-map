@@ -18,6 +18,7 @@ jobs:
           pnpm install
           pnpm fetch-familymart-list
           pnpm fetch-711-list
+          pnpm update-last-updated-date
       - name: commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,7 +1,6 @@
 import { ofetch } from 'ofetch'
 import { writeFile } from 'fs/promises'
 import { xml2json } from 'xml-js'
-import { updateLastUpdatedDate } from '../src/assets/lastUpdatedDate'
 
 type TownListType = {
   cityId: string
@@ -243,7 +242,6 @@ async function execute() {
   }
   console.log(storeList.length)
   await writeFile(path, JSON.stringify(storeList, null, 2))
-  updateLastUpdatedDate()
   
 }
 

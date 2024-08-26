@@ -11,7 +11,8 @@
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
     "fetch-familymart-list": "tsx ./scripts/fetch-familymart-list",
-    "fetch-711-list": "tsx ./scripts/fetch-711-mart-list"
+    "fetch-711-list": "tsx ./scripts/fetch-711-mart-list",
+    "update-last-updated-date": "tsx ./scripts/update-last-updated-date"
   },
   "dependencies": {
     "@formkit/auto-animate": "1.0.0-beta.6",
