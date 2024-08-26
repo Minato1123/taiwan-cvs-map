@@ -40,5 +40,21 @@ jobs:
         with:
           node-version: "20"
       - run: pnpm install
-      - run: chmod +x ./deploy.sh
+      - name: deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          rm -rf dist
+          set -e
+          pnpm run build
+          ls -la dist
+          cd dist
+          echo > .nojekyll
+          git init
+          git checkout -B main
+          git add -A
+          git commit -m 'deploy'
+          git push -f https://github.com/Minato1123/taiwan-cvs-map.git main:gh-pages
+          echo "Push to gh-pages branch completed."
+          cd -
     
