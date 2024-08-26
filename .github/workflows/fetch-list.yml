@@ -39,5 +39,5 @@ jobs:
         with:
           node-version: "20"
       - run: pnpm install
-      - run: ./deploy.sh
+      - run: chmod +x ./deploy.sh
     
