@@ -1,6 +1,7 @@
 import { ofetch } from 'ofetch'
 import { writeFile } from 'fs/promises'
 import { xml2json } from 'xml-js'
+import { updateLastUpdatedDate } from '../src/assets/lastUpdatedDate'
 
 type TownListType = {
   cityId: string
@@ -163,7 +164,7 @@ const cities = [
 
 
 async function getTownList(city: string, cityId: string): Promise<TownListType[]> {
-  console.log('現在要拿的資料是來自於：', city)
+  console.log(city)
   return await ofetch(`https://emap.pcsc.com.tw/EMapSDK.aspx?commandid=GetTown&cityid=${cityId}`, {
     headers: {
       Referer: 'https://emap.pcsc.com.tw/'
@@ -222,7 +223,7 @@ async function getAreaStoreList(city: string, town: string): Promise<NewStoreDat
   })
 }
 
-const delay = (delayInms) => {
+const delay = (delayInms: number) => {
   return new Promise(resolve => setTimeout(resolve, delayInms))
 }
 
@@ -240,8 +241,10 @@ async function execute() {
     }
     await delay(3000)
   }
-
+  console.log(storeList.length)
   await writeFile(path, JSON.stringify(storeList, null, 2))
+  updateLastUpdatedDate()
+  
 }
 
 execute()

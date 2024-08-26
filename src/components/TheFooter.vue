@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { lastUpdatedDate } from '../assets/lastUpdatedDate'
 const route = useRoute()
 const store = route.fullPath.includes('familymart') ? 'familymart' : '7-11'
 </script>
@@ -16,7 +17,7 @@ const store = route.fullPath.includes('familymart') ? 'familymart' : '7-11'
       </div>
     </div>
     <div class="footer-time">
-      資料最後更新時間：2024/05/17
+      資料最後更新時間：{{ lastUpdatedDate }}
     </div>
     
   </footer>
