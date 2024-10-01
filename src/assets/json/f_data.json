@@ -231,7 +231,7 @@
   },
   {
     "name": "全家基隆信義店",
-    "id": "023732",
+    "id": "023755",
     "tel": "02-24255383",
     "lat": 25.129659,
     "lng": 121.751548,
@@ -299,7 +299,7 @@
   },
   {
     "name": "全家基隆新祥豐店",
-    "id": "014328",
+    "id": "023460",
     "tel": "02-24627260",
     "lat": 25.151282,
     "lng": 121.771717,
@@ -719,7 +719,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -994,7 +995,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "chubby-famiice"
+      "chubby-famiice",
+      "recyclable-cup"
     ]
   },
   {
@@ -1010,7 +1012,8 @@
     "service": [
       "sweat-potato",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -1163,7 +1166,8 @@
     "service": [
       "sweat-potato",
       "rest-area",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -1196,7 +1200,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -1358,7 +1363,7 @@
   },
   {
     "name": "全家台鐵東店",
-    "id": "023811",
+    "id": "023860",
     "tel": "02-23893070",
     "lat": 25.047203,
     "lng": 121.517044,
@@ -1633,7 +1638,9 @@
     "area": "中正區",
     "road": "忠孝西路一段",
     "address": "台北市中正區忠孝西路一段 47 號 B1（KB112 ）",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家凱撒店",
@@ -1695,7 +1702,8 @@
     "service": [
       "two-famiice",
       "charge-spot",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -1908,7 +1916,7 @@
   },
   {
     "name": "全家博愛店",
-    "id": "021998",
+    "id": "023875",
     "tel": "02-23432173",
     "lat": 25.044256,
     "lng": 121.511551,
@@ -2179,6 +2187,7 @@
       "charge-spot",
       "smart-coffee",
       "picard",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -2297,7 +2306,8 @@
       "sweat-potato",
       "rest-area",
       "two-famiice",
-      "chubby-famiice"
+      "chubby-famiice",
+      "recyclable-cup"
     ]
   },
   {
@@ -2355,7 +2365,7 @@
   },
   {
     "name": "全家新橋店",
-    "id": "020876",
+    "id": "023850",
     "tel": "02-25996171",
     "lat": 25.064474,
     "lng": 121.511223,
@@ -2453,7 +2463,8 @@
       "chubby-famiice",
       "charge-spot",
       "smart-coffee",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -2852,8 +2863,6 @@
     "address": "台北市中山區中山北路四段 1 巷 1 號 1 樓（麒麟廳））",
     "service": [
       "sweat-potato",
-      "single-famiice",
-      "chubby-famiice",
       "charge-spot"
     ]
   },
@@ -3116,7 +3125,8 @@
       "charge-spot",
       "fresh-brew-tea",
       "picard",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -3141,7 +3151,7 @@
   },
   {
     "name": "全家新吉林店",
-    "id": "018815",
+    "id": "023862",
     "tel": "02-25639757",
     "lat": 25.062375,
     "lng": 121.53003,
@@ -3482,6 +3492,7 @@
     "address": "台北市中山區松江路 50 號 1 樓部份",
     "service": [
       "single-famiice",
+      "chubby-famiice",
       "sohot-fresh-snacks"
     ]
   },
@@ -4011,7 +4022,8 @@
       "sweat-potato",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -4232,7 +4244,8 @@
       "baked-potato",
       "charge-spot",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -4410,6 +4423,7 @@
       "fresh-brew-tea",
       "spicy-egg",
       "fami-super",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -4431,23 +4445,21 @@
       "charge-spot",
       "fresh-brew-tea",
       "picard",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
   {
-    "name": "全家中發店",
-    "id": "018851",
-    "tel": "02-25793662",
-    "lat": 25.047777,
-    "lng": 121.552445,
+    "name": "全家鑫中崙店",
+    "id": "023803",
+    "tel": "02-25792721",
+    "lat": 25.046104,
+    "lng": 121.552401,
     "city": "台北市",
     "area": "松山區",
     "road": "八德路三段",
-    "address": "台北市松山區八德路三段 74 巷 10 號 1、2 樓如附圖",
-    "service": [
-      "baked-potato",
-      "charge-spot"
-    ]
+    "address": "台北市松山區八德路三段 12 巷 51 弄 50 號 1 樓",
+    "service": []
   },
   {
     "name": "全家松慈店",
@@ -4671,6 +4683,24 @@
     ]
   },
   {
+    "name": "全家松民店",
+    "id": "016542",
+    "tel": "02-37652608",
+    "lat": 25.059087,
+    "lng": 121.562479,
+    "city": "台北市",
+    "area": "松山區",
+    "road": "民生東路五段",
+    "address": "台北市松山區民生東路五段 159 號",
+    "service": [
+      "sweat-potato",
+      "rest-area",
+      "baked-potato",
+      "spicy-egg",
+      "recyclable-cup"
+    ]
+  },
+  {
     "name": "全家富泰店",
     "id": "020127",
     "tel": "02-27460211",
@@ -4688,24 +4718,6 @@
       "fresh-brew-tea",
       "picard",
       "sohot-fresh-snacks"
-    ]
-  },
-  {
-    "name": "全家松民店",
-    "id": "016542",
-    "tel": "02-37652608",
-    "lat": 25.059087,
-    "lng": 121.562479,
-    "city": "台北市",
-    "area": "松山區",
-    "road": "民生東路五段",
-    "address": "台北市松山區民生東路五段 159 號",
-    "service": [
-      "sweat-potato",
-      "rest-area",
-      "baked-potato",
-      "spicy-egg",
-      "recyclable-cup"
     ]
   },
   {
@@ -4776,7 +4788,8 @@
       "single-famiice",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -4867,7 +4880,7 @@
   },
   {
     "name": "全家塔悠店",
-    "id": "019132",
+    "id": "023825",
     "tel": "02-27420973",
     "lat": 25.05724,
     "lng": 121.569051,
@@ -5806,7 +5819,7 @@
   },
   {
     "name": "全家延安二店",
-    "id": "020784",
+    "id": "023833",
     "tel": "02-87717379",
     "lat": 25.040117,
     "lng": 121.554689,
@@ -5914,6 +5927,7 @@
       "costco-shelf",
       "charge-spot",
       "picard",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -5928,9 +5942,11 @@
     "road": "忠孝東路四段",
     "address": "台北市大安區忠孝東路 4 段 315 號 1 樓",
     "service": [
+      "single-famiice",
       "baked-potato",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -6135,7 +6151,6 @@
     "address": "台北市大安區建國南路一段 81 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "charge-spot",
       "recyclable-cup"
     ]
@@ -6256,7 +6271,6 @@
     "address": "台北市大安區復興南路一段 200 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "charge-spot"
     ]
@@ -6794,12 +6808,13 @@
       "two-famiice",
       "baked-potato",
       "charge-spot",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
   {
     "name": "全家成都店",
-    "id": "018772",
+    "id": "023859",
     "tel": "02-23758507",
     "lat": 25.042832,
     "lng": 121.504662,
@@ -6967,7 +6982,6 @@
     "address": "台北市萬華區峨眉街 82 號 1 樓",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "charge-spot"
     ]
@@ -7119,7 +7133,8 @@
       "rest-area",
       "baked-potato",
       "costco-shelf",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -7461,7 +7476,6 @@
     "address": "台北市信義區光復南路 447 之 2 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "fresh-vegetables",
       "charge-spot"
@@ -7506,23 +7520,16 @@
     ]
   },
   {
-    "name": "全家富興店",
-    "id": "020129",
-    "tel": "02-27326104",
-    "lat": 25.028813,
-    "lng": 121.560954,
+    "name": "全家大巨蛋２店",
+    "id": "023708",
+    "tel": "02-27563663",
+    "lat": 25.042608,
+    "lng": 121.558225,
     "city": "台北市",
     "area": "信義區",
-    "road": "吳興街",
-    "address": "台北市信義區吳興街 156 巷 16 弄 1 號 1 樓",
-    "service": [
-      "two-famiice",
-      "chubby-famiice",
-      "baked-potato",
-      "charge-spot",
-      "fresh-brew-tea",
-      "picard"
-    ]
+    "road": "光復南路",
+    "address": "台北市信義區光復南路 165 巷 8 號 B2 樓",
+    "service": []
   },
   {
     "name": "全家挹翠店",
@@ -7539,6 +7546,25 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot"
+    ]
+  },
+  {
+    "name": "全家富興店",
+    "id": "020129",
+    "tel": "02-27326104",
+    "lat": 25.028813,
+    "lng": 121.560954,
+    "city": "台北市",
+    "area": "信義區",
+    "road": "吳興街",
+    "address": "台北市信義區吳興街 156 巷 16 弄 1 號 1 樓",
+    "service": [
+      "two-famiice",
+      "chubby-famiice",
+      "baked-potato",
+      "charge-spot",
+      "fresh-brew-tea",
+      "picard"
     ]
   },
   {
@@ -7766,7 +7792,7 @@
   },
   {
     "name": "全家南山廣場店",
-    "id": "023497",
+    "id": "023830",
     "tel": "02-27585233",
     "lat": 25.03446,
     "lng": 121.568126,
@@ -7776,7 +7802,8 @@
     "address": "台北市信義區松仁路 100 號 6 樓之 1",
     "service": [
       "sweat-potato",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -7885,7 +7912,8 @@
       "fresh-vegetables",
       "two-famiice",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -7902,7 +7930,6 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot"
@@ -8187,7 +8214,8 @@
       "charge-spot",
       "smart-coffee",
       "steam-fresh",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -8294,7 +8322,7 @@
   },
   {
     "name": "全家士林店",
-    "id": "018860",
+    "id": "023842",
     "tel": "02-28348066",
     "lat": 25.097656,
     "lng": 121.527119,
@@ -8322,7 +8350,6 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
@@ -8371,7 +8398,7 @@
   },
   {
     "name": "全家新陽明店",
-    "id": "019963",
+    "id": "023872",
     "tel": "02-28818262",
     "lat": 25.09458,
     "lng": 121.523192,
@@ -8655,7 +8682,7 @@
   },
   {
     "name": "全家新蘭雅店",
-    "id": "020104",
+    "id": "023832",
     "tel": "02-28314977",
     "lat": 25.11085,
     "lng": 121.53037,
@@ -9102,7 +9129,6 @@
     "address": "台北市北投區中央北路二段 97 號 1 樓",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -9287,6 +9313,7 @@
       "sweat-potato",
       "baked-potato",
       "charge-spot",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -9440,6 +9467,7 @@
       "single-famiice",
       "rest-area",
       "charge-spot",
+      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -9618,6 +9646,7 @@
       "chubby-famiice",
       "baked-potato",
       "charge-spot",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -9768,7 +9797,8 @@
       "baked-potato",
       "charge-spot",
       "fresh-brew-tea",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -9802,7 +9832,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -9992,7 +10023,9 @@
     "area": "內湖區",
     "road": "成功路二段",
     "address": "台北市內湖區成功路二段 325 號 B1F",
-    "service": []
+    "service": [
+      "recyclable-cup"
+    ]
   },
   {
     "name": "全家湖捷店",
@@ -10151,7 +10184,7 @@
   },
   {
     "name": "全家內科店",
-    "id": "022750",
+    "id": "023880",
     "tel": "02-87511523",
     "lat": 25.079526,
     "lng": 121.572918,
@@ -10357,19 +10390,16 @@
     ]
   },
   {
-    "name": "全家興盛店",
-    "id": "023724",
-    "tel": "02-27903667",
-    "lat": 25.057421,
-    "lng": 121.585316,
+    "name": "全家新盛店",
+    "id": "023821",
+    "tel": "02-27943751",
+    "lat": 25.057641,
+    "lng": 121.585828,
     "city": "台北市",
     "area": "內湖區",
     "road": "新明路",
-    "address": "台北市內湖區新明路 182 號",
-    "service": [
-      "sweat-potato",
-      "fresh-vegetables"
-    ]
+    "address": "台北市內湖區新明路 160 號壹樓",
+    "service": []
   },
   {
     "name": "全家新湖店",
@@ -10543,7 +10573,8 @@
       "costco-shelf",
       "charge-spot",
       "smart-coffee",
-      "picard"
+      "picard",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -10893,7 +10924,8 @@
       "fresh-brew-tea",
       "picard",
       "spicy-egg",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -11332,7 +11364,8 @@
     "service": [
       "sweat-potato",
       "rest-area",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -11630,7 +11663,7 @@
   },
   {
     "name": "全家景興店",
-    "id": "023660",
+    "id": "023866",
     "tel": "02-29304049",
     "lat": 24.999584,
     "lng": 121.54418,
@@ -11747,7 +11780,8 @@
     "service": [
       "two-famiice",
       "chubby-famiice",
-      "baked-potato"
+      "baked-potato",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -12435,6 +12469,7 @@
     "service": [
       "baked-potato",
       "charge-spot",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -13489,7 +13524,8 @@
     "service": [
       "sweat-potato",
       "rest-area",
-      "baked-potato"
+      "baked-potato",
+      "recyclable-cup"
     ]
   },
   {
@@ -13636,8 +13672,7 @@
       "single-famiice",
       "baked-potato",
       "charge-spot",
-      "fresh-brew-tea",
-      "sohot-fresh-snacks"
+      "fresh-brew-tea"
     ]
   },
   {
@@ -13792,7 +13827,8 @@
     "road": "新海路",
     "address": "新北市板橋區新海路 462、464、466 號 1 樓",
     "service": [
-      "sweat-potato"
+      "sweat-potato",
+      "recyclable-cup"
     ]
   },
   {
@@ -13982,7 +14018,6 @@
     "address": "新北市板橋區文化路一段 313 號",
     "service": [
       "single-famiice",
-      "chubby-famiice",
       "charge-spot",
       "fresh-brew-tea",
       "spicy-egg",
@@ -14014,7 +14049,9 @@
     "area": "板橋區",
     "road": "遠東路",
     "address": "新北市板橋區遠東路 1 號 1 樓",
-    "service": []
+    "service": [
+      "sohot-fresh-snacks"
+    ]
   },
   {
     "name": "全家板橋廣和店",
@@ -14031,7 +14068,8 @@
       "rest-area",
       "fresh-vegetables",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -14053,7 +14091,8 @@
       "costco-shelf",
       "charge-spot",
       "fresh-brew-tea",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -14295,7 +14334,8 @@
       "baked-potato",
       "charge-spot",
       "fresh-brew-tea",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -14382,7 +14422,8 @@
     "service": [
       "sweat-potato",
       "rest-area",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -14632,6 +14673,7 @@
     "road": "民權街二段",
     "address": "新北市汐止區民權街二段 68 號 1 樓",
     "service": [
+      "single-famiice",
       "baked-potato",
       "charge-spot",
       "picard"
@@ -14714,7 +14756,8 @@
     "service": [
       "single-famiice",
       "baked-potato",
-      "costco-shelf"
+      "costco-shelf",
+      "recyclable-cup"
     ]
   },
   {
@@ -14836,7 +14879,8 @@
       "single-famiice",
       "rest-area",
       "baked-potato",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -15289,7 +15333,7 @@
   },
   {
     "name": "全家汐止樟中店",
-    "id": "018981",
+    "id": "023895",
     "tel": "02-86425058",
     "lat": 25.064898,
     "lng": 121.642005,
@@ -15422,7 +15466,8 @@
       "toilet",
       "rest-area",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -15510,7 +15555,8 @@
       "baked-potato",
       "costco-shelf",
       "fresh-brew-tea",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -15699,7 +15745,6 @@
       "rest-area",
       "fresh-vegetables",
       "two-famiice",
-      "chubby-famiice",
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
@@ -15830,7 +15875,7 @@
   },
   {
     "name": "全家新店莊敬店",
-    "id": "014690",
+    "id": "023882",
     "tel": "02-82193280",
     "lat": 24.985192,
     "lng": 121.533441,
@@ -16281,7 +16326,8 @@
       "single-famiice",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -16353,6 +16399,18 @@
       "baked-potato",
       "charge-spot"
     ]
+  },
+  {
+    "name": "全家新北捷十四張",
+    "id": "023826",
+    "tel": "02-22185671",
+    "lat": 24.984655,
+    "lng": 121.5276,
+    "city": "新北市",
+    "area": "新店區",
+    "road": "民權路",
+    "address": "新北市新店區民權路 282 號 2 樓",
+    "service": []
   },
   {
     "name": "全家新店皇家店",
@@ -16484,7 +16542,8 @@
       "rest-area",
       "costco-shelf",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -16523,6 +16582,18 @@
       "charge-spot",
       "picard"
     ]
+  },
+  {
+    "name": "全家新店鑫景大店",
+    "id": "023802",
+    "tel": "02-22123445",
+    "lat": 24.952008,
+    "lng": 121.509246,
+    "city": "新北市",
+    "area": "新店區",
+    "road": "安忠路",
+    "address": "新北市新店區安忠路 99 號（ C104 ）",
+    "service": []
   },
   {
     "name": "全家新店永安店",
@@ -16773,7 +16844,6 @@
     "road": "順安街",
     "address": "新北市新店區順安街 57 號",
     "service": [
-      "two-famiice",
       "charge-spot",
       "picard"
     ]
@@ -17242,7 +17312,6 @@
     "address": "新北市永和區仁愛路 33 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot"
@@ -17594,6 +17663,7 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -17703,7 +17773,8 @@
       "rest-area",
       "fresh-vegetables",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -17898,7 +17969,7 @@
   },
   {
     "name": "全家中和勝鴻店",
-    "id": "020082",
+    "id": "023870",
     "tel": "02-82451477",
     "lat": 25.006899,
     "lng": 121.502347,
@@ -18036,7 +18107,8 @@
       "rest-area",
       "two-famiice",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -18428,7 +18500,7 @@
   },
   {
     "name": "全家中和秀吉店",
-    "id": "023684",
+    "id": "023841",
     "tel": "02-29412382",
     "lat": 24.996081,
     "lng": 121.52234,
@@ -18439,7 +18511,8 @@
     "service": [
       "baked-potato",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -18495,7 +18568,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -18767,7 +18841,6 @@
     "service": [
       "sweat-potato",
       "polaroid",
-      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot",
@@ -18864,7 +18937,8 @@
       "baked-potato",
       "charge-spot",
       "smart-coffee",
-      "fresh-brew-tea"
+      "fresh-brew-tea",
+      "recyclable-cup"
     ]
   },
   {
@@ -19466,7 +19540,8 @@
       "baked-potato",
       "charge-spot",
       "fresh-brew-tea",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -19818,6 +19893,7 @@
       "charge-spot",
       "picard",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -20035,7 +20111,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -20224,21 +20301,16 @@
     ]
   },
   {
-    "name": "全家土城仁愛店",
-    "id": "015069",
-    "tel": "02-22611306",
-    "lat": 24.981487,
-    "lng": 121.45978,
+    "name": "全家土城新仁愛店",
+    "id": "023839",
+    "tel": "02-22748910",
+    "lat": 24.981573,
+    "lng": 121.459918,
     "city": "新北市",
     "area": "土城區",
     "road": "清水路",
-    "address": "新北市土城區清水路 166 號",
-    "service": [
-      "sweat-potato",
-      "rest-area",
-      "baked-potato",
-      "charge-spot"
-    ]
+    "address": "新北市土城區清水路 172 號一樓",
+    "service": []
   },
   {
     "name": "全家土城莊園店",
@@ -20364,7 +20436,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "fresh-brew-tea"
+      "fresh-brew-tea",
+      "recyclable-cup"
     ]
   },
   {
@@ -20381,7 +20454,8 @@
       "sweat-potato",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -20414,7 +20488,8 @@
       "two-famiice",
       "baked-potato",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -20479,6 +20554,23 @@
     ]
   },
   {
+    "name": "全家土城廣興店",
+    "id": "016503",
+    "tel": "02-22647450",
+    "lat": 24.987981,
+    "lng": 121.455981,
+    "city": "新北市",
+    "area": "土城區",
+    "road": "學府路一段",
+    "address": "新北市土城區廣興里學府路一段 100 號",
+    "service": [
+      "sweat-potato",
+      "rest-area",
+      "baked-potato",
+      "charge-spot"
+    ]
+  },
+  {
     "name": "全家土城海山店",
     "id": "020619",
     "tel": "02-22647851",
@@ -20511,23 +20603,6 @@
     "service": [
       "sweat-potato",
       "single-famiice",
-      "baked-potato",
-      "charge-spot"
-    ]
-  },
-  {
-    "name": "全家土城廣興店",
-    "id": "016503",
-    "tel": "02-22647450",
-    "lat": 24.987981,
-    "lng": 121.455981,
-    "city": "新北市",
-    "area": "土城區",
-    "road": "學府路一段",
-    "address": "新北市土城區廣興里學府路一段 100 號",
-    "service": [
-      "sweat-potato",
-      "rest-area",
       "baked-potato",
       "charge-spot"
     ]
@@ -21836,7 +21911,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -22452,7 +22528,8 @@
       "rest-area",
       "two-famiice",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -22668,7 +22745,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "smart-coffee"
+      "smart-coffee",
+      "recyclable-cup"
     ]
   },
   {
@@ -22994,6 +23072,7 @@
       "baked-potato",
       "smart-coffee",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -23045,7 +23124,6 @@
     "service": [
       "sweat-potato",
       "polaroid",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot"
@@ -23427,7 +23505,7 @@
   },
   {
     "name": "全家新莊新中平店",
-    "id": "021262",
+    "id": "023889",
     "tel": "02-29966949",
     "lat": 25.051394,
     "lng": 121.444822,
@@ -24166,6 +24244,7 @@
     "address": "新北市新莊區民安路 285 之 1 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -24234,6 +24313,7 @@
       "sweat-potato",
       "rest-area",
       "baked-potato",
+      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -24373,7 +24453,6 @@
     "service": [
       "sweat-potato",
       "polaroid",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -24517,8 +24596,7 @@
     "road": "思源路",
     "address": "新北市新莊區思源路 555 號 1 樓",
     "service": [
-      "two-famiice",
-      "chubby-famiice",
+      "single-famiice",
       "baked-potato",
       "fresh-brew-tea",
       "steam-fresh",
@@ -25173,25 +25251,6 @@
     ]
   },
   {
-    "name": "全家泰山南亞店",
-    "id": "017660",
-    "tel": "02-29045869",
-    "lat": 25.045297,
-    "lng": 121.413369,
-    "city": "新北市",
-    "area": "泰山區",
-    "road": "南林路",
-    "address": "新北市泰山區大科村南林路 98 號 8 樓販賣部",
-    "service": [
-      "sweat-potato",
-      "baked-potato",
-      "smart-coffee",
-      "spicy-egg",
-      "steam-fresh",
-      "recyclable-cup"
-    ]
-  },
-  {
     "name": "全家泰山新泰林店",
     "id": "019319",
     "tel": "02-29000777",
@@ -25533,6 +25592,7 @@
       "charge-spot",
       "fresh-brew-tea",
       "picard",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -25628,7 +25688,8 @@
       "rest-area",
       "fami-laundry",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -25913,7 +25974,7 @@
     ]
   },
   {
-    "name": "全家蘆洲廣場店",
+    "name": "全家徐匯廣場店",
     "id": "022289",
     "tel": "02-82811061",
     "lat": 25.080484,
@@ -26050,7 +26111,7 @@
   },
   {
     "name": "全家蘆洲新民愛店",
-    "id": "015267",
+    "id": "023849",
     "tel": "02-28470046",
     "lat": 25.093851,
     "lng": 121.471273,
@@ -26268,7 +26329,7 @@
   },
   {
     "name": "全家蘆洲新鷺江店",
-    "id": "022580",
+    "id": "023861",
     "tel": "02-82851197",
     "lat": 25.086525,
     "lng": 121.475797,
@@ -26354,7 +26415,8 @@
       "single-famiice",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -26389,7 +26451,6 @@
     "address": "新北市蘆洲區光華路 150 巷 38 號 1 樓",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "costco-shelf",
@@ -26780,7 +26841,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -27355,7 +27417,7 @@
   },
   {
     "name": "全家淡水滬鑫店",
-    "id": "021499",
+    "id": "023840",
     "tel": "02-26228730",
     "lat": 25.17032875,
     "lng": 121.43931645,
@@ -27479,7 +27541,7 @@
   },
   {
     "name": "全家淡水五虎崗店",
-    "id": "021020",
+    "id": "023759",
     "tel": "02-26224612",
     "lat": 25.17424864,
     "lng": 121.45164368,
@@ -27541,7 +27603,6 @@
     "address": "新北市淡水區北新路 182 巷 21 弄 1-1 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "charge-spot"
     ]
@@ -27700,7 +27761,8 @@
       "toilet",
       "rest-area",
       "charge-spot",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -27764,7 +27826,7 @@
   },
   {
     "name": "全家淡水大學店",
-    "id": "023779",
+    "id": "023831",
     "tel": "02-26226380",
     "lat": 25.17382869,
     "lng": 121.44709907,
@@ -27774,6 +27836,7 @@
     "address": "新北市淡水區英專路 151 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -27899,7 +27962,7 @@
   },
   {
     "name": "全家淡水淡水店",
-    "id": "023000",
+    "id": "023701",
     "tel": "02-26237472",
     "lat": 25.16988209,
     "lng": 121.44602812,
@@ -28027,7 +28090,7 @@
   },
   {
     "name": "全家淡水新民店",
-    "id": "022749",
+    "id": "023843",
     "tel": "02-26223099",
     "lat": 25.17904323,
     "lng": 121.4367261,
@@ -28202,7 +28265,8 @@
       "toilet",
       "baked-potato",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -28433,6 +28497,7 @@
       "costco-shelf",
       "charge-spot",
       "fami-super",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -28632,8 +28697,6 @@
     "road": "中華路一段",
     "address": "桃園市中壢區中華路一段 810、812 號",
     "service": [
-      "single-famiice",
-      "chubby-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot"
@@ -28985,7 +29048,7 @@
   },
   {
     "name": "全家中壢吉園店",
-    "id": "019188",
+    "id": "023760",
     "tel": "03-4610309",
     "lat": 24.97977,
     "lng": 121.247802,
@@ -29106,7 +29169,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "spicy-egg"
+      "spicy-egg",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -29120,8 +29184,8 @@
     "road": "青峰路一段",
     "address": "桃園市中壢區青峰路一段 67 號",
     "service": [
-      "single-famiice",
-      "spicy-egg"
+      "spicy-egg",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -29421,6 +29485,7 @@
       "charge-spot",
       "fresh-brew-tea",
       "picard",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -29552,7 +29617,7 @@
   },
   {
     "name": "全家中壢福爵店",
-    "id": "018547",
+    "id": "023837",
     "tel": "03-4616552",
     "lat": 24.9684806,
     "lng": 121.23531505,
@@ -29971,6 +30036,18 @@
     ]
   },
   {
+    "name": "全家中壢富強店",
+    "id": "023816",
+    "tel": "03-",
+    "lat": 24.967256,
+    "lng": 121.260198,
+    "city": "桃園市",
+    "area": "中壢區",
+    "road": "環中東路",
+    "address": "桃園市中壢區環中東路 8 號 1 樓",
+    "service": []
+  },
+  {
     "name": "全家中壢環東店",
     "id": "023559",
     "tel": "03-4518150",
@@ -30090,6 +30167,7 @@
       "chubby-famiice",
       "baked-potato",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -30396,7 +30474,8 @@
     "address": "桃園市平鎮區延平路二段 430 巷 22 號 1F",
     "service": [
       "single-famiice",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -30419,7 +30498,7 @@
   },
   {
     "name": "全家平鎮金豐店",
-    "id": "023523",
+    "id": "023815",
     "tel": "03-4396499",
     "lat": 24.919277,
     "lng": 121.208085,
@@ -30509,6 +30588,7 @@
       "charge-spot",
       "fresh-brew-tea",
       "spicy-egg",
+      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -30678,6 +30758,7 @@
       "costco-shelf",
       "charge-spot",
       "picard",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -31092,7 +31173,7 @@
   },
   {
     "name": "全家楊梅瑞梅店",
-    "id": "023514",
+    "id": "023819",
     "tel": "03-4312535",
     "lat": 24.909209,
     "lng": 121.175476,
@@ -31261,7 +31342,8 @@
       "fresh-vegetables",
       "chubby-famiice",
       "baked-potato",
-      "fami-super"
+      "fami-super",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -31282,6 +31364,7 @@
       "chubby-famiice",
       "baked-potato",
       "charge-spot",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -31983,7 +32066,8 @@
       "toilet",
       "rest-area",
       "costco-shelf",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -32017,7 +32101,8 @@
       "single-famiice",
       "baked-potato",
       "charge-spot",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -32321,7 +32406,6 @@
     "address": "桃園市桃園區永安路 219 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -32423,7 +32507,8 @@
       "baked-potato",
       "charge-spot",
       "fresh-brew-tea",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -32440,7 +32525,8 @@
       "fresh-vegetables",
       "baked-potato",
       "charge-spot",
-      "picard"
+      "picard",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -32514,7 +32600,7 @@
   },
   {
     "name": "全家桃園南平店",
-    "id": "022893",
+    "id": "023838",
     "tel": "03-3463509",
     "lat": 25.019687,
     "lng": 121.30166,
@@ -33115,7 +33201,7 @@
   },
   {
     "name": "全家龜山庚行店",
-    "id": "023519",
+    "id": "023793",
     "tel": "03-3273822",
     "lat": 25.034424,
     "lng": 121.391703,
@@ -33200,7 +33286,8 @@
     "road": "文化三路",
     "address": "桃園市龜山區文化三路 399 號 1 樓、夾層",
     "service": [
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -33391,7 +33478,7 @@
   },
   {
     "name": "全家龜山幸福店",
-    "id": "020645",
+    "id": "023810",
     "tel": "03-3196352",
     "lat": 24.987583,
     "lng": 121.334287,
@@ -33501,7 +33588,7 @@
   },
   {
     "name": "全家龜山興龍店",
-    "id": "020958",
+    "id": "023809",
     "tel": "03-3597922",
     "lat": 25.003244,
     "lng": 121.350533,
@@ -33587,7 +33674,8 @@
     "address": "桃園市龜山區復興北路 43 號 1 樓",
     "service": [
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -34421,6 +34509,7 @@
       "picard",
       "gogoro-battery-exchange",
       "fami-super",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -34793,7 +34882,7 @@
   },
   {
     "name": "全家大園華園店",
-    "id": "023781",
+    "id": "023846",
     "tel": "03-3854615",
     "lat": 25.066882,
     "lng": 121.198391,
@@ -34834,8 +34923,10 @@
     "address": "桃園市大園區（十十）果林里（十十）果林路 27 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "toilet",
       "rest-area",
+      "chubby-famiice",
       "baked-potato",
       "costco-shelf",
       "sohot-fresh-snacks"
@@ -35172,6 +35263,7 @@
       "rest-area",
       "fresh-vegetables",
       "baked-potato",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -35709,6 +35801,18 @@
     ]
   },
   {
+    "name": "全家新竹北門店",
+    "id": "023653",
+    "tel": "03-5223097",
+    "lat": 24.806284,
+    "lng": 120.966123,
+    "city": "新竹市",
+    "area": "北區",
+    "road": "北門街",
+    "address": "新竹市北區北門街 58 號 1 樓",
+    "service": []
+  },
+  {
     "name": "全家新竹中山店",
     "id": "015051",
     "tel": "03-5268570",
@@ -35786,7 +35890,8 @@
       "polaroid",
       "toilet",
       "rest-area",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -35988,6 +36093,7 @@
       "chubby-famiice",
       "costco-shelf",
       "picard",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -36161,7 +36267,9 @@
     "area": "東區",
     "road": "力行一路",
     "address": "新竹市東區力行一路 12 號 5 樓",
-    "service": []
+    "service": [
+      "recyclable-cup"
+    ]
   },
   {
     "name": "全家新竹力積二店",
@@ -36173,6 +36281,20 @@
     "area": "東區",
     "road": "力行一路",
     "address": "新竹市東區力行一路 18 號 4 樓",
+    "service": [
+      "recyclable-cup"
+    ]
+  },
+  {
+    "name": "全家新竹元太二店",
+    "id": "023817",
+    "tel": "03-5788300",
+    "lat": 24.768837,
+    "lng": 121.018142,
+    "city": "新竹市",
+    "area": "東區",
+    "road": "力行一路",
+    "address": "新竹市東區力行一路 3 號 1 樓",
     "service": []
   },
   {
@@ -36855,7 +36977,8 @@
     "road": "金城一路",
     "address": "新竹市東區金城一路 50 號 1 樓",
     "service": [
-      "single-famiice"
+      "single-famiice",
+      "recyclable-cup"
     ]
   },
   {
@@ -37059,7 +37182,8 @@
     "service": [
       "single-famiice",
       "chubby-famiice",
-      "costco-shelf"
+      "costco-shelf",
+      "steam-fresh"
     ]
   },
   {
@@ -37429,6 +37553,7 @@
       "charge-spot",
       "spicy-egg",
       "gogoro-battery-exchange",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -37478,7 +37603,8 @@
       "rest-area",
       "two-famiice",
       "costco-shelf",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -37510,7 +37636,8 @@
       "two-famiice",
       "chubby-famiice",
       "baked-potato",
-      "costco-shelf"
+      "costco-shelf",
+      "recyclable-cup"
     ]
   },
   {
@@ -37527,7 +37654,8 @@
       "sweat-potato",
       "polaroid",
       "single-famiice",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -37547,6 +37675,7 @@
       "rest-area",
       "charge-spot",
       "picard",
+      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -37645,7 +37774,6 @@
       "rest-area",
       "smart-coffee",
       "spicy-egg",
-      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -37693,7 +37821,6 @@
     "service": [
       "smart-coffee",
       "picard",
-      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -37712,6 +37839,7 @@
       "fresh-brew-tea",
       "picard",
       "spicy-egg",
+      "steam-fresh",
       "recyclable-cup",
       "sohot-fresh-snacks"
     ]
@@ -37799,7 +37927,8 @@
     "address": "新竹縣竹北市竹義街 60 號",
     "service": [
       "single-famiice",
-      "baked-potato"
+      "baked-potato",
+      "recyclable-cup"
     ]
   },
   {
@@ -37814,8 +37943,7 @@
     "address": "新竹縣竹北市自強五路 245 號",
     "service": [
       "baked-potato",
-      "picard",
-      "recyclable-cup"
+      "picard"
     ]
   },
   {
@@ -37975,7 +38103,9 @@
     "area": "竹北市",
     "road": "勝利十二街",
     "address": "新竹縣竹北市勝利十二街 65 號",
-    "service": []
+    "service": [
+      "steam-fresh"
+    ]
   },
   {
     "name": "全家竹北大漾店",
@@ -38114,6 +38244,7 @@
     "service": [
       "costco-shelf",
       "picard",
+      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -38180,7 +38311,8 @@
     "service": [
       "sweat-potato",
       "single-famiice",
-      "rest-area"
+      "rest-area",
+      "chubby-famiice"
     ]
   },
   {
@@ -38484,7 +38616,9 @@
     "area": "湖口鄉",
     "road": "中華路",
     "address": "新竹縣湖口鄉中華路 15-1 號 5 樓",
-    "service": []
+    "service": [
+      "recyclable-cup"
+    ]
   },
   {
     "name": "全家湖口仁和店",
@@ -38579,6 +38713,8 @@
     "road": "光復東路",
     "address": "新竹縣湖口鄉光復東路 402 號",
     "service": [
+      "single-famiice",
+      "chubby-famiice",
       "baked-potato"
     ]
   },
@@ -38728,6 +38864,7 @@
     "road": "無路名店鋪",
     "address": "新竹縣新豐鄉中崙村中崙 290 號 1 樓",
     "service": [
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -39127,8 +39264,7 @@
     "service": [
       "baked-potato",
       "costco-shelf",
-      "picard",
-      "steam-fresh"
+      "picard"
     ]
   },
   {
@@ -39557,7 +39693,9 @@
     "area": "北埔鄉",
     "road": "南興街",
     "address": "新竹縣北埔鄉南興街 122 號",
-    "service": []
+    "service": [
+      "sohot-fresh-snacks"
+    ]
   },
   {
     "name": "全家峨眉台三線店",
@@ -40007,7 +40145,6 @@
     "address": "苗栗縣竹南鎮龍鳳里 20 鄰龍山路一段 167 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area"
     ]
@@ -40024,6 +40161,7 @@
     "address": "苗栗縣竹南鎮龍山路二段 2 號一樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area"
     ]
   },
@@ -40213,7 +40351,8 @@
     "address": "苗栗縣頭份市中華路 8 號",
     "service": [
       "sweat-potato",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -40301,7 +40440,9 @@
       "rest-area",
       "two-famiice",
       "picard",
-      "gogoro-battery-exchange"
+      "gogoro-battery-exchange",
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -40617,6 +40758,18 @@
     ]
   },
   {
+    "name": "全家苑裡西施店",
+    "id": "023806",
+    "tel": "037-",
+    "lat": 24.440956,
+    "lng": 120.647398,
+    "city": "苗栗縣",
+    "area": "苑裡鎮",
+    "road": "介壽路",
+    "address": "苗栗縣苑裡鎮介壽路 13 之 32 號",
+    "service": []
+  },
+  {
     "name": "全家苑裡金客庄店",
     "id": "022819",
     "tel": "037-855082",
@@ -40920,7 +41073,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "baked-potato"
+      "baked-potato",
+      "recyclable-cup"
     ]
   },
   {
@@ -40953,7 +41107,8 @@
     "service": [
       "sweat-potato",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -41253,7 +41408,6 @@
     "address": "苗栗縣卓蘭鎮上新里 19 鄰上新 12 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area"
     ]
@@ -41403,7 +41557,8 @@
     "address": "台中市中區臺灣大道 1 段 1 號",
     "service": [
       "sweat-potato",
-      "baked-potato"
+      "baked-potato",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -41694,12 +41849,13 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
     "name": "全家台中武聖店",
-    "id": "020289",
+    "id": "023890",
     "tel": "04-22135265",
     "lat": 24.14297,
     "lng": 120.699675,
@@ -41840,6 +41996,18 @@
     ]
   },
   {
+    "name": "全家台中德國店",
+    "id": "023853",
+    "tel": "04-22809137",
+    "lat": 24.129713,
+    "lng": 120.687163,
+    "city": "台中市",
+    "area": "東區",
+    "road": "建德街",
+    "address": "台中市東區建德街 71 號",
+    "service": []
+  },
+  {
     "name": "全家台中旱溪東店",
     "id": "021668",
     "tel": "04-22134900",
@@ -41953,7 +42121,8 @@
     "address": "台中市東區樂業二路 60 號 1 樓",
     "service": [
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -42052,6 +42221,18 @@
       "fami-super",
       "sohot-fresh-snacks"
     ]
+  },
+  {
+    "name": "全家台中國資圖店",
+    "id": "023805",
+    "tel": "04-22636629",
+    "lat": 24.1273,
+    "lng": 120.670331,
+    "city": "台中市",
+    "area": "南區",
+    "road": "五權南路",
+    "address": "台中市南區五權南路 100 號 1 樓商店區",
+    "service": []
   },
   {
     "name": "全家台中登陽店",
@@ -42178,6 +42359,7 @@
       "baked-potato",
       "charge-spot",
       "fresh-brew-tea",
+      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -42200,7 +42382,7 @@
   },
   {
     "name": "全家台中中山壹店",
-    "id": "020448",
+    "id": "023856",
     "tel": "04-24710201",
     "lat": 24.121011,
     "lng": 120.650543,
@@ -42441,6 +42623,7 @@
       "baked-potato",
       "fresh-brew-tea",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -42580,7 +42763,8 @@
     "service": [
       "single-famiice",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -42805,7 +42989,8 @@
     "address": "台中市西區華美西街 1 段 134 號 1 樓及 B1",
     "service": [
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -43462,7 +43647,7 @@
   },
   {
     "name": "全家台中新大衛店",
-    "id": "022534",
+    "id": "023746",
     "tel": "04-22025829",
     "lat": 24.162854,
     "lng": 120.67935,
@@ -43654,7 +43839,8 @@
       "baked-potato",
       "charge-spot",
       "picard",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -43813,7 +43999,8 @@
       "fresh-brew-tea",
       "picard",
       "spicy-egg",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -44342,7 +44529,8 @@
       "rest-area",
       "two-famiice",
       "baked-potato",
-      "costco-shelf"
+      "costco-shelf",
+      "recyclable-cup"
     ]
   },
   {
@@ -44558,7 +44746,7 @@
   },
   {
     "name": "全家台中東豐店",
-    "id": "023226",
+    "id": "023868",
     "tel": "04-24227646",
     "lat": 24.192988261191516,
     "lng": 120.69036098776625,
@@ -44908,22 +45096,6 @@
     ]
   },
   {
-    "name": "全家台中皇居店",
-    "id": "019908",
-    "tel": "04-24522306",
-    "lat": 24.169393,
-    "lng": 120.639324,
-    "city": "台中市",
-    "area": "西屯區",
-    "road": "台灣大道三段",
-    "address": "台中市西屯區台灣大道 3 段 592 號 1 樓及夾層",
-    "service": [
-      "baked-potato",
-      "charge-spot",
-      "picard"
-    ]
-  },
-  {
     "name": "全家台中三越店",
     "id": "023641",
     "tel": "04-23122021",
@@ -44937,7 +45109,24 @@
       "two-famiice",
       "baked-potato",
       "charge-spot",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
+    ]
+  },
+  {
+    "name": "全家台中皇居店",
+    "id": "019908",
+    "tel": "04-24522306",
+    "lat": 24.169393,
+    "lng": 120.639324,
+    "city": "台中市",
+    "area": "西屯區",
+    "road": "台灣大道三段",
+    "address": "台中市西屯區台灣大道 3 段 592 號 1 樓及夾層",
+    "service": [
+      "baked-potato",
+      "charge-spot",
+      "picard"
     ]
   },
   {
@@ -44960,14 +45149,16 @@
   {
     "name": "全家東海大學二店",
     "id": "023777",
-    "tel": "04-",
+    "tel": "04-23594163",
     "lat": 24.18238032,
     "lng": 120.60770857,
     "city": "台中市",
     "area": "西屯區",
     "road": "台灣大道四段",
     "address": "台中市西屯區台灣大道 4 段 1727 號",
-    "service": []
+    "service": [
+      "sohot-fresh-snacks"
+    ]
   },
   {
     "name": "全家台中澄清店",
@@ -45040,7 +45231,8 @@
       "baked-potato",
       "charge-spot",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -45078,7 +45270,8 @@
       "rest-area",
       "two-famiice",
       "chubby-famiice",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -45450,7 +45643,8 @@
       "charge-spot",
       "picard",
       "spicy-egg",
-      "steam-fresh"
+      "steam-fresh",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -45505,25 +45699,6 @@
     "service": [
       "sweat-potato",
       "single-famiice",
-      "baked-potato",
-      "charge-spot"
-    ]
-  },
-  {
-    "name": "全家台中世貿店",
-    "id": "020416",
-    "tel": "04-22541296",
-    "lat": 24.167959,
-    "lng": 120.638279,
-    "city": "台中市",
-    "area": "西屯區",
-    "road": "朝富路",
-    "address": "台中市西屯區朝富路 18-5 號",
-    "service": [
-      "sweat-potato",
-      "single-famiice",
-      "toilet",
-      "rest-area",
       "baked-potato",
       "charge-spot"
     ]
@@ -45610,21 +45785,6 @@
       "two-famiice",
       "charge-spot",
       "spicy-egg"
-    ]
-  },
-  {
-    "name": "全家台中國聚店",
-    "id": "019450",
-    "tel": "04-24630106",
-    "lat": 24.186467,
-    "lng": 120.615489,
-    "city": "台中市",
-    "area": "西屯區",
-    "road": "福科路",
-    "address": "台中市西屯區福科路 520 號 1、2 樓",
-    "service": [
-      "baked-potato",
-      "charge-spot"
     ]
   },
   {
@@ -45922,6 +46082,7 @@
       "baked-potato",
       "charge-spot",
       "steam-fresh",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -46053,6 +46214,18 @@
     ]
   },
   {
+    "name": "全家台中寶成店",
+    "id": "023770",
+    "tel": "04-23505973",
+    "lat": 24.149856,
+    "lng": 120.609372,
+    "city": "台中市",
+    "area": "南屯區",
+    "road": "文山六街",
+    "address": "台中市南屯區文山六街 189 號",
+    "service": []
+  },
+  {
     "name": "全家台中鼎豐店",
     "id": "016080",
     "tel": "04-23809208",
@@ -46088,7 +46261,8 @@
       "chubby-famiice",
       "baked-potato",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -46974,7 +47148,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "costco-shelf"
+      "costco-shelf",
+      "recyclable-cup"
     ]
   },
   {
@@ -46992,7 +47167,8 @@
       "chubby-famiice",
       "baked-potato",
       "costco-shelf",
-      "fresh-brew-tea"
+      "fresh-brew-tea",
+      "recyclable-cup"
     ]
   },
   {
@@ -47355,6 +47531,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "single-famiice",
       "toilet",
       "rest-area",
       "steam-fresh"
@@ -47370,7 +47547,11 @@
     "area": "大里區",
     "road": "中湖路",
     "address": "台中市大里區中湖路 100 號 B1 樓",
-    "service": []
+    "service": [
+      "two-famiice",
+      "chubby-famiice",
+      "sohot-fresh-snacks"
+    ]
   },
   {
     "name": "全家大里大發店",
@@ -47437,7 +47618,6 @@
     "service": [
       "sweat-potato",
       "polaroid",
-      "single-famiice",
       "rest-area",
       "gogoro-battery-exchange"
     ]
@@ -47528,8 +47708,6 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "two-famiice",
-      "chubby-famiice",
       "fami-laundry",
       "costco-shelf",
       "fresh-brew-tea",
@@ -47697,7 +47875,8 @@
     "service": [
       "sweat-potato",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -48443,6 +48622,7 @@
     "service": [
       "single-famiice",
       "fresh-vegetables",
+      "chubby-famiice",
       "baked-potato",
       "costco-shelf",
       "picard"
@@ -48480,6 +48660,7 @@
       "two-famiice",
       "baked-potato",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -48925,6 +49106,7 @@
       "chubby-famiice",
       "picard",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -48944,7 +49126,8 @@
       "rest-area",
       "two-famiice",
       "fresh-brew-tea",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -49212,7 +49395,10 @@
     "area": "東勢區",
     "road": "東關路六段",
     "address": "台中市東勢區東關路六段 139 號",
-    "service": []
+    "service": [
+      "single-famiice",
+      "sohot-fresh-snacks"
+    ]
   },
   {
     "name": "全家東勢勢林店",
@@ -49727,7 +49913,8 @@
       "costco-shelf",
       "fresh-brew-tea",
       "spicy-egg",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -49812,7 +49999,8 @@
     "service": [
       "sweat-potato",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -49867,7 +50055,8 @@
     "service": [
       "sweat-potato",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -50298,7 +50487,8 @@
       "two-famiice",
       "chubby-famiice",
       "fresh-brew-tea",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -50392,7 +50582,8 @@
     "road": "中山路",
     "address": "台中市沙鹿區中山路 665 號",
     "service": [
-      "single-famiice",
+      "two-famiice",
+      "chubby-famiice",
       "baked-potato",
       "recyclable-cup"
     ]
@@ -50538,7 +50729,8 @@
     "road": "台灣大道七段",
     "address": "台中市沙鹿區臺灣大道 7 段 142 號",
     "service": [
-      "single-famiice",
+      "two-famiice",
+      "chubby-famiice",
       "baked-potato",
       "picard",
       "spicy-egg"
@@ -50702,7 +50894,8 @@
       "sweat-potato",
       "rest-area",
       "costco-shelf",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -51519,7 +51712,8 @@
       "baked-potato",
       "fresh-brew-tea",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -51910,7 +52104,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "fresh-brew-tea"
+      "fresh-brew-tea",
+      "recyclable-cup"
     ]
   },
   {
@@ -52015,7 +52210,7 @@
   },
   {
     "name": "全家彰化新再安店",
-    "id": "022939",
+    "id": "023785",
     "tel": "04-7117400",
     "lat": 24.0663444,
     "lng": 120.5473211,
@@ -52199,8 +52394,7 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "baked-potato",
-      "steam-fresh"
+      "baked-potato"
     ]
   },
   {
@@ -52620,7 +52814,8 @@
       "single-famiice",
       "costco-shelf",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -52663,6 +52858,7 @@
       "rest-area",
       "costco-shelf",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -52684,7 +52880,7 @@
   },
   {
     "name": "全家福興志佳店",
-    "id": "023243",
+    "id": "023766",
     "tel": "04-7787909",
     "lat": 24.049204,
     "lng": 120.4811666,
@@ -52713,7 +52909,8 @@
       "rest-area",
       "two-famiice",
       "chubby-famiice",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -52766,6 +52963,7 @@
       "two-famiice",
       "chubby-famiice",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -52974,7 +53172,8 @@
       "chubby-famiice",
       "costco-shelf",
       "spicy-egg",
-      "gogoro-battery-exchange"
+      "gogoro-battery-exchange",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -53155,7 +53354,8 @@
       "rest-area",
       "baked-potato",
       "costco-shelf",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -53576,7 +53776,7 @@
   },
   {
     "name": "全家溪湖雙溪店",
-    "id": "003564",
+    "id": "023786",
     "tel": "04-8851178",
     "lat": 23.9509479,
     "lng": 120.4804146,
@@ -53849,8 +54049,7 @@
       "two-famiice",
       "chubby-famiice",
       "baked-potato",
-      "spicy-egg",
-      "steam-fresh"
+      "spicy-egg"
     ]
   },
   {
@@ -54103,7 +54302,7 @@
   },
   {
     "name": "全家芳苑寶成店",
-    "id": "020754",
+    "id": "023787",
     "tel": "04-8962501",
     "lat": 23.901323,
     "lng": 120.358476,
@@ -54695,6 +54894,7 @@
       "rest-area",
       "two-famiice",
       "chubby-famiice",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -54903,6 +55103,7 @@
     "address": "南投縣埔里鎮中華路 170 號 1 樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "toilet",
       "rest-area",
       "costco-shelf",
@@ -55013,7 +55214,6 @@
     "address": "南投縣埔里鎮隆生路 71 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "rest-area"
     ]
   },
@@ -55573,14 +55773,13 @@
     "road": "無路名店鋪",
     "address": "雲林縣虎尾鎮穎川里頂南 24 號",
     "service": [
-      "single-famiice",
       "baked-potato",
       "costco-shelf"
     ]
   },
   {
     "name": "全家虎尾虎威店",
-    "id": "023027",
+    "id": "023797",
     "tel": "05-6329484",
     "lat": 23.700615,
     "lng": 120.428533,
@@ -55606,8 +55805,7 @@
     "address": "雲林縣虎尾鎮新吉里工專一街 115 號",
     "service": [
       "single-famiice",
-      "costco-shelf",
-      "sohot-fresh-snacks"
+      "costco-shelf"
     ]
   },
   {
@@ -55987,7 +56185,8 @@
       "polaroid",
       "single-famiice",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -56023,7 +56222,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "two-famiice"
+      "two-famiice",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -56257,7 +56457,8 @@
       "sweat-potato",
       "single-famiice",
       "costco-shelf",
-      "picard"
+      "picard",
+      "steam-fresh"
     ]
   },
   {
@@ -56340,7 +56541,8 @@
       "two-famiice",
       "chubby-famiice",
       "baked-potato",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -56355,7 +56557,8 @@
     "address": "雲林縣斗六市長安西路 16 之 2 號",
     "service": [
       "two-famiice",
-      "costco-shelf"
+      "costco-shelf",
+      "steam-fresh"
     ]
   },
   {
@@ -56517,6 +56720,8 @@
       "chubby-famiice",
       "baked-potato",
       "spicy-egg",
+      "steam-fresh",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -56813,7 +57018,7 @@
   },
   {
     "name": "全家北港豐順店",
-    "id": "016397",
+    "id": "023563",
     "tel": "05-7839941",
     "lat": 23.575315,
     "lng": 120.302027,
@@ -56912,7 +57117,6 @@
       "fresh-brew-tea",
       "picard",
       "spicy-egg",
-      "steam-fresh",
       "sohot-fresh-snacks"
     ]
   },
@@ -56956,7 +57160,6 @@
     "road": "中山路",
     "address": "雲林縣元長鄉長南村 13 鄰中山路 115 號 1 樓",
     "service": [
-      "single-famiice",
       "rest-area",
       "fresh-brew-tea",
       "picard"
@@ -57012,7 +57215,7 @@
   },
   {
     "name": "全家嘉義車站店",
-    "id": "023720",
+    "id": "023799",
     "tel": "05-2273991",
     "lat": 23.47908,
     "lng": 120.44121,
@@ -57075,8 +57278,7 @@
       "sweat-potato",
       "single-famiice",
       "toilet",
-      "chubby-famiice",
-      "steam-fresh"
+      "chubby-famiice"
     ]
   },
   {
@@ -57196,7 +57398,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -57478,7 +57681,8 @@
       "fresh-vegetables",
       "baked-potato",
       "fresh-brew-tea",
-      "spicy-egg"
+      "spicy-egg",
+      "steam-fresh"
     ]
   },
   {
@@ -57802,7 +58006,9 @@
       "polaroid",
       "single-famiice",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -57826,7 +58032,7 @@
   },
   {
     "name": "全家中埔興化店",
-    "id": "020086",
+    "id": "023798",
     "tel": "05-2399132",
     "lat": 23.4444647206274,
     "lng": 120.470318528405,
@@ -58032,6 +58238,7 @@
       "fresh-brew-tea",
       "picard",
       "steam-fresh",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -58346,6 +58553,7 @@
       "single-famiice",
       "picard",
       "spicy-egg",
+      "steam-fresh",
       "recyclable-cup",
       "sohot-fresh-snacks"
     ]
@@ -58681,7 +58889,8 @@
       "baked-potato",
       "charge-spot",
       "spicy-egg",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -59088,7 +59297,8 @@
       "picard",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -59238,7 +59448,7 @@
       "rest-area",
       "costco-shelf",
       "charge-spot",
-      "sohot-fresh-snacks"
+      "recyclable-cup"
     ]
   },
   {
@@ -59257,7 +59467,8 @@
       "baked-potato",
       "costco-shelf",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -59322,7 +59533,6 @@
     "address": "台南市東區德東街 83 號全棟",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "recyclable-cup"
@@ -59374,7 +59584,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "fresh-brew-tea"
+      "fresh-brew-tea",
+      "recyclable-cup"
     ]
   },
   {
@@ -59486,7 +59697,7 @@
   },
   {
     "name": "全家台南新夏店",
-    "id": "022788",
+    "id": "023758",
     "tel": "06-2615535",
     "lat": 22.977822,
     "lng": 120.19558,
@@ -59574,7 +59785,8 @@
       "two-famiice",
       "chubby-famiice",
       "charge-spot",
-      "fresh-brew-tea"
+      "fresh-brew-tea",
+      "recyclable-cup"
     ]
   },
   {
@@ -59654,7 +59866,8 @@
       "baked-potato",
       "charge-spot",
       "fresh-brew-tea",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -59806,7 +60019,8 @@
       "single-famiice",
       "costco-shelf",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -59843,7 +60057,8 @@
       "charge-spot",
       "picard",
       "spicy-egg",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -60147,7 +60362,6 @@
     "road": "北安路四段",
     "address": "台南市安南區北安路四段 210 號",
     "service": [
-      "single-famiice",
       "baked-potato",
       "picard",
       "gogoro-battery-exchange",
@@ -60404,8 +60618,8 @@
     "road": "國安街",
     "address": "台南市安南區國安街 56 巷 75 號",
     "service": [
-      "picard",
-      "steam-fresh"
+      "single-famiice",
+      "picard"
     ]
   },
   {
@@ -60792,7 +61006,7 @@
   },
   {
     "name": "全家永康永德店",
-    "id": "021148",
+    "id": "023712",
     "tel": "06-2043632",
     "lat": 23.036811,
     "lng": 120.258943,
@@ -60874,7 +61088,8 @@
       "picard",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -60943,6 +61158,20 @@
       "rest-area",
       "costco-shelf",
       "spicy-egg"
+    ]
+  },
+  {
+    "name": "全家崑山科大店",
+    "id": "023772",
+    "tel": "06-2071543",
+    "lat": 22.99836509,
+    "lng": 120.25286,
+    "city": "台南市",
+    "area": "永康區",
+    "road": "崑大路",
+    "address": "台南市永康區崑山里崑大路 195 號（教學研究大樓",
+    "service": [
+      "single-famiice"
     ]
   },
   {
@@ -61035,7 +61264,7 @@
   },
   {
     "name": "全家永康鹽洲店",
-    "id": "016889",
+    "id": "023855",
     "tel": "06-2434458",
     "lat": 23.042177,
     "lng": 120.232072,
@@ -61592,7 +61821,8 @@
     "service": [
       "two-famiice",
       "chubby-famiice",
-      "baked-potato"
+      "baked-potato",
+      "steam-fresh"
     ]
   },
   {
@@ -61629,7 +61859,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "picard"
+      "picard",
+      "steam-fresh"
     ]
   },
   {
@@ -62097,7 +62328,8 @@
       "baked-potato",
       "fresh-brew-tea",
       "spicy-egg",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -62385,7 +62617,8 @@
     "service": [
       "fresh-brew-tea",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -62406,7 +62639,8 @@
       "rest-area",
       "costco-shelf",
       "fresh-brew-tea",
-      "spicy-egg"
+      "spicy-egg",
+      "steam-fresh"
     ]
   },
   {
@@ -62533,7 +62767,8 @@
       "rest-area",
       "baked-potato",
       "costco-shelf",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -62580,7 +62815,7 @@
   },
   {
     "name": "全家善化興華店",
-    "id": "020274",
+    "id": "023812",
     "tel": "06-5851143",
     "lat": 23.127155,
     "lng": 120.297582,
@@ -62974,8 +63209,7 @@
       "rest-area",
       "chubby-famiice",
       "picard",
-      "spicy-egg",
-      "sohot-fresh-snacks"
+      "spicy-egg"
     ]
   },
   {
@@ -63416,6 +63650,7 @@
     "service": [
       "fresh-brew-tea",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -63431,6 +63666,7 @@
     "address": "高雄市苓雅區四維四路 3 號一樓",
     "service": [
       "single-famiice",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -63602,7 +63838,7 @@
   },
   {
     "name": "全家高雄武仁店",
-    "id": "022935",
+    "id": "023828",
     "tel": "07-7238451",
     "lat": 22.62023,
     "lng": 120.334226,
@@ -63879,7 +64115,8 @@
       "sweat-potato",
       "single-famiice",
       "rest-area",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -64044,7 +64281,6 @@
     "road": "美術館路",
     "address": "高雄市鼓山區美術館路 73 號 1 樓",
     "service": [
-      "single-famiice",
       "charge-spot",
       "recyclable-cup"
     ]
@@ -64079,10 +64315,12 @@
     "address": "高雄市鼓山區華泰路 152 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
-      "charge-spot"
+      "charge-spot",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -64190,9 +64428,7 @@
     "area": "鼓山區",
     "road": "龍勝路",
     "address": "高雄市鼓山區龍勝路 136 號",
-    "service": [
-      "single-famiice"
-    ]
+    "service": []
   },
   {
     "name": "全家高雄龍德店",
@@ -64337,7 +64573,9 @@
     "area": "前鎮區",
     "road": "三多三路",
     "address": "高雄市前鎮區三多三路 217 號 B2 樓商場",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家三多捷運店",
@@ -64537,18 +64775,6 @@
     ]
   },
   {
-    "name": "全家高雄漁港店",
-    "id": "023716",
-    "tel": "07-8211945",
-    "lat": 22.58656748,
-    "lng": 120.31836792,
-    "city": "高雄市",
-    "area": "前鎮區",
-    "road": "朝陽段",
-    "address": "高雄市前鎮區朝陽段 471 地號及其上建物（配送用）",
-    "service": []
-  },
-  {
     "name": "全家高雄摩天店",
     "id": "021601",
     "tel": "07-5370771",
@@ -64622,6 +64848,20 @@
     "address": "高雄市前鎮區瑞和街 173 號",
     "service": [
       "sweat-potato"
+    ]
+  },
+  {
+    "name": "全家高雄漁港店",
+    "id": "023716",
+    "tel": "07-8211945",
+    "lat": 22.570125,
+    "lng": 120.319705,
+    "city": "高雄市",
+    "area": "前鎮區",
+    "road": "漁港南一路",
+    "address": "高雄市前鎮區漁港南一路 6 之 6 號",
+    "service": [
+      "single-famiice"
     ]
   },
   {
@@ -64713,7 +64953,6 @@
     "address": "高雄市前鎮區鎮中路 145 號 1 樓",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "picard"
     ]
@@ -65077,8 +65316,7 @@
       "baked-potato",
       "charge-spot",
       "picard",
-      "spicy-egg",
-      "steam-fresh"
+      "spicy-egg"
     ]
   },
   {
@@ -65150,22 +65388,6 @@
     ]
   },
   {
-    "name": "全家高雄長明店",
-    "id": "018105",
-    "tel": "07-2366674",
-    "lat": 22.637817,
-    "lng": 120.310819,
-    "city": "高雄市",
-    "area": "三民區",
-    "road": "建國二路",
-    "address": "高雄市三民區建國二路 66 號 1 樓",
-    "service": [
-      "sweat-potato",
-      "rest-area",
-      "charge-spot"
-    ]
-  },
-  {
     "name": "全家高雄學友店",
     "id": "022782",
     "tel": "07-2856640",
@@ -65178,18 +65400,6 @@
     "service": [
       "single-famiice"
     ]
-  },
-  {
-    "name": "全家高雄建興店",
-    "id": "015137",
-    "tel": "07-3875891",
-    "lat": 22.645543,
-    "lng": 120.323973,
-    "city": "高雄市",
-    "area": "三民區",
-    "road": "建興路",
-    "address": "高雄市三民區建興路 274 號",
-    "service": []
   },
   {
     "name": "全家高雄建武店",
@@ -65228,6 +65438,18 @@
       "chubby-famiice",
       "baked-potato"
     ]
+  },
+  {
+    "name": "全家高雄建興店",
+    "id": "015137",
+    "tel": "07-3875891",
+    "lat": 22.645543,
+    "lng": 120.323973,
+    "city": "高雄市",
+    "area": "三民區",
+    "road": "建興路",
+    "address": "高雄市三民區建興路 274 號",
+    "service": []
   },
   {
     "name": "全家高雄重慶店",
@@ -65301,7 +65523,7 @@
   },
   {
     "name": "全家高雄鑫天地店",
-    "id": "023038",
+    "id": "023741",
     "tel": "07-3924612",
     "lat": 22.651776,
     "lng": 120.318909,
@@ -65312,7 +65534,8 @@
     "service": [
       "single-famiice",
       "charge-spot",
-      "spicy-egg"
+      "spicy-egg",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -65327,7 +65550,8 @@
     "address": "高雄市三民區黃興路 168 號 1 樓",
     "service": [
       "sweat-potato",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -65353,6 +65577,22 @@
     ]
   },
   {
+    "name": "全家高雄鼎勇店",
+    "id": "015937",
+    "tel": "07-3943089",
+    "lat": 22.658243,
+    "lng": 120.321653,
+    "city": "高雄市",
+    "area": "三民區",
+    "road": "鼎山街",
+    "address": "高雄市三民區鼎山街 300 號、 302 號 1 樓",
+    "service": [
+      "sweat-potato",
+      "rest-area",
+      "two-famiice"
+    ]
+  },
+  {
     "name": "全家高雄鼎華店",
     "id": "017845",
     "tel": "07-3945405",
@@ -65367,22 +65607,6 @@
       "single-famiice",
       "rest-area",
       "charge-spot"
-    ]
-  },
-  {
-    "name": "全家高雄鼎勇店",
-    "id": "015937",
-    "tel": "07-3943089",
-    "lat": 22.658243,
-    "lng": 120.321653,
-    "city": "高雄市",
-    "area": "三民區",
-    "road": "鼎山街",
-    "address": "高雄市三民區鼎山街 300 號、 302 號 1 樓",
-    "service": [
-      "sweat-potato",
-      "rest-area",
-      "two-famiice"
     ]
   },
   {
@@ -65417,7 +65641,8 @@
       "single-famiice",
       "rest-area",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -65500,7 +65725,7 @@
   },
   {
     "name": "全家高雄土庫店",
-    "id": "016258",
+    "id": "023836",
     "tel": "07-3537481",
     "lat": 22.73867235,
     "lng": 120.32639471,
@@ -65545,7 +65770,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -65579,7 +65805,8 @@
     "road": "大學南路",
     "address": "高雄市楠梓區大學南路 218 號 1 樓",
     "service": [
-      "single-famiice"
+      "single-famiice",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -65658,6 +65885,7 @@
       "baked-potato",
       "fresh-brew-tea",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -65672,8 +65900,7 @@
     "road": "加宏路",
     "address": "高雄市楠梓區加宏路 120、122 號",
     "service": [
-      "sweat-potato",
-      "single-famiice"
+      "sweat-potato"
     ]
   },
   {
@@ -65904,7 +66131,8 @@
       "charge-spot",
       "fresh-brew-tea",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -66065,7 +66293,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -66194,6 +66423,7 @@
     "road": "中山四路",
     "address": "高雄市小港區中山四路 2 號 1 樓",
     "service": [
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -66226,7 +66456,8 @@
     "service": [
       "costco-shelf",
       "charge-spot",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -66276,7 +66507,6 @@
     "address": "高雄市小港區桂陽路 210 號",
     "service": [
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area"
     ]
@@ -66522,13 +66752,15 @@
     "name": "全家高雄文自店",
     "id": "023717",
     "tel": "07-3504496",
-    "lat": 22.676626,
-    "lng": 120.309306,
+    "lat": 22.677001,
+    "lng": 120.309549,
     "city": "高雄市",
     "area": "左營區",
     "road": "文自路",
     "address": "高雄市左營區文自路 411 號",
-    "service": []
+    "service": [
+      "sohot-fresh-snacks"
+    ]
   },
   {
     "name": "全家高雄文萊店",
@@ -66847,6 +67079,7 @@
       "baked-potato",
       "spicy-egg",
       "steam-fresh",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -66955,7 +67188,8 @@
       "sweat-potato",
       "polaroid",
       "single-famiice",
-      "rest-area"
+      "rest-area",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -67090,7 +67324,8 @@
       "charge-spot",
       "fresh-brew-tea",
       "picard",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -67188,6 +67423,18 @@
     ]
   },
   {
+    "name": "全家仁武快樂店",
+    "id": "023820",
+    "tel": "07-3731735",
+    "lat": 22.70905016559763,
+    "lng": 120.34741997916797,
+    "city": "高雄市",
+    "area": "仁武區",
+    "road": "安樂一街",
+    "address": "高雄市仁武區安樂一街 135 號",
+    "service": []
+  },
+  {
     "name": "全家仁武大道店",
     "id": "022025",
     "tel": "07-3737859",
@@ -67201,7 +67448,7 @@
   },
   {
     "name": "全家仁武鳳仁店",
-    "id": "015136",
+    "id": "023885",
     "tel": "07-3741130",
     "lat": 22.68140235,
     "lng": 120.35516471,
@@ -67579,6 +67826,18 @@
     ]
   },
   {
+    "name": "全家台鋼科大店",
+    "id": "023769",
+    "tel": "07-6966437",
+    "lat": 22.841035,
+    "lng": 120.26643,
+    "city": "高雄市",
+    "area": "路竹區",
+    "road": "中山路",
+    "address": "高雄市路竹區中山路 1821 號（第三宿舍餐廳一樓）",
+    "service": []
+  },
+  {
     "name": "全家路竹中興宜店",
     "id": "022258",
     "tel": "07-6961279",
@@ -67846,7 +68105,9 @@
     "area": "梓官區",
     "road": "赤崁南路",
     "address": "高雄市梓官區赤崁南路 127 號 1 樓",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家梓官梓興店",
@@ -67893,7 +68154,6 @@
     "road": "中正西路",
     "address": "高雄市彌陀區中正西路 239 號",
     "service": [
-      "single-famiice",
       "baked-potato"
     ]
   },
@@ -67912,8 +68172,7 @@
       "toilet",
       "rest-area",
       "two-famiice",
-      "costco-shelf",
-      "sohot-fresh-snacks"
+      "costco-shelf"
     ]
   },
   {
@@ -67981,7 +68240,8 @@
       "single-famiice",
       "chubby-famiice",
       "fresh-brew-tea",
-      "picard"
+      "picard",
+      "recyclable-cup"
     ]
   },
   {
@@ -68318,7 +68578,8 @@
       "sweat-potato",
       "rest-area",
       "two-famiice",
-      "chubby-famiice"
+      "chubby-famiice",
+      "recyclable-cup"
     ]
   },
   {
@@ -68388,6 +68649,7 @@
       "baked-potato",
       "charge-spot",
       "spicy-egg",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -68763,7 +69025,7 @@
   },
   {
     "name": "全家大發中庄店",
-    "id": "015306",
+    "id": "023706",
     "tel": "07-7031937",
     "lat": 22.635121,
     "lng": 120.392543,
@@ -68891,7 +69153,6 @@
       "charge-spot",
       "picard",
       "spicy-egg",
-      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -69118,7 +69379,6 @@
       "smart-coffee",
       "fresh-brew-tea",
       "spicy-egg",
-      "steam-fresh",
       "recyclable-cup",
       "sohot-fresh-snacks"
     ]
@@ -69532,8 +69792,7 @@
       "chubby-famiice",
       "baked-potato",
       "costco-shelf",
-      "spicy-egg",
-      "sohot-fresh-snacks"
+      "spicy-egg"
     ]
   },
   {
@@ -69794,7 +70053,8 @@
       "single-famiice",
       "chubby-famiice",
       "baked-potato",
-      "spicy-egg"
+      "spicy-egg",
+      "recyclable-cup"
     ]
   },
   {
@@ -70312,6 +70572,7 @@
       "single-famiice",
       "toilet",
       "rest-area",
+      "recyclable-cup",
       "sohot-fresh-snacks"
     ]
   },
@@ -70492,7 +70753,8 @@
       "rest-area",
       "baked-potato",
       "spicy-egg",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -70569,7 +70831,7 @@
   },
   {
     "name": "全家潮州三和店",
-    "id": "021121",
+    "id": "023851",
     "tel": "08-7892217",
     "lat": 22.555799,
     "lng": 120.538618,
@@ -70743,7 +71005,7 @@
   },
   {
     "name": "全家東港潭灣店",
-    "id": "018316",
+    "id": "023869",
     "tel": "08-8327368",
     "lat": 22.454158,
     "lng": 120.491101,
@@ -71007,7 +71269,8 @@
     "service": [
       "sweat-potato",
       "single-famiice",
-      "rest-area"
+      "rest-area",
+      "steam-fresh"
     ]
   },
   {
@@ -71044,7 +71307,8 @@
       "toilet",
       "costco-shelf",
       "spicy-egg",
-      "steam-fresh"
+      "steam-fresh",
+      "recyclable-cup"
     ]
   },
   {
@@ -71101,7 +71365,7 @@
   },
   {
     "name": "全家枋寮臨海店",
-    "id": "023383",
+    "id": "023858",
     "tel": "08-8660321",
     "lat": 22.404607,
     "lng": 120.578937,
@@ -71142,7 +71406,9 @@
     "area": "春日鄉",
     "road": "自強二路",
     "address": "屏東縣春日鄉自強二路 17 號",
-    "service": []
+    "service": [
+      "sohot-fresh-snacks"
+    ]
   },
   {
     "name": "全家獅子金流店",
@@ -71642,13 +71908,12 @@
       "rest-area",
       "chubby-famiice",
       "baked-potato",
-      "charge-spot",
-      "steam-fresh"
+      "charge-spot"
     ]
   },
   {
     "name": "全家宜蘭神農店",
-    "id": "022104",
+    "id": "023847",
     "tel": "03-9313478",
     "lat": 24.74683,
     "lng": 121.749526,
@@ -71787,7 +72052,7 @@
   },
   {
     "name": "全家宜蘭礁溪店",
-    "id": "015027",
+    "id": "023883",
     "tel": "03-9870468",
     "lat": 24.826345,
     "lng": 121.773377,
@@ -71885,7 +72150,8 @@
     "road": "礁溪路四段",
     "address": "宜蘭縣礁溪鄉礁溪路 4 段 26 號 1、2 樓",
     "service": [
-      "charge-spot"
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -71955,6 +72221,7 @@
       "chubby-famiice",
       "baked-potato",
       "charge-spot",
+      "steam-fresh",
       "recyclable-cup"
     ]
   },
@@ -72349,7 +72616,8 @@
     "address": "宜蘭縣五結鄉五結中路 17、19 號",
     "service": [
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -72513,7 +72781,7 @@
   },
   {
     "name": "全家冬山義新店",
-    "id": "018250",
+    "id": "023867",
     "tel": "03-9587507",
     "lat": 24.667395,
     "lng": 121.767929,
@@ -72648,7 +72916,6 @@
     "road": "蘇花路二段",
     "address": "宜蘭縣蘇澳鎮蘇花路二段 320 號一樓",
     "service": [
-      "single-famiice",
       "spicy-egg"
     ]
   },
@@ -72684,6 +72951,7 @@
     "address": "宜蘭縣南澳鄉東岳村蘇花路三段 201 號一樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "toilet",
       "rest-area",
       "fresh-vegetables",
@@ -72853,7 +73121,7 @@
   },
   {
     "name": "全家花蓮中福店",
-    "id": "020008",
+    "id": "023865",
     "tel": "03-8320342",
     "lat": 23.97302823,
     "lng": 121.60115948,
@@ -72951,7 +73219,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "baked-potato"
+      "baked-potato",
+      "recyclable-cup"
     ]
   },
   {
@@ -73212,7 +73481,8 @@
       "fresh-brew-tea",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "recyclable-cup"
+      "recyclable-cup",
+      "sohot-fresh-snacks"
     ]
   },
   {
@@ -73779,7 +74049,8 @@
       "sweat-potato",
       "polaroid",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -73922,7 +74193,7 @@
   },
   {
     "name": "全家台東車站店",
-    "id": "023560",
+    "id": "023829",
     "tel": "089-237179",
     "lat": 22.7937575,
     "lng": 121.1231664,
@@ -74081,7 +74352,8 @@
     "service": [
       "sweat-potato",
       "polaroid",
-      "rest-area"
+      "rest-area",
+      "recyclable-cup"
     ]
   },
   {
@@ -74382,6 +74654,7 @@
     "address": "台東縣達仁鄉安朔村復興路 142 號",
     "service": [
       "single-famiice",
+      "chubby-famiice",
       "baked-potato",
       "spicy-egg",
       "steam-fresh"
@@ -74485,7 +74758,7 @@
   },
   {
     "name": "全家澎湖海洋店",
-    "id": "022455",
+    "id": "023893",
     "tel": "06-9269492",
     "lat": 23.56599,
     "lng": 119.565472,
