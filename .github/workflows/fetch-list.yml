@@ -35,17 +35,16 @@ jobs:
     needs: fetch
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - run: corepack enable
       - uses: actions/setup-node@v3
         with:
           node-version: "20"
       - run: pnpm install
       - name: deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           rm -rf dist
-          set -e
           pnpm run build
           ls -la dist
           cd dist
