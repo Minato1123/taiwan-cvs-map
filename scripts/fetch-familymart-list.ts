@@ -54,7 +54,7 @@ const serviceConversionTable = {
   card: 'picard',
   tanhou: 'tianhe-fresh',
   veg: 'fresh-vegetables',
-  costco:	'costco-shelf',
+  costco: 'costco-shelf',
   lstr: 'classic-game-broadcast',
   eco: 'recyclable-cup',
   photo: 'polaroid',
