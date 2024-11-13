@@ -40,9 +40,20 @@ function clickMartInfo(mart: MartDataType) {
 
 <template>
   <div v-auto-animate class="info">
-    <div class="info-title">門市資訊</div>
+    <div class="info-bar">
+      <span class="info-title">
+        門市資訊
+      </span>
+      <a 
+        :href="`data:application/json;charset=utf-8,${encodeURIComponent(JSON.stringify(sortedMartList, null, 2))}`"
+        download="cvs-list.json"
+        class="export-link"
+      >
+        Export JSON
+      </a>
+    </div>
     <div class="none-info" v-if="sortedMartList.length <= 0">
-      當前地圖範圍內沒有符合條件的全家門市喔～
+      當前地圖範圍內沒有符合條件的門市喔～
     </div>
     <div class="info-item" v-for="(mart, i) in sortedMartList" :key="`mart-${i}`" @click="clickMartInfo(mart)">
       <div class="item-content">
@@ -75,15 +86,35 @@ function clickMartInfo(mart: MartDataType) {
   .info {
     width: 100%;
 
-    .info-title {
+    .info-bar {
       width: 100%;
       background-color: rgb(var(--main-color));
       color: rgb(var(--white-color));
-      font-weight: 500;
-      padding: 0.3rem 0 0.3rem 1rem;
+      padding: 0.3rem 1rem;
       box-sizing: border-box;
       border-radius: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .info-title {
+        font-weight: 500;
+      }
+
+      .export-link {
+        color: rgb(var(--white-color));
+        font-size: 0.8rem;
+        transition: all 0.3s;
+      }
+
+      .export-link:hover {
+        opacity: 0.8;
+      }
+      
     }
+
+
+    
 
     .none-info {
       display: flex;
