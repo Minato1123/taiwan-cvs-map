@@ -193,18 +193,21 @@ function normalizeAddress(address: string) {
 }
 
 function refactorStoreData(list: OriginStoreDataType[], city: string, town: string): NewStoreDataType[] {
-  return (Array.isArray(list) ? list : [list]).map((item) => {
-    return {
-      id: item.POIID._text.trim(),
-      name: item.POIName._text + '門市',
-      tel: (item.Telno._text ?? '').trim(),
-      address: normalizeAddress(item.Address._text),
-      lat: +item.Y._text / 10**6,
-      lng: +item.X._text / 10**6,
-      city,
-      area: town,
-      service: (item.StoreImageTitle._text ?? '').split(',').map(i => serviceConversionTable[i]).filter((i) => i != null )
-    }
+  return (Array.isArray(list) ? list : [list])
+    .filter((item) => item)
+    .map((item) => {
+      return {
+        id: item.POIID._text.trim(),
+        name: item.POIName._text + '門市',
+        tel: (item.Telno._text ?? '').trim(),
+        address: normalizeAddress(item.Address._text),
+        lat: +item.Y._text / 10**6,
+        lng: +item.X._text / 10**6,
+        city,
+        area: town,
+        service: (item.StoreImageTitle._text ?? '').split(',').map(i => serviceConversionTable[i]).filter((i) => i != null )
+      }
+    
   })
 }
 
