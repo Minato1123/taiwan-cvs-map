@@ -15,6 +15,7 @@ const sevenElevenServiceList: { [x in string]: string } = {
   'power-rental': '行動電源租賃',
   'organic-vegetable': '生鮮蔬菜',
   'cold-stone': '酷聖石複合店',
+  'cold-stone-ice-cream': '酷聖石霜淇淋',
   'mister-donut': ' Mister Donut 甜甜圈',
   'cosmetic': '美妝',
   'dessert': '甜點專櫃',
@@ -49,9 +50,8 @@ const sevenElevenServiceList: { [x in string]: string } = {
   'ionex': 'ionex',
   'open-bar': 'OPEN Bar',
   'watts-59': 'Watts 均一價 59 元',
-  'cold-stone-ice-cream': '酷聖石霜淇淋',
-  'self-service-microwave': '自助微波',
   'hot-pot': '饗喫鍋',
+  'self-service-microwave': '自助微波',
 }
 
 const familymartServiceList: { [x in string]: string } = {
