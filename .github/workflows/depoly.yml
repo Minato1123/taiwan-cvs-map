@@ -4,6 +4,12 @@ on:
     - cron: "0 0 1 * *" # 每月 1 號
   workflow_dispatch: # 允許手動觸發
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
