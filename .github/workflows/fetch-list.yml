@@ -49,7 +49,7 @@ jobs:
           cd dist
           echo > .nojekyll
       - name: upload arifact
-        uses: actions/upload-pages-artifacts@v3
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
