@@ -29,8 +29,7 @@ jobs:
           git commit -m "Update csv data"
           git push origin HEAD:main
       
-
-  deploy:
+  build:
     runs-on: ubuntu-latest
     needs: fetch
     steps:
@@ -42,20 +41,27 @@ jobs:
         with:
           node-version: "20"
       - run: pnpm install
-      - name: deploy
+      - name: build
         run: |
           rm -rf dist
           pnpm run build
           ls -la dist
           cd dist
           echo > .nojekyll
-          git init
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git checkout -B main
-          git add -A
-          git commit -m 'deploy'
-          git push -f https://${{ secrets.GITHUB_TOKEN }}@github.com/Minato1123/taiwan-cvs-map.git main:gh-pages
-          echo "Push to gh-pages branch completed."
-          cd -
+      - name: upload arifact
+        uses: actions/upload-pages-artifacts@v3
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    name: deploy
+    steps:
+      - name: deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
     
