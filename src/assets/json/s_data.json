@@ -5187,6 +5187,25 @@
     ]
   },
   {
+    "id": "269685",
+    "name": "金田門市",
+    "tel": "(02)23563318",
+    "address": "台北市大安區金華街 241 之 1 號",
+    "lat": 25.02984,
+    "lng": 121.530477,
+    "city": "台北市",
+    "area": "大安區",
+    "service": [
+      "atm",
+      "ibon",
+      "fresh-tea",
+      "sweet-potato",
+      "specialty-coffee",
+      "frozen-delivery",
+      "city-oatmeal"
+    ]
+  },
+  {
     "id": "197744",
     "name": "金信門市",
     "tel": "(02)23215183",
@@ -6736,17 +6755,16 @@
     ]
   },
   {
-    "id": "240787",
+    "id": "269249",
     "name": "樂利門市",
-    "tel": "(02)27332646",
-    "address": "台北市大安區樂利路 76 號 78 號 1 樓",
-    "lat": 25.025776861565003,
-    "lng": 121.55183439244699,
+    "tel": "(02)27329207",
+    "address": "台北市大安區樂利路 74 號",
+    "lat": 25.025782,
+    "lng": 121.55191,
     "city": "台北市",
     "area": "大安區",
     "service": [
       "atm",
-      "seat",
       "ibon-wifi",
       "power-rental",
       "ibon",
@@ -8894,19 +8912,6 @@
   },
   {
     "id": "282138",
-    "name": "春森門市",
-    "tel": "(02)25641630",
-    "address": "台北市中山區長春路 67 號",
-    "lat": 25.055017,
-    "lng": 121.526506,
-    "city": "台北市",
-    "area": "中山區",
-    "service": [
-      "frozen-delivery"
-    ]
-  },
-  {
-    "id": "956156",
     "name": "春森門市",
     "tel": "(02)25641630",
     "address": "台北市中山區長春路 67 號",
@@ -11793,6 +11798,19 @@
     ]
   },
   {
+    "id": "284709",
+    "name": "國圖門市",
+    "tel": "(02)23141506",
+    "address": "台北市中正區中山南路 20 號 B1 樓",
+    "lat": 25.037241,
+    "lng": 121.516883,
+    "city": "台北市",
+    "area": "中正區",
+    "service": [
+      "frozen-delivery"
+    ]
+  },
+  {
     "id": "118899",
     "name": "掬華門市",
     "tel": "(02)23375810",
@@ -14121,7 +14139,6 @@
       "vegetable",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "dessert",
       "city-oatmeal",
       "whisky-coffee",
@@ -16689,7 +16706,6 @@
       "specialty-coffee",
       "vegetable",
       "frozen-delivery",
-      "pet",
       "dessert",
       "open-eco-cup",
       "whisky-coffee",
@@ -17105,6 +17121,7 @@
       "vegetable",
       "hot-pressed-toast",
       "dessert",
+      "recycle",
       "city-oatmeal",
       "contact-lens",
       "steamed-bun-machine"
@@ -17138,7 +17155,6 @@
       "frozen-fresh-food",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "city-oatmeal",
@@ -17401,7 +17417,6 @@
       "frozen-delivery",
       "pet",
       "dessert",
-      "city-oatmeal",
       "whisky-coffee",
       "hot-pot"
     ]
@@ -17933,6 +17948,7 @@
       "sweet-potato",
       "specialty-coffee",
       "frozen-delivery",
+      "city-oatmeal",
       "open-eco-cup",
       "whisky-coffee",
       "self-service-microwave"
@@ -18004,6 +18020,7 @@
       "specialty-coffee",
       "vegetable",
       "dessert",
+      "city-oatmeal",
       "contact-lens",
       "whisky-coffee",
       "self-service-microwave"
@@ -18159,6 +18176,7 @@
       "hot-pressed-toast",
       "frozen-delivery",
       "dessert",
+      "city-oatmeal",
       "open-eco-cup",
       "whisky-coffee",
       "hot-pot",
@@ -19858,7 +19876,6 @@
       "vegetable",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "open-eco-cup",
@@ -19937,7 +19954,6 @@
       "fresh-tea",
       "sweet-potato",
       "specialty-coffee",
-      "frozen-delivery",
       "dessert",
       "recycle",
       "whisky-coffee",
@@ -20195,7 +20211,7 @@
     ]
   },
   {
-    "id": "216485",
+    "id": "284721",
     "name": "紫陽門市",
     "tel": "(02)87512875",
     "address": "台北市內湖區紫陽里陽光街 159 號",
@@ -25614,7 +25630,7 @@
     ]
   },
   {
-    "id": "243650",
+    "id": "284053",
     "name": "哨船頭門市",
     "tel": "(02)24288846",
     "address": "基隆市中正區義一路 83 號 1 樓",
@@ -26222,7 +26238,8 @@
       "dessert",
       "city-oatmeal",
       "whisky-coffee",
-      "hot-pot"
+      "hot-pot",
+      "self-service-microwave"
     ]
   },
   {
@@ -29025,6 +29042,19 @@
     ]
   },
   {
+    "id": "284949",
+    "name": "板安門市",
+    "tel": "(02)29514455",
+    "address": "新北市板橋區長安街 202.204 號",
+    "lat": 25.011681,
+    "lng": 121.474464,
+    "city": "新北市",
+    "area": "板橋區",
+    "service": [
+      "frozen-delivery"
+    ]
+  },
+  {
     "id": "262802",
     "name": "板宏門市",
     "tel": "(02)22597549",
@@ -29116,7 +29146,7 @@
     ]
   },
   {
-    "id": "237943",
+    "id": "284765",
     "name": "板府門市",
     "tel": "(02)29625901",
     "address": "新北市板橋區中山路一段 158 巷 4 號 6 號 1 樓",
@@ -30788,6 +30818,7 @@
       "specialty-coffee",
       "hot-pressed-toast",
       "frozen-delivery",
+      "city-oatmeal",
       "whisky-coffee",
       "self-service-microwave"
     ]
@@ -31627,7 +31658,6 @@
       "ibon-wifi",
       "power-rental",
       "open-plaza",
-      "mister-donut",
       "ibon",
       "fresh-tea",
       "sweet-potato",
@@ -31828,7 +31858,6 @@
     "city": "新北市",
     "area": "板橋區",
     "service": [
-      "toilet",
       "atm",
       "seat",
       "ibon-wifi",
@@ -31923,7 +31952,7 @@
     ]
   },
   {
-    "id": "215703",
+    "id": "284754",
     "name": "懷民門市",
     "tel": "(02)22504664",
     "address": "新北市板橋區民治街 111 號",
@@ -32524,7 +32553,7 @@
     ]
   },
   {
-    "id": "948638",
+    "id": "284802",
     "name": "大智門市",
     "tel": "(02)29836622",
     "address": "新北市三重區大同北路 63 號",
@@ -32729,6 +32758,7 @@
       "atm",
       "blood-pressure",
       "power-rental",
+      "slurpee",
       "ibon",
       "fresh-tea",
       "sweet-potato",
@@ -32738,6 +32768,7 @@
       "vegetable",
       "hot-pressed-toast",
       "frozen-delivery",
+      "pet",
       "dessert",
       "open-eco-cup",
       "whisky-coffee",
@@ -34096,6 +34127,25 @@
     ]
   },
   {
+    "id": "260264",
+    "name": "重榮門市",
+    "tel": "(02)29867382",
+    "address": "新北市三重區文化北路 10 號 1 樓",
+    "lat": 25.063681,
+    "lng": 121.499499,
+    "city": "新北市",
+    "area": "三重區",
+    "service": [
+      "atm",
+      "ibon",
+      "specialty-coffee",
+      "vegetable",
+      "frozen-delivery",
+      "city-oatmeal",
+      "whisky-coffee"
+    ]
+  },
+  {
     "id": "198954",
     "name": "重樂門市",
     "tel": "(02)28559436",
@@ -34503,7 +34553,6 @@
       "atm",
       "seat",
       "power-rental",
-      "slurpee",
       "fresh-tea",
       "specialty-coffee",
       "vegetable",
@@ -35204,24 +35253,6 @@
       "whisky-coffee",
       "dvd",
       "hot-pot"
-    ]
-  },
-  {
-    "id": "281054",
-    "name": "銀座門市",
-    "tel": "(02)29714834",
-    "address": "新北市三重區信義西街 4 號",
-    "lat": 25.06471,
-    "lng": 121.498985,
-    "city": "新北市",
-    "area": "三重區",
-    "service": [
-      "atm",
-      "ibon-wifi",
-      "power-rental",
-      "ibon",
-      "frozen-delivery",
-      "dvd"
     ]
   },
   {
@@ -44837,6 +44868,7 @@
       "seat",
       "ibon-wifi",
       "power-rental",
+      "slurpee",
       "ibon",
       "sweet-potato",
       "specialty-coffee",
@@ -49316,7 +49348,6 @@
       "atm",
       "seat",
       "power-rental",
-      "open-plaza",
       "ibon",
       "fresh-tea",
       "sweet-potato",
@@ -49897,6 +49928,19 @@
       "whisky-coffee",
       "dvd",
       "hot-pot"
+    ]
+  },
+  {
+    "id": "287487",
+    "name": "前進門市",
+    "tel": "(02)82812439",
+    "address": "新北市蘆洲區中正路 185 巷 50 號 52 號 1 樓",
+    "lat": 25.084841,
+    "lng": 121.467061,
+    "city": "新北市",
+    "area": "蘆洲區",
+    "service": [
+      "frozen-delivery"
     ]
   },
   {
@@ -54325,6 +54369,27 @@
     ]
   },
   {
+    "id": "269272",
+    "name": "鶯峽門市",
+    "tel": "(02)35012429",
+    "address": "新北市三峽區中山路 283 號",
+    "lat": 24.93748,
+    "lng": 121.361837,
+    "city": "新北市",
+    "area": "三峽區",
+    "service": [
+      "atm",
+      "ibon",
+      "sweet-potato",
+      "specialty-coffee",
+      "vegetable",
+      "frozen-delivery",
+      "dessert",
+      "city-oatmeal",
+      "whisky-coffee"
+    ]
+  },
+  {
     "id": "282998",
     "name": "川金門市",
     "tel": "(02)26221047",
@@ -56871,6 +56936,28 @@
     ]
   },
   {
+    "id": "267128",
+    "name": "泰肱門市",
+    "tel": "(02)22953674",
+    "address": "新北市五股區成泰路三段 545 號 547 號 1 樓",
+    "lat": 25.1018,
+    "lng": 121.451848,
+    "city": "新北市",
+    "area": "五股區",
+    "service": [
+      "toilet",
+      "atm",
+      "seat",
+      "ibon",
+      "specialty-coffee",
+      "frozen-delivery",
+      "pet",
+      "city-oatmeal",
+      "whisky-coffee",
+      "hot-pot"
+    ]
+  },
+  {
     "id": "978640",
     "name": "泰股門市",
     "tel": "(02)22936457",
@@ -56986,7 +57073,6 @@
       "vegetable",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "city-oatmeal",
@@ -57578,7 +57664,6 @@
       "ibon",
       "specialty-coffee",
       "frozen-delivery",
-      "pet",
       "dessert",
       "city-oatmeal",
       "open-eco-cup",
@@ -58070,8 +58155,7 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
-      "watts-59",
-      "hot-pot"
+      "watts-59"
     ]
   },
   {
@@ -59594,6 +59678,7 @@
       "sweet-potato",
       "specialty-coffee",
       "frozen-delivery",
+      "city-oatmeal",
       "whisky-coffee"
     ]
   },
@@ -61078,6 +61163,7 @@
       "seat",
       "ibon-wifi",
       "power-rental",
+      "open-plaza",
       "cosmetic",
       "ibon",
       "sweet-potato",
@@ -66236,7 +66322,6 @@
       "ibon",
       "specialty-coffee",
       "vegetable",
-      "frozen-delivery",
       "dessert",
       "city-oatmeal",
       "contact-lens",
@@ -68373,7 +68458,7 @@
     ]
   },
   {
-    "id": "153559",
+    "id": "284983",
     "name": "創薪門市",
     "tel": "(03)4369813",
     "address": "桃園市中壢區龍昌路 270 號 1 號",
@@ -71025,6 +71110,29 @@
       "contact-lens",
       "whisky-coffee",
       "dvd"
+    ]
+  },
+  {
+    "id": "268349",
+    "name": "永佶門市",
+    "tel": "(03)3637145",
+    "address": "桃園市八德區永豐路 237 號 235-1 號 235 號 1 樓",
+    "lat": 24.966773,
+    "lng": 121.27718,
+    "city": "桃園市",
+    "area": "八德區",
+    "service": [
+      "toilet",
+      "atm",
+      "seat",
+      "ibon",
+      "sweet-potato",
+      "specialty-coffee",
+      "frozen-delivery",
+      "city-oatmeal",
+      "whisky-coffee",
+      "hot-pot",
+      "self-service-microwave"
     ]
   },
   {
@@ -73872,7 +73980,7 @@
     ]
   },
   {
-    "id": "992657",
+    "id": "284972",
     "name": "鎮業門市",
     "tel": "(03)4697147",
     "address": "桃園市平鎮區南豐路 238 號 240 號 1 樓",
@@ -74255,7 +74363,6 @@
       "specialty-coffee",
       "vegetable",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "city-oatmeal",
@@ -77982,6 +78089,7 @@
       "frozen-delivery",
       "pet",
       "dessert",
+      "contact-lens",
       "whisky-coffee",
       "hot-pot",
       "self-service-microwave"
@@ -78384,7 +78492,7 @@
     ]
   },
   {
-    "id": "215367",
+    "id": "284798",
     "name": "揚善門市",
     "tel": "(03)4785578",
     "address": "桃園市楊梅區中山北路一段 23 號 25 號 1 樓",
@@ -80369,7 +80477,8 @@
       "ibon",
       "fresh-tea",
       "specialty-coffee",
-      "vegetable"
+      "vegetable",
+      "contact-lens"
     ]
   },
   {
@@ -83445,12 +83554,11 @@
       "dessert",
       "contact-lens",
       "whisky-coffee",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
   {
-    "id": "234531",
+    "id": "284835",
     "name": "龍政門市",
     "tel": "(03)4798711",
     "address": "桃園市龍潭區中正路 190 號 192 號 1 樓 2 樓",
@@ -84651,7 +84759,6 @@
       "specialty-coffee",
       "frozen-fresh-food",
       "frozen-delivery",
-      "bar",
       "open-eco-cup",
       "contact-lens",
       "whisky-coffee",
@@ -88102,6 +88209,7 @@
       "pet",
       "dessert",
       "city-oatmeal",
+      "contact-lens",
       "whisky-coffee",
       "hot-pot",
       "self-service-microwave"
@@ -89119,6 +89227,7 @@
       "pet",
       "dessert",
       "city-oatmeal",
+      "contact-lens",
       "whisky-coffee",
       "hot-pot",
       "self-service-microwave"
@@ -91666,6 +91775,7 @@
       "ibon-wifi",
       "power-rental",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "specialty-coffee",
       "hot-pressed-toast",
@@ -92074,6 +92184,32 @@
       "contact-lens",
       "whisky-coffee",
       "hot-pot"
+    ]
+  },
+  {
+    "id": "269663",
+    "name": "鑫庄門市",
+    "tel": "(03)5565506",
+    "address": "新竹縣竹北市中正西路 2001 號",
+    "lat": 24.84181,
+    "lng": 120.9559,
+    "city": "新竹縣",
+    "area": "竹北市",
+    "service": [
+      "toilet",
+      "atm",
+      "seat",
+      "ibon",
+      "sweet-potato",
+      "ice-cream",
+      "specialty-coffee",
+      "vegetable",
+      "vegetable-complex",
+      "frozen-delivery",
+      "city-oatmeal",
+      "whisky-coffee",
+      "hot-pot",
+      "self-service-microwave"
     ]
   },
   {
@@ -93841,7 +93977,6 @@
       "pet",
       "dessert",
       "contact-lens",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -96575,6 +96710,7 @@
       "specialty-coffee",
       "vegetable",
       "vegetable-complex",
+      "hot-pressed-toast",
       "frozen-delivery",
       "pet",
       "dessert",
@@ -97982,6 +98118,7 @@
       "frozen-delivery",
       "pet",
       "dessert",
+      "recycle",
       "open-eco-cup",
       "whisky-coffee",
       "dvd",
@@ -98692,19 +98829,6 @@
     "city": "苗栗縣",
     "area": "頭份市",
     "service": [
-      "frozen-delivery"
-    ]
-  },
-  {
-    "id": "943909",
-    "name": "昶誼門市",
-    "tel": "(037)676674",
-    "address": "苗栗縣頭份市後庄里幼英街 131 號 1 樓",
-    "lat": 24.698955,
-    "lng": 120.894378,
-    "city": "苗栗縣",
-    "area": "頭份市",
-    "service": [
       "atm",
       "seat",
       "ibon-wifi",
@@ -99318,6 +99442,7 @@
       "frozen-delivery",
       "pet",
       "dessert",
+      "recycle",
       "contact-lens",
       "whisky-coffee",
       "dvd",
@@ -99823,8 +99948,7 @@
       "atm",
       "ibon",
       "cold-stone-ice-cream",
-      "frozen-delivery",
-      "hot-pot"
+      "frozen-delivery"
     ]
   },
   {
@@ -100410,6 +100534,7 @@
       "hot-pressed-toast",
       "frozen-delivery",
       "pet",
+      "recycle",
       "whisky-coffee",
       "dvd",
       "hot-pot",
@@ -101156,7 +101281,6 @@
       "specialty-coffee",
       "vegetable-complex",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "open-eco-cup",
@@ -102396,7 +102520,8 @@
       "frozen-delivery",
       "dessert",
       "whisky-coffee",
-      "dvd"
+      "dvd",
+      "hot-pot"
     ]
   },
   {
@@ -102516,8 +102641,7 @@
       "frozen-delivery",
       "contact-lens",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -102542,7 +102666,8 @@
       "dessert",
       "whisky-coffee",
       "dvd",
-      "steamed-bun-machine"
+      "steamed-bun-machine",
+      "hot-pot"
     ]
   },
   {
@@ -102669,6 +102794,7 @@
       "sweet-potato",
       "specialty-coffee",
       "vegetable",
+      "hot-pressed-toast",
       "frozen-delivery",
       "dessert",
       "contact-lens",
@@ -103101,6 +103227,7 @@
       "seat",
       "power-rental",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "specialty-coffee",
       "hot-pressed-toast",
@@ -103224,8 +103351,7 @@
       "pet",
       "contact-lens",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -103477,7 +103603,6 @@
       "power-rental",
       "slurpee",
       "ibon",
-      "fresh-tea",
       "sweet-potato",
       "books",
       "specialty-coffee",
@@ -104097,7 +104222,6 @@
       "vegetable-complex",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "recycle",
@@ -105711,7 +105835,6 @@
       "whisky-coffee",
       "dvd",
       "steamed-bun-machine",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -106104,7 +106227,8 @@
       "sweet-potato",
       "specialty-coffee",
       "frozen-delivery",
-      "dessert"
+      "dessert",
+      "hot-pot"
     ]
   },
   {
@@ -106316,7 +106440,6 @@
       "whisky-coffee",
       "dvd",
       "open-bar",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -106470,7 +106593,8 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
-      "steamed-bun-machine"
+      "steamed-bun-machine",
+      "hot-pot"
     ]
   },
   {
@@ -106517,8 +106641,7 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
-      "steamed-bun-machine",
-      "hot-pot"
+      "steamed-bun-machine"
     ]
   },
   {
@@ -106544,7 +106667,8 @@
       "open-eco-cup",
       "contact-lens",
       "whisky-coffee",
-      "ha-burn"
+      "ha-burn",
+      "hot-pot"
     ]
   },
   {
@@ -106808,7 +106932,6 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -107001,8 +107124,7 @@
       "specialty-coffee",
       "frozen-delivery",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -107659,6 +107781,7 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -107980,7 +108103,6 @@
       "frozen-delivery",
       "whisky-coffee",
       "dvd",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -108057,7 +108179,8 @@
       "pet",
       "dessert",
       "whisky-coffee",
-      "dvd"
+      "dvd",
+      "hot-pot"
     ]
   },
   {
@@ -108542,6 +108665,7 @@
       "contact-lens",
       "dvd",
       "watts-59",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -108602,8 +108726,7 @@
       "specialty-coffee",
       "frozen-delivery",
       "dessert",
-      "whisky-coffee",
-      "hot-pot"
+      "whisky-coffee"
     ]
   },
   {
@@ -108837,6 +108960,7 @@
       "frozen-delivery",
       "contact-lens",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -108976,8 +109100,7 @@
       "specialty-coffee",
       "frozen-delivery",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -109176,6 +109299,7 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -110376,6 +110500,7 @@
       "dessert",
       "whisky-coffee",
       "dvd",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -110559,6 +110684,7 @@
       "contact-lens",
       "dvd",
       "ha-burn",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -110649,7 +110775,6 @@
       "whisky-coffee",
       "dvd",
       "steamed-bun-machine",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -110975,8 +111100,7 @@
       "open-eco-cup",
       "contact-lens",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -111032,6 +111156,7 @@
       "dessert",
       "open-eco-cup",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -111124,8 +111249,7 @@
       "frozen-fresh-food",
       "frozen-delivery",
       "dessert",
-      "whisky-coffee",
-      "hot-pot"
+      "whisky-coffee"
     ]
   },
   {
@@ -111684,8 +111808,7 @@
       "hot-pressed-toast",
       "frozen-delivery",
       "dessert",
-      "whisky-coffee",
-      "hot-pot"
+      "whisky-coffee"
     ]
   },
   {
@@ -111895,8 +112018,7 @@
       "ice-cream",
       "dessert",
       "contact-lens",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -112297,6 +112419,7 @@
       "k-seren",
       "books",
       "specialty-coffee",
+      "hot-pressed-toast",
       "frozen-delivery",
       "pet",
       "dessert",
@@ -112475,8 +112598,7 @@
       "frozen-delivery",
       "dessert",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -113252,6 +113374,7 @@
       "pet",
       "dessert",
       "open-eco-cup",
+      "contact-lens",
       "whisky-coffee",
       "dvd",
       "hot-pot"
@@ -113423,6 +113546,7 @@
       "dessert",
       "dvd",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -113489,6 +113613,7 @@
     "city": "台中市",
     "area": "外埔區",
     "service": [
+      "toilet",
       "atm",
       "power-rental",
       "open-plaza",
@@ -113611,6 +113736,7 @@
       "hot-pressed-toast",
       "dessert",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -113800,7 +113926,6 @@
       "dessert",
       "city-oatmeal",
       "dvd",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -113904,6 +114029,7 @@
       "seat",
       "power-rental",
       "ibon",
+      "sweet-potato",
       "specialty-coffee",
       "frozen-delivery",
       "contact-lens",
@@ -114299,7 +114425,8 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
-      "open-bar"
+      "open-bar",
+      "hot-pot"
     ]
   },
   {
@@ -114802,6 +114929,7 @@
       "books",
       "specialty-coffee",
       "vegetable",
+      "hot-pressed-toast",
       "frozen-delivery",
       "pet",
       "dessert",
@@ -115080,6 +115208,7 @@
       "vegetable",
       "dessert",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -115179,6 +115308,23 @@
       "dessert",
       "open-eco-cup",
       "whisky-coffee",
+      "hot-pot"
+    ]
+  },
+  {
+    "id": "269582",
+    "name": "大平門市",
+    "tel": "(04)22474139",
+    "address": "台中市北屯區綏遠路二段 216 號",
+    "lat": 24.175015,
+    "lng": 120.682048,
+    "city": "台中市",
+    "area": "北屯區",
+    "service": [
+      "atm",
+      "seat",
+      "ibon",
+      "frozen-delivery",
       "hot-pot"
     ]
   },
@@ -115415,7 +115561,6 @@
       "open-eco-cup",
       "contact-lens",
       "whisky-coffee",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -115801,6 +115946,7 @@
       "dessert",
       "whisky-coffee",
       "dvd",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -115855,8 +116001,7 @@
       "whisky-coffee",
       "dvd",
       "ionex",
-      "steamed-bun-machine",
-      "hot-pot"
+      "steamed-bun-machine"
     ]
   },
   {
@@ -116189,27 +116334,6 @@
     ]
   },
   {
-    "id": "216795",
-    "name": "松佑門市",
-    "tel": "(04)24364087",
-    "address": "台中市北屯區松竹五路二段 22 號 1 樓",
-    "lat": 24.17474,
-    "lng": 120.711188,
-    "city": "台中市",
-    "area": "北屯區",
-    "service": [
-      "toilet",
-      "atm",
-      "seat",
-      "power-rental",
-      "specialty-coffee",
-      "frozen-delivery",
-      "dessert",
-      "whisky-coffee",
-      "dvd"
-    ]
-  },
-  {
     "id": "276177",
     "name": "松東門市",
     "tel": "(04)22463373",
@@ -116322,8 +116446,7 @@
       "pet",
       "contact-lens",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -116563,7 +116686,7 @@
     ]
   },
   {
-    "id": "215183",
+    "id": "284743",
     "name": "軍建門市",
     "tel": "(04)24367480",
     "address": "台中市北屯區軍福十三路 198 號",
@@ -116848,33 +116971,6 @@
       "open-eco-cup",
       "whisky-coffee",
       "hot-pot"
-    ]
-  },
-  {
-    "id": "132563",
-    "name": "連河門市",
-    "tel": "(04)22477023",
-    "address": "台中市北屯區河北路二段 218 之 1 號 1 樓",
-    "lat": 24.176183,
-    "lng": 120.683811,
-    "city": "台中市",
-    "area": "北屯區",
-    "service": [
-      "toilet",
-      "atm",
-      "seat",
-      "ibon-wifi",
-      "power-rental",
-      "ibon",
-      "sweet-potato",
-      "books",
-      "specialty-coffee",
-      "vegetable",
-      "frozen-delivery",
-      "dessert",
-      "open-eco-cup",
-      "whisky-coffee",
-      "dvd"
     ]
   },
   {
@@ -117537,6 +117633,19 @@
     ]
   },
   {
+    "id": "284880",
+    "name": "興昌門市",
+    "tel": "(04)22435875",
+    "address": "台中市北屯區興安路二段 62 號 1 樓",
+    "lat": 24.176556,
+    "lng": 120.69489,
+    "city": "台中市",
+    "area": "北屯區",
+    "service": [
+      "frozen-delivery"
+    ]
+  },
+  {
     "id": "215987",
     "name": "環東門市",
     "tel": "(04)24360442",
@@ -117644,7 +117753,6 @@
       "city-oatmeal",
       "contact-lens",
       "dvd",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -118550,8 +118658,7 @@
       "dessert",
       "open-eco-cup",
       "whisky-coffee",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -119016,7 +119123,6 @@
       "contact-lens",
       "whisky-coffee",
       "dvd",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -119826,7 +119932,6 @@
       "gogoro",
       "steamed-bun-machine",
       "watts-59",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -120402,7 +120507,8 @@
       "frozen-delivery",
       "city-oatmeal",
       "whisky-coffee",
-      "dvd"
+      "dvd",
+      "hot-pot"
     ]
   },
   {
@@ -121115,6 +121221,7 @@
       "open-eco-cup",
       "contact-lens",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -121444,8 +121551,7 @@
       "frozen-delivery",
       "pet",
       "dessert",
-      "dvd",
-      "hot-pot"
+      "dvd"
     ]
   },
   {
@@ -121478,7 +121584,8 @@
       "whisky-coffee",
       "dvd",
       "steamed-bun-machine",
-      "watts-59"
+      "watts-59",
+      "hot-pot"
     ]
   },
   {
@@ -121863,6 +121970,29 @@
     ]
   },
   {
+    "id": "268730",
+    "name": "六寶門市",
+    "tel": "(04)25605825",
+    "address": "台中市大雅區中清路四段 656 之 1 號",
+    "lat": 24.236441,
+    "lng": 120.635434,
+    "city": "台中市",
+    "area": "大雅區",
+    "service": [
+      "toilet",
+      "atm",
+      "seat",
+      "ibon",
+      "sweet-potato",
+      "specialty-coffee",
+      "vegetable",
+      "frozen-delivery",
+      "pet",
+      "city-oatmeal",
+      "hot-pot"
+    ]
+  },
+  {
     "id": "910736",
     "name": "百達門市",
     "tel": "(04)25651768",
@@ -122003,6 +122133,7 @@
       "dessert",
       "open-eco-cup",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -122029,6 +122160,7 @@
       "open-eco-cup",
       "steamed-bun-machine",
       "open-bar",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -122198,7 +122330,8 @@
       "vegetable",
       "frozen-delivery",
       "dessert",
-      "city-oatmeal"
+      "city-oatmeal",
+      "hot-pot"
     ]
   },
   {
@@ -122615,6 +122748,7 @@
       "city-oatmeal",
       "open-eco-cup",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -122664,8 +122798,7 @@
       "dessert",
       "whisky-coffee",
       "dvd",
-      "steamed-bun-machine",
-      "hot-pot"
+      "steamed-bun-machine"
     ]
   },
   {
@@ -123552,6 +123685,7 @@
       "pet",
       "dessert",
       "contact-lens",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -124612,7 +124746,6 @@
       "dessert",
       "city-oatmeal",
       "dvd",
-      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -124715,7 +124848,8 @@
       "contact-lens",
       "whisky-coffee",
       "ha-burn",
-      "steamed-bun-machine"
+      "steamed-bun-machine",
+      "hot-pot"
     ]
   },
   {
@@ -124986,6 +125120,7 @@
       "specialty-coffee",
       "city-oatmeal",
       "steamed-bun-machine",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -125003,6 +125138,7 @@
       "hot-pressed-toast",
       "dessert",
       "ha-burn",
+      "hot-pot",
       "self-service-microwave"
     ]
   },
@@ -125319,8 +125455,7 @@
       "contact-lens",
       "whisky-coffee",
       "open-bar",
-      "watts-59",
-      "hot-pot"
+      "watts-59"
     ]
   },
   {
@@ -126411,6 +126546,7 @@
       "ibon-wifi",
       "power-rental",
       "ibon",
+      "fresh-tea",
       "specialty-coffee",
       "frozen-delivery",
       "contact-lens",
@@ -127539,7 +127675,6 @@
       "ibon",
       "specialty-coffee",
       "frozen-delivery",
-      "pet",
       "dessert",
       "whisky-coffee",
       "dvd",
@@ -127802,6 +127937,7 @@
       "atm",
       "seat",
       "power-rental",
+      "slurpee",
       "ibon",
       "sweet-potato",
       "specialty-coffee",
@@ -133725,7 +133861,6 @@
       "ibon",
       "fresh-tea",
       "sweet-potato",
-      "cold-stone",
       "books",
       "specialty-coffee",
       "vegetable",
@@ -133741,19 +133876,6 @@
   },
   {
     "id": "284215",
-    "name": "德美門市",
-    "tel": "(04)7577337",
-    "address": "彰化縣和美鎮德美路 700 號",
-    "lat": 24.11879,
-    "lng": 120.495269,
-    "city": "彰化縣",
-    "area": "和美鎮",
-    "service": [
-      "frozen-delivery"
-    ]
-  },
-  {
-    "id": "904133",
     "name": "德美門市",
     "tel": "(04)7577337",
     "address": "彰化縣和美鎮德美路 700 號",
@@ -134747,7 +134869,6 @@
       "specialty-coffee",
       "vegetable",
       "frozen-delivery",
-      "bar",
       "dessert",
       "whisky-coffee",
       "open-bar",
@@ -138082,7 +138203,6 @@
       "specialty-coffee",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "recycle",
@@ -138489,6 +138609,19 @@
       "whisky-coffee",
       "dvd",
       "hot-pot"
+    ]
+  },
+  {
+    "id": "283027",
+    "name": "冬美門市",
+    "tel": "(05)6321664",
+    "address": "雲林縣虎尾鎮民權路 2-3 號",
+    "lat": 23.708585,
+    "lng": 120.437051,
+    "city": "雲林縣",
+    "area": "虎尾鎮",
+    "service": [
+      "frozen-delivery"
     ]
   },
   {
@@ -139308,6 +139441,7 @@
       "fresh-tea",
       "sweet-potato",
       "cold-stone",
+      "cold-stone-ice-cream",
       "books",
       "specialty-coffee",
       "vegetable",
@@ -140403,7 +140537,6 @@
       "ibon",
       "fresh-tea",
       "sweet-potato",
-      "ice-cream",
       "books",
       "specialty-coffee",
       "vegetable",
@@ -141648,6 +141781,7 @@
       "books",
       "specialty-coffee",
       "vegetable",
+      "vegetable-complex",
       "frozen-fresh-food",
       "hot-pressed-toast",
       "frozen-delivery",
@@ -142996,6 +143130,7 @@
     "service": [
       "atm",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "specialty-coffee",
       "frozen-delivery",
@@ -144749,7 +144884,7 @@
     ]
   },
   {
-    "id": "256184",
+    "id": "283728",
     "name": "宮前門市",
     "tel": "(05)3741011",
     "address": "嘉義縣新港鄉新民路 238 之 50 號 1 樓",
@@ -146875,6 +147010,19 @@
     ]
   },
   {
+    "id": "283991",
+    "name": "安立門市",
+    "tel": "(06)2473773",
+    "address": "台南市安南區安中路四段 150 號",
+    "lat": 23.04946,
+    "lng": 120.170631,
+    "city": "台南市",
+    "area": "安南區",
+    "service": [
+      "frozen-delivery"
+    ]
+  },
+  {
     "id": "970819",
     "name": "安立門市",
     "tel": "(06)2473773",
@@ -147472,6 +147620,27 @@
     ]
   },
   {
+    "id": "268039",
+    "name": "長秝門市",
+    "tel": "(06)3966516",
+    "address": "台南市安南區長和路一段 499 號",
+    "lat": 23.057938,
+    "lng": 120.232419,
+    "city": "台南市",
+    "area": "安南區",
+    "service": [
+      "atm",
+      "ibon",
+      "sweet-potato",
+      "specialty-coffee",
+      "frozen-delivery",
+      "pet",
+      "dessert",
+      "city-oatmeal",
+      "self-service-microwave"
+    ]
+  },
+  {
     "id": "965057",
     "name": "長溪門市",
     "tel": "(06)2568719",
@@ -147612,13 +147781,13 @@
     "city": "台南市",
     "area": "安南區",
     "service": [
-      "parking",
       "toilet",
       "atm",
       "seat",
       "ibon-wifi",
       "power-rental",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "books",
       "specialty-coffee",
@@ -148174,6 +148343,7 @@
       "frozen-delivery",
       "pet",
       "dessert",
+      "contact-lens",
       "hot-pot",
       "self-service-microwave"
     ]
@@ -148465,6 +148635,7 @@
       "slurpee",
       "organic-vegetable",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "santa-bread",
       "books",
@@ -148481,7 +148652,7 @@
     ]
   },
   {
-    "id": "281847",
+    "id": "284776",
     "name": "南建平門市",
     "tel": "(06)2993542",
     "address": "台南市安平區建平路 19、21、23 號 1 樓",
@@ -148730,6 +148901,7 @@
       "pet",
       "dessert",
       "contact-lens",
+      "open-bar",
       "watts-59",
       "hot-pot"
     ]
@@ -148748,6 +148920,7 @@
       "seat",
       "ibon-wifi",
       "power-rental",
+      "open-plaza",
       "ibon",
       "sweet-potato",
       "specialty-coffee",
@@ -149498,12 +149671,10 @@
       "ibon-wifi",
       "power-rental",
       "ibon",
-      "fresh-tea",
       "sweet-potato",
       "ice-cream",
       "specialty-coffee",
       "vegetable",
-      "hot-pressed-toast",
       "frozen-delivery",
       "dessert",
       "whisky-coffee",
@@ -153029,13 +153200,11 @@
       "sweet-potato",
       "specialty-coffee",
       "frozen-delivery",
-      "bar",
       "dessert",
       "open-eco-cup",
       "contact-lens",
       "whisky-coffee",
       "dvd",
-      "open-bar",
       "hot-pot"
     ]
   },
@@ -154147,7 +154316,6 @@
       "specialty-coffee",
       "vegetable",
       "frozen-delivery",
-      "bar",
       "dessert",
       "city-oatmeal",
       "open-eco-cup",
@@ -155685,7 +155853,6 @@
       "specialty-coffee",
       "vegetable",
       "frozen-delivery",
-      "pet",
       "open-eco-cup",
       "contact-lens",
       "whisky-coffee",
@@ -156458,7 +156625,6 @@
       "books",
       "specialty-coffee",
       "frozen-delivery",
-      "pet",
       "dessert",
       "whisky-coffee",
       "dvd",
@@ -157467,6 +157633,7 @@
       "open-plaza",
       "ibon",
       "sweet-potato",
+      "ice-cream",
       "k-seren",
       "books",
       "specialty-coffee",
@@ -159114,6 +159281,7 @@
       "fresh-tea",
       "sweet-potato",
       "santa-bread",
+      "specialty-coffee",
       "vegetable",
       "open-eco-cup",
       "steamed-bun-machine",
@@ -161838,27 +162006,6 @@
     ]
   },
   {
-    "id": "240514",
-    "name": "歸仁門市",
-    "tel": "(06)2390164",
-    "address": "台南市歸仁區中山路二段 60 號",
-    "lat": 22.967072,
-    "lng": 120.292373,
-    "city": "台南市",
-    "area": "歸仁區",
-    "service": [
-      "toilet",
-      "atm",
-      "seat",
-      "ibon-wifi",
-      "power-rental",
-      "ibon",
-      "frozen-delivery",
-      "contact-lens",
-      "dvd"
-    ]
-  },
-  {
     "id": "279534",
     "name": "歸仁大展門市",
     "tel": "(06)2783773",
@@ -162875,6 +163022,7 @@
       "seat",
       "power-rental",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "specialty-coffee",
       "vegetable",
@@ -163692,11 +163840,12 @@
       "frozen-delivery",
       "pet",
       "dessert",
+      "contact-lens",
       "self-service-microwave"
     ]
   },
   {
-    "id": "207492",
+    "id": "284846",
     "name": "展奇門市",
     "tel": "(07)7775327",
     "address": "高雄市鳳山區青年路二段 169 號 1 樓 169 號 2 樓",
@@ -163880,7 +164029,7 @@
     ]
   },
   {
-    "id": "258009",
+    "id": "284916",
     "name": "捷西門市",
     "tel": "(07)7036846",
     "address": "高雄市鳳山區中山東路 400 巷 30 弄 60 號",
@@ -164167,7 +164316,6 @@
       "ibon",
       "sweet-potato",
       "cold-stone-ice-cream",
-      "togo",
       "santa-bread",
       "unbelievable-coffee",
       "books",
@@ -164502,7 +164650,7 @@
     ]
   },
   {
-    "id": "956167",
+    "id": "281319",
     "name": "鳳和門市",
     "tel": "(07)7990060",
     "address": "高雄市鳳山區中和里自由路 202 號 204 號 206 號",
@@ -164669,7 +164817,6 @@
     "city": "高雄市",
     "area": "鳳山區",
     "service": [
-      "toilet",
       "atm",
       "seat",
       "ibon-wifi",
@@ -164759,7 +164906,6 @@
       "power-rental",
       "open-plaza",
       "ibon",
-      "fresh-tea",
       "specialty-coffee",
       "frozen-delivery",
       "city-oatmeal",
@@ -165799,8 +165945,7 @@
       "pet",
       "dessert",
       "dvd",
-      "hot-pot",
-      "self-service-microwave"
+      "hot-pot"
     ]
   },
   {
@@ -167660,7 +167805,6 @@
       "ibon-wifi",
       "power-rental",
       "slurpee",
-      "mister-donut",
       "ibon",
       "specialty-coffee",
       "frozen-delivery",
@@ -169737,7 +169881,6 @@
       "vegetable-complex",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "open-eco-cup",
@@ -169775,7 +169918,6 @@
       "vegetable-complex",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "city-oatmeal",
@@ -170232,7 +170374,6 @@
       "vegetable",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "pet",
       "dessert",
       "open-eco-cup",
@@ -170765,7 +170906,6 @@
       "vegetable",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "dessert",
       "open-eco-cup",
       "whisky-coffee",
@@ -173502,6 +173642,7 @@
       "ice-cream",
       "books",
       "specialty-coffee",
+      "hot-pressed-toast",
       "frozen-delivery",
       "contact-lens",
       "whisky-coffee",
@@ -173933,6 +174074,7 @@
       "pet",
       "dessert",
       "city-oatmeal",
+      "contact-lens",
       "hot-pot",
       "self-service-microwave"
     ]
@@ -174936,6 +175078,19 @@
     ]
   },
   {
+    "id": "283382",
+    "name": "興村門市",
+    "tel": "(07)2829812",
+    "address": "高雄市新興區五福二路 92 號",
+    "lat": 22.625626,
+    "lng": 120.308087,
+    "city": "高雄市",
+    "area": "新興區",
+    "service": [
+      "frozen-delivery"
+    ]
+  },
+  {
     "id": "948708",
     "name": "興村門市",
     "tel": "(07)2829812",
@@ -175075,6 +175230,7 @@
       "seat",
       "power-rental",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "specialty-coffee",
       "hot-pressed-toast",
@@ -176817,6 +176973,7 @@
       "hot-pressed-toast",
       "frozen-delivery",
       "dessert",
+      "city-oatmeal",
       "contact-lens",
       "whisky-coffee"
     ]
@@ -179005,6 +179162,7 @@
       "frozen-delivery",
       "pet",
       "dessert",
+      "city-oatmeal",
       "whisky-coffee",
       "hot-pot"
     ]
@@ -180584,6 +180742,21 @@
       "dvd",
       "watts-59",
       "hot-pot"
+    ]
+  },
+  {
+    "id": "269652",
+    "name": "飛航門市",
+    "tel": "(07)8071375",
+    "address": "高雄市小港區中山四路 2 號 3 樓(國際航廈出境大廳 3 樓西側)",
+    "lat": 22.571235,
+    "lng": 120.340418,
+    "city": "高雄市",
+    "area": "小港區",
+    "service": [
+      "specialty-coffee",
+      "dessert",
+      "city-oatmeal"
     ]
   },
   {
@@ -182727,6 +182900,7 @@
       "pet",
       "dessert",
       "city-oatmeal",
+      "contact-lens",
       "whisky-coffee",
       "dvd",
       "steamed-bun-machine"
@@ -185411,6 +185585,19 @@
     ]
   },
   {
+    "id": "284857",
+    "name": "大街門市",
+    "tel": "(08)8862383",
+    "address": "屏東縣恆春鎮墾丁里墾丁路 225.227 號 1 樓",
+    "lat": 21.945376,
+    "lng": 120.797499,
+    "city": "屏東縣",
+    "area": "恆春鎮",
+    "service": [
+      "frozen-delivery"
+    ]
+  },
+  {
     "id": "123271",
     "name": "日日春門市",
     "tel": "(08)8897015",
@@ -185905,6 +186092,32 @@
     ]
   },
   {
+    "id": "266789",
+    "name": "元泰門市",
+    "tel": "(08)7764841",
+    "address": "屏東縣萬丹鄉萬後村萬壽路二段 346 號",
+    "lat": 22.587337,
+    "lng": 120.486825,
+    "city": "屏東縣",
+    "area": "萬丹鄉",
+    "service": [
+      "toilet",
+      "atm",
+      "seat",
+      "open-plaza",
+      "ibon",
+      "books",
+      "specialty-coffee",
+      "vegetable-complex",
+      "frozen-delivery",
+      "pet",
+      "dessert",
+      "contact-lens",
+      "hot-pot",
+      "self-service-microwave"
+    ]
+  },
+  {
     "id": "112307",
     "name": "社上門市",
     "tel": "(08)7074750",
@@ -186369,7 +186582,6 @@
       "seat",
       "power-rental",
       "ibon",
-      "sweet-potato",
       "ice-cream",
       "specialty-coffee",
       "frozen-delivery",
@@ -190839,9 +191051,9 @@
     "id": "965909",
     "name": "永聖門市",
     "tel": "(03)9876105",
-    "address": "宜蘭縣礁溪鄉大忠村大忠路 120-122 號",
-    "lat": 24.825906,
-    "lng": 121.763621,
+    "address": "宜蘭縣礁溪鄉大忠村大忠路 120、122 號 1 樓",
+    "lat": 0,
+    "lng": 0,
     "city": "宜蘭縣",
     "area": "礁溪鄉",
     "service": [
@@ -191592,6 +191804,33 @@
       "contact-lens",
       "whisky-coffee",
       "dvd"
+    ]
+  },
+  {
+    "id": "265801",
+    "name": "冒泡門市",
+    "tel": "0978486366",
+    "address": "宜蘭縣員山鄉大湖路 18-21、18-22 號",
+    "lat": 24.745515,
+    "lng": 121.702859,
+    "city": "宜蘭縣",
+    "area": "員山鄉",
+    "service": [
+      "atm",
+      "seat",
+      "open-plaza",
+      "slurpee",
+      "organic-vegetable",
+      "ibon",
+      "sweet-potato",
+      "specialty-coffee",
+      "vegetable",
+      "frozen-delivery",
+      "pet",
+      "dessert",
+      "whisky-coffee",
+      "hot-pot",
+      "self-service-microwave"
     ]
   },
   {
@@ -192527,7 +192766,6 @@
       "atm",
       "seat",
       "power-rental",
-      "slurpee",
       "ibon",
       "frozen-delivery",
       "dessert",
@@ -193115,7 +193353,6 @@
       "books",
       "specialty-coffee",
       "frozen-delivery",
-      "bar",
       "pet",
       "contact-lens",
       "whisky-coffee",
@@ -193237,7 +193474,6 @@
     "city": "花蓮縣",
     "area": "花蓮市",
     "service": [
-      "toilet",
       "atm",
       "seat",
       "ibon-wifi",
@@ -194827,6 +195063,7 @@
       "ibon-wifi",
       "power-rental",
       "ibon",
+      "fresh-tea",
       "sweet-potato",
       "specialty-coffee",
       "vegetable",
@@ -195046,6 +195283,7 @@
       "seat",
       "ibon-wifi",
       "power-rental",
+      "slurpee",
       "ibon",
       "sweet-potato",
       "specialty-coffee",
@@ -195438,7 +195676,6 @@
       "specialty-coffee",
       "hot-pressed-toast",
       "frozen-delivery",
-      "bar",
       "dessert",
       "contact-lens",
       "open-bar",
@@ -196188,6 +196425,7 @@
       "dessert",
       "city-oatmeal",
       "contact-lens",
+      "ha-burn",
       "steamed-bun-machine",
       "self-service-microwave"
     ]
@@ -199092,11 +199330,9 @@
       "ibon",
       "fresh-tea",
       "sweet-potato",
-      "specialty-coffee",
       "frozen-fresh-food",
       "dessert",
       "contact-lens",
-      "whisky-coffee",
       "hot-pot"
     ]
   },
