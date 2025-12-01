@@ -1,10 +1,12 @@
 name: Deploy to GitHub pages
-on:
-  schedule:
-    - cron: "0 0 1 * *" # 每月 1 號
-  workflow_dispatch: # 允許手動觸發
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+on:
+  workflow_run:
+    workflows: ["Update csv data"]
+    types:
+      - completed
+  workflow_dispatch: # 保留手動觸發功能
+
 permissions:
   contents: read
   pages: write
@@ -12,24 +14,29 @@ permissions:
 
 jobs:
   build:
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: 'main'
       - run: corepack enable
       - uses: actions/setup-node@v3
         with:
           node-version: "20"
       - run: pnpm install
+      
       - name: build
         run: |
           rm -rf dist
           pnpm run build
+          cp dist/index.html dist/404.html
           ls -la dist
           cd dist
           echo > .nojekyll
-      - name: upload arifact
+
+      - name: upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
@@ -45,4 +52,3 @@ jobs:
       - name: deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-    
