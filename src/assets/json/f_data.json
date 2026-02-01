@@ -367,7 +367,7 @@
   },
   {
     "name": "全家基隆正港店",
-    "id": "018271",
+    "id": "025389",
     "tel": "02-24636316",
     "lat": 25.151033,
     "lng": 121.766893,
@@ -1636,7 +1636,7 @@
   },
   {
     "name": "全家新水源店",
-    "id": "025125",
+    "id": "025508",
     "tel": "02-23657035",
     "lat": 25.013186,
     "lng": 121.53454,
@@ -1934,7 +1934,7 @@
   },
   {
     "name": "全家福邦店",
-    "id": "025382",
+    "id": "025435",
     "tel": "02-23513120",
     "lat": 25.042543,
     "lng": 121.526566,
@@ -2523,7 +2523,7 @@
   },
   {
     "name": "全家館中店",
-    "id": "020447",
+    "id": "025512",
     "tel": "02-23672204",
     "lat": 25.015748,
     "lng": 121.5326,
@@ -3017,7 +3017,7 @@
   },
   {
     "name": "全家酒泉店",
-    "id": "022729",
+    "id": "025481",
     "tel": "02-25929575",
     "lat": 25.071835,
     "lng": 121.518297,
@@ -3410,7 +3410,7 @@
   },
   {
     "name": "全家美華店",
-    "id": "015759",
+    "id": "025445",
     "tel": "02-85095070",
     "lat": 25.084952,
     "lng": 121.556154,
@@ -3584,7 +3584,7 @@
   {
     "name": "全家民旺店",
     "id": "025241",
-    "tel": "02-",
+    "tel": "02-25172095",
     "lat": 25.059098,
     "lng": 121.534912,
     "city": "台北市",
@@ -3894,28 +3894,6 @@
     ]
   },
   {
-    "name": "全家林慶店",
-    "id": "023752",
-    "tel": "02-25672790",
-    "lat": 25.057878,
-    "lng": 121.525365,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "林森北路",
-    "address": "台北市中山區林森北路 376 號 1 樓",
-    "service": [
-      "famiice",
-      "rest-area",
-      "two-famiice",
-      "special-famiice",
-      "sohot-dessert",
-      "charge-spot",
-      "formosa-tea",
-      "spicy-egg",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家錦富店",
     "id": "024884",
     "tel": "02-25684923",
@@ -3968,6 +3946,28 @@
     "address": "台北市中山區林森北路 308 號",
     "service": [
       "sohot-dessert"
+    ]
+  },
+  {
+    "name": "全家林慶店",
+    "id": "023752",
+    "tel": "02-25672790",
+    "lat": 25.057878,
+    "lng": 121.525365,
+    "city": "台北市",
+    "area": "中山區",
+    "road": "林森北路",
+    "address": "台北市中山區林森北路 376 號 1 樓",
+    "service": [
+      "famiice",
+      "rest-area",
+      "two-famiice",
+      "special-famiice",
+      "sohot-dessert",
+      "charge-spot",
+      "formosa-tea",
+      "spicy-egg",
+      "hot-dog"
     ]
   },
   {
@@ -4064,18 +4064,24 @@
     ]
   },
   {
-    "name": "全家松好店",
-    "id": "025200",
-    "tel": "02-25083831",
-    "lat": 25.048681,
-    "lng": 121.533153,
+    "name": "全家松京店",
+    "id": "025474",
+    "tel": "02-25715929",
+    "lat": 25.05236,
+    "lng": 121.532796,
     "city": "台北市",
     "area": "中山區",
     "road": "松江路",
-    "address": "台北市中山區松江路 61 之 1 號 1 樓",
+    "address": "台北市中山區松江路 122 號 1 樓",
     "service": [
+      "famiice",
+      "two-famiice",
+      "baked-potato",
       "sohot-dessert",
+      "costco-shelf",
       "charge-spot",
+      "smart-coffee",
+      "cook-now",
       "hot-dog"
     ]
   },
@@ -4097,28 +4103,6 @@
       "charge-spot",
       "formosa-tea",
       "sohot-grill",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家松京店",
-    "id": "025474",
-    "tel": "02-25715929",
-    "lat": 25.05236,
-    "lng": 121.532796,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "松江路",
-    "address": "台北市中山區松江路 122 號 1 樓",
-    "service": [
-      "famiice",
-      "two-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "costco-shelf",
-      "charge-spot",
-      "smart-coffee",
       "cook-now",
       "hot-dog"
     ]
@@ -4161,6 +4145,22 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家松好店",
+    "id": "025200",
+    "tel": "02-25083831",
+    "lat": 25.048681,
+    "lng": 121.533153,
+    "city": "台北市",
+    "area": "中山區",
+    "road": "松江路",
+    "address": "台北市中山區松江路 61 之 1 號 1 樓",
+    "service": [
+      "sohot-dessert",
+      "charge-spot",
       "hot-dog"
     ]
   },
@@ -4361,9 +4361,6 @@
     "road": "南京東路二段",
     "address": "台北市中山區南京東路二段 72 號 1 樓、 72-2 號",
     "service": [
-      "famiice",
-      "two-famiice",
-      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -4384,26 +4381,6 @@
     "road": "南京東路二段",
     "address": "台北市中山區南京東路二段 20 號 1 樓",
     "service": [
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "recyclable-cup",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家京貿店",
-    "id": "023151",
-    "tel": "02-25066873",
-    "lat": 25.052193,
-    "lng": 121.538356,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "南京東路三段",
-    "address": "台北市中山區南京東路三段 65 號",
-    "service": [
-      "rest-area",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -4553,7 +4530,7 @@
   },
   {
     "name": "全家南京復興店",
-    "id": "023455",
+    "id": "025425",
     "tel": "02-27151377",
     "lat": 25.053173,
     "lng": 121.543789,
@@ -4633,28 +4610,6 @@
     ]
   },
   {
-    "name": "全家新農店",
-    "id": "018243",
-    "tel": "02-25968538",
-    "lat": 25.064808,
-    "lng": 121.526198,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "農安街",
-    "address": "台北市中山區恆安里農安街 26 之 3 號一樓",
-    "service": [
-      "famiice",
-      "polaroid",
-      "single-famiice",
-      "toilet",
-      "rest-area",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家新晴店",
     "id": "020532",
     "tel": "02-25955820",
@@ -4688,6 +4643,28 @@
     ]
   },
   {
+    "name": "全家新農店",
+    "id": "018243",
+    "tel": "02-25968538",
+    "lat": 25.064808,
+    "lng": 121.526198,
+    "city": "台北市",
+    "area": "中山區",
+    "road": "農安街",
+    "address": "台北市中山區恆安里農安街 26 之 3 號一樓",
+    "service": [
+      "famiice",
+      "polaroid",
+      "single-famiice",
+      "toilet",
+      "rest-area",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家農安店",
     "id": "018088",
     "tel": "02-25042520",
@@ -4706,6 +4683,23 @@
       "baked-potato",
       "sohot-dessert",
       "charge-spot"
+    ]
+  },
+  {
+    "name": "全家德林店",
+    "id": "017907",
+    "tel": "02-25961560",
+    "lat": 25.06668,
+    "lng": 121.531905,
+    "city": "台北市",
+    "area": "中山區",
+    "road": "德惠街",
+    "address": "台北市中山區德惠街 173 號",
+    "service": [
+      "rest-area",
+      "sohot-dessert",
+      "charge-spot",
+      "hot-dog"
     ]
   },
   {
@@ -4746,25 +4740,8 @@
     ]
   },
   {
-    "name": "全家德林店",
-    "id": "017907",
-    "tel": "02-25961560",
-    "lat": 25.06668,
-    "lng": 121.531905,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "德惠街",
-    "address": "台北市中山區德惠街 173 號",
-    "service": [
-      "rest-area",
-      "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家撫順店",
-    "id": "023951",
+    "id": "025468",
     "tel": "02-25927495",
     "lat": 25.063558,
     "lng": 121.520853,
@@ -4942,8 +4919,49 @@
     ]
   },
   {
+    "name": "全家龍京店",
+    "id": "024110",
+    "tel": "02-25082793",
+    "lat": 25.052669,
+    "lng": 121.540322,
+    "city": "台北市",
+    "area": "中山區",
+    "road": "龍江路",
+    "address": "台北市中山區龍江路 102 號 1 樓",
+    "service": [
+      "famiice",
+      "single-famiice",
+      "special-famiice",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "formosa-tea",
+      "cook-now",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家榮星店",
+    "id": "020176",
+    "tel": "02-25169569",
+    "lat": 25.065891,
+    "lng": 121.540849,
+    "city": "台北市",
+    "area": "中山區",
+    "road": "龍江路",
+    "address": "台北市中山區龍江路 352 號",
+    "service": [
+      "rest-area",
+      "fresh-vegetables",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家鑫豐店",
-    "id": "015663",
+    "id": "025410",
     "tel": "02-25157030",
     "lat": 25.065936,
     "lng": 121.537996,
@@ -4979,47 +4997,6 @@
     ]
   },
   {
-    "name": "全家榮星店",
-    "id": "020176",
-    "tel": "02-25169569",
-    "lat": 25.065891,
-    "lng": 121.540849,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "龍江路",
-    "address": "台北市中山區龍江路 352 號",
-    "service": [
-      "rest-area",
-      "fresh-vegetables",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家龍京店",
-    "id": "024110",
-    "tel": "02-25082793",
-    "lat": 25.052669,
-    "lng": 121.540322,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "龍江路",
-    "address": "台北市中山區龍江路 102 號 1 樓",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "special-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "formosa-tea",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家雙城店",
     "id": "023881",
     "tel": "02-25996056",
@@ -5035,6 +5012,24 @@
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家金磚店",
+    "id": "025538",
+    "tel": "02-25994347",
+    "lat": 25.065333,
+    "lng": 121.524514,
+    "city": "台北市",
+    "area": "中山區",
+    "road": "雙城街",
+    "address": "台北市中山區雙城街 19 巷 2 號",
+    "service": [
+      "rest-area",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
       "hot-dog"
     ]
   },
@@ -5055,24 +5050,6 @@
       "sohot-dessert",
       "charge-spot",
       "spicy-egg"
-    ]
-  },
-  {
-    "name": "全家金磚店",
-    "id": "021368",
-    "tel": "02-25994347",
-    "lat": 25.065333,
-    "lng": 121.524514,
-    "city": "台北市",
-    "area": "中山區",
-    "road": "雙城街",
-    "address": "台北市中山區雙城街 19 巷 2 號",
-    "service": [
-      "rest-area",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
     ]
   },
   {
@@ -5352,6 +5329,45 @@
     ]
   },
   {
+    "name": "全家東豐店",
+    "id": "025490",
+    "tel": "02-27612771",
+    "lat": 25.058545,
+    "lng": 121.55689,
+    "city": "台北市",
+    "area": "松山區",
+    "road": "民生東路五段",
+    "address": "台北市松山區民生東路五段 37 號",
+    "service": [
+      "rest-area",
+      "baked-potato",
+      "sohot-dessert",
+      "costco-shelf",
+      "charge-spot",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家松民店",
+    "id": "016542",
+    "tel": "02-37652608",
+    "lat": 25.059087,
+    "lng": 121.562479,
+    "city": "台北市",
+    "area": "松山區",
+    "road": "民生東路五段",
+    "address": "台北市松山區民生東路五段 159 號",
+    "service": [
+      "rest-area",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "spicy-egg",
+      "recyclable-cup",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家昇東店",
     "id": "018901",
     "tel": "02-27491649",
@@ -5369,25 +5385,6 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家東豐店",
-    "id": "024984",
-    "tel": "02-27612771",
-    "lat": 25.058545,
-    "lng": 121.55689,
-    "city": "台北市",
-    "area": "松山區",
-    "road": "民生東路五段",
-    "address": "台北市松山區民生東路五段 37 號",
-    "service": [
-      "rest-area",
-      "baked-potato",
-      "sohot-dessert",
-      "costco-shelf",
-      "charge-spot",
       "hot-dog"
     ]
   },
@@ -5411,26 +5408,6 @@
       "formosa-tea",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家松民店",
-    "id": "016542",
-    "tel": "02-37652608",
-    "lat": 25.059087,
-    "lng": 121.562479,
-    "city": "台北市",
-    "area": "松山區",
-    "road": "民生東路五段",
-    "address": "台北市松山區民生東路五段 159 號",
-    "service": [
-      "rest-area",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "spicy-egg",
-      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -5475,7 +5452,7 @@
   },
   {
     "name": "全家興北店",
-    "id": "015862",
+    "id": "025432",
     "tel": "02-27150977",
     "lat": 25.063435,
     "lng": 121.545049,
@@ -5548,21 +5525,6 @@
       "baked-potato",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家松指部店",
-    "id": "020425",
-    "tel": "02-25475302",
-    "lat": 25.062161,
-    "lng": 121.555797,
-    "city": "台北市",
-    "area": "松山區",
-    "road": "民權東路四段",
-    "address": "臺北市松山區民權東路四段 121 號（松指部）",
-    "service": [
-      "sohot-dessert",
       "hot-dog"
     ]
   },
@@ -5751,32 +5713,13 @@
     "road": "南京東路五段",
     "address": "台北市松山區南京東路五段 194 號",
     "service": [
+      "famiice",
+      "single-famiice",
+      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家新東寶店",
-    "id": "024683",
-    "tel": "02-27605928",
-    "lat": 25.052267,
-    "lng": 121.566045,
-    "city": "台北市",
-    "area": "松山區",
-    "road": "南京東路五段",
-    "address": "台北市松山區南京東路五段 291 巷 14 號",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "rest-area",
-      "special-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -5850,6 +5793,22 @@
     ]
   },
   {
+    "name": "全家巨星超市店",
+    "id": "017138",
+    "tel": "02-25770670",
+    "lat": 25.051484,
+    "lng": 121.550725,
+    "city": "台北市",
+    "area": "松山區",
+    "road": "南京東路四段",
+    "address": "台北市松山區南京東路四段 2 號（ 16、17 號店舖）",
+    "service": [
+      "sohot-dessert",
+      "cook-now",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家新健康店",
     "id": "024111",
     "tel": "02-25462607",
@@ -5870,29 +5829,6 @@
     ]
   },
   {
-    "name": "全家京兆店",
-    "id": "022679",
-    "tel": "02-27121962",
-    "lat": 25.051795,
-    "lng": 121.555296,
-    "city": "台北市",
-    "area": "松山區",
-    "road": "南京東路四段",
-    "address": "台北市松山區南京東路四段 137 號壹樓",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "special-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "costco-shelf",
-      "charge-spot",
-      "recyclable-cup",
-      "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家小巨蛋二店",
     "id": "024143",
     "tel": "02-25778220",
@@ -5909,22 +5845,6 @@
       "sohot-dessert",
       "formosa-tea",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家巨星超市店",
-    "id": "017138",
-    "tel": "02-25770670",
-    "lat": 25.051484,
-    "lng": 121.550725,
-    "city": "台北市",
-    "area": "松山區",
-    "road": "南京東路四段",
-    "address": "台北市松山區南京東路四段 2 號（ 16、17 號店舖）",
-    "service": [
-      "sohot-dessert",
-      "cook-now",
       "hot-dog"
     ]
   },
@@ -5950,29 +5870,25 @@
     ]
   },
   {
-    "name": "全家民康店",
-    "id": "024833",
-    "tel": "02-27457090",
-    "lat": 25.054369,
-    "lng": 121.564113,
+    "name": "全家京兆店",
+    "id": "022679",
+    "tel": "02-27121962",
+    "lat": 25.051795,
+    "lng": 121.555296,
     "city": "台北市",
     "area": "松山區",
-    "road": "健康路",
-    "address": "台北市松山區健康路 285 號 1 樓",
+    "road": "南京東路四段",
+    "address": "台北市松山區南京東路四段 137 號壹樓",
     "service": [
       "famiice",
       "single-famiice",
-      "toilet",
-      "rest-area",
-      "fresh-vegetables",
-      "tianhe-fresh",
+      "special-famiice",
       "baked-potato",
       "sohot-dessert",
+      "costco-shelf",
       "charge-spot",
-      "fami-super",
-      "steam-fresh",
+      "recyclable-cup",
       "sohot-grill",
-      "cook-now",
       "hot-dog"
     ]
   },
@@ -6011,6 +5927,33 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家民康店",
+    "id": "024833",
+    "tel": "02-27457090",
+    "lat": 25.054369,
+    "lng": 121.564113,
+    "city": "台北市",
+    "area": "松山區",
+    "road": "健康路",
+    "address": "台北市松山區健康路 285 號 1 樓",
+    "service": [
+      "famiice",
+      "single-famiice",
+      "toilet",
+      "rest-area",
+      "fresh-vegetables",
+      "tianhe-fresh",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "fami-super",
+      "steam-fresh",
+      "sohot-grill",
+      "cook-now",
       "hot-dog"
     ]
   },
@@ -6461,10 +6404,7 @@
     "road": "安和路一段",
     "address": "台北市大安區安和路一段 104 號",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
-      "special-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -6875,7 +6815,7 @@
   },
   {
     "name": "全家統領店",
-    "id": "018020",
+    "id": "025540",
     "tel": "02-27112125",
     "lat": 25.042227,
     "lng": 121.551649,
@@ -7153,7 +7093,7 @@
   },
   {
     "name": "全家師大店",
-    "id": "022413",
+    "id": "025452",
     "tel": "02-23918196",
     "lat": 25.023409,
     "lng": 121.528574,
@@ -7362,7 +7302,7 @@
   },
   {
     "name": "全家興南店",
-    "id": "018052",
+    "id": "025447",
     "tel": "02-27552227",
     "lat": 25.03291,
     "lng": 121.543332,
@@ -7418,7 +7358,7 @@
   },
   {
     "name": "全家敦鼎店",
-    "id": "019051",
+    "id": "025446",
     "tel": "02-27018593",
     "lat": 25.030195,
     "lng": 121.549291,
@@ -9325,7 +9265,10 @@
     "area": "信義區",
     "road": "信安街",
     "address": "台北市信義區信安街 47 巷 23 號 1 樓",
-    "service": []
+    "service": [
+      "famiice",
+      "single-famiice"
+    ]
   },
   {
     "name": "全家祥和店",
@@ -9629,25 +9572,6 @@
     ]
   },
   {
-    "name": "全家新天地店",
-    "id": "022320",
-    "tel": "02-28811327",
-    "lat": 25.089102,
-    "lng": 121.517584,
-    "city": "台北市",
-    "area": "士林區",
-    "road": "大南路",
-    "address": "台北市士林區大南路 346 號 1 樓",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家華港店",
     "id": "025199",
     "tel": "02-28810722",
@@ -9678,6 +9602,25 @@
     "road": "大南路",
     "address": "台北市士林區大南路 52 號",
     "service": [
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家新天地店",
+    "id": "022320",
+    "tel": "02-28811327",
+    "lat": 25.089102,
+    "lng": 121.517584,
+    "city": "台北市",
+    "area": "士林區",
+    "road": "大南路",
+    "address": "台北市士林區大南路 346 號 1 樓",
+    "service": [
+      "famiice",
+      "single-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -9845,8 +9788,9 @@
     "address": "台北市士林區天母西路 40-2 號 1 樓",
     "service": [
       "famiice",
+      "single-famiice",
       "rest-area",
-      "two-famiice",
+      "special-famiice",
       "sohot-dessert",
       "charge-spot",
       "hot-dog"
@@ -9963,10 +9907,7 @@
     "road": "至善路二段",
     "address": "台北市士林區至善路二段 34 號",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
-      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -10024,12 +9965,32 @@
     "address": "台北市士林區延平北路八段 105 號 1 樓",
     "service": [
       "famiice",
+      "single-famiice",
       "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
       "hot-dog"
+    ]
+  },
+  {
+    "name": "全家葫蘆店",
+    "id": "022293",
+    "tel": "02-88114965",
+    "lat": 25.085598,
+    "lng": 121.509472,
+    "city": "台北市",
+    "area": "士林區",
+    "road": "延平北路五段",
+    "address": "台北市士林區延平北路五段 283 之 1 號",
+    "service": [
+      "famiice",
+      "single-famiice",
+      "rest-area",
+      "sohot-dessert",
+      "charge-spot",
+      "recyclable-cup"
     ]
   },
   {
@@ -10055,22 +10016,21 @@
     ]
   },
   {
-    "name": "全家葫蘆店",
-    "id": "022293",
-    "tel": "02-88114965",
-    "lat": 25.085598,
-    "lng": 121.509472,
+    "name": "全家新蘭雅店",
+    "id": "023832",
+    "tel": "02-28314977",
+    "lat": 25.11085,
+    "lng": 121.53037,
     "city": "台北市",
     "area": "士林區",
-    "road": "延平北路五段",
-    "address": "台北市士林區延平北路五段 283 之 1 號",
+    "road": "忠誠路二段",
+    "address": "台北市士林區忠誠路二段 52 號壹樓及地下室部份",
     "service": [
-      "famiice",
-      "single-famiice",
+      "toilet",
       "rest-area",
       "sohot-dessert",
       "charge-spot",
-      "recyclable-cup"
+      "hot-dog"
     ]
   },
   {
@@ -10089,24 +10049,6 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家新蘭雅店",
-    "id": "023832",
-    "tel": "02-28314977",
-    "lat": 25.11085,
-    "lng": 121.53037,
-    "city": "台北市",
-    "area": "士林區",
-    "road": "忠誠路二段",
-    "address": "台北市士林區忠誠路二段 52 號壹樓及地下室部份",
-    "service": [
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
-      "charge-spot",
       "hot-dog"
     ]
   },
@@ -10497,26 +10439,6 @@
     ]
   },
   {
-    "name": "全家德行店",
-    "id": "022840",
-    "tel": "02-28314191",
-    "lat": 25.107915,
-    "lng": 121.528311,
-    "city": "台北市",
-    "area": "士林區",
-    "road": "德行東路",
-    "address": "台北市士林區德行東路 109 巷 3 號",
-    "service": [
-      "famiice",
-      "rest-area",
-      "two-famiice",
-      "sohot-dessert",
-      "charge-spot",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家三合店",
     "id": "019263",
     "tel": "02-28946764",
@@ -10536,7 +10458,7 @@
   },
   {
     "name": "全家崇合店",
-    "id": "020402",
+    "id": "025431",
     "tel": "02-28972076",
     "lat": 25.126239,
     "lng": 121.501171,
@@ -10550,21 +10472,6 @@
       "sohot-dessert",
       "recyclable-cup",
       "hot-dog"
-    ]
-  },
-  {
-    "name": "全家大同店",
-    "id": "021089",
-    "tel": "02-28919974",
-    "lat": 25.132132,
-    "lng": 121.497258,
-    "city": "台北市",
-    "area": "北投區",
-    "road": "大業路",
-    "address": "台北市北投區大業路 452 巷 31 號",
-    "service": [
-      "rest-area",
-      "sohot-dessert"
     ]
   },
   {
@@ -10633,7 +10540,7 @@
   },
   {
     "name": "全家文化店",
-    "id": "023392",
+    "id": "025496",
     "tel": "02-28976316",
     "lat": 25.13678,
     "lng": 121.495075,
@@ -10837,8 +10744,6 @@
     "road": "石牌路一段",
     "address": "台北市北投區石牌路一段 166 巷 93 號",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "sohot-dessert",
@@ -10983,6 +10888,26 @@
     ]
   },
   {
+    "name": "全家唭哩店",
+    "id": "023437",
+    "tel": "02-28219568",
+    "lat": 25.12049,
+    "lng": 121.506376,
+    "city": "台北市",
+    "area": "北投區",
+    "road": "西安街二段",
+    "address": "臺北市北投區西安街二段 283 號",
+    "service": [
+      "rest-area",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "steam-fresh",
+      "recyclable-cup",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家華儷店",
     "id": "022256",
     "tel": "02-29266847",
@@ -11003,26 +10928,6 @@
       "sohot-grill",
       "hot-dog",
       "jpy-atm"
-    ]
-  },
-  {
-    "name": "全家唭哩店",
-    "id": "023437",
-    "tel": "02-28219568",
-    "lat": 25.12049,
-    "lng": 121.506376,
-    "city": "台北市",
-    "area": "北投區",
-    "road": "西安街二段",
-    "address": "臺北市北投區西安街二段 283 號",
-    "service": [
-      "rest-area",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "steam-fresh",
-      "recyclable-cup",
-      "hot-dog"
     ]
   },
   {
@@ -11652,7 +11557,7 @@
   {
     "name": "全家湖雲店",
     "id": "025240",
-    "tel": "02-",
+    "tel": "02-87918073",
     "lat": 25.082101,
     "lng": 121.592506,
     "city": "台北市",
@@ -11817,7 +11722,7 @@
   },
   {
     "name": "全家台塑店",
-    "id": "022836",
+    "id": "025489",
     "tel": "02-27940810",
     "lat": 25.059301,
     "lng": 121.586806,
@@ -12589,7 +12494,7 @@
   },
   {
     "name": "全家南港公宅店",
-    "id": "019213",
+    "id": "025510",
     "tel": "02-26546142",
     "lat": 25.054765,
     "lng": 121.60478,
@@ -13180,7 +13085,7 @@
   },
   {
     "name": "全家順新店",
-    "id": "025212",
+    "id": "025519",
     "tel": "02-",
     "lat": 24.981999,
     "lng": 121.559908,
@@ -13531,14 +13436,17 @@
   {
     "name": "全家樟鑫店",
     "id": "025239",
-    "tel": "02-",
+    "tel": "02-29371038",
     "lat": 24.978907,
     "lng": 121.555442,
     "city": "台北市",
     "area": "文山區",
     "road": "樟新街",
     "address": "台北市文山區樟新街 19 號 1 樓",
-    "service": []
+    "service": [
+      "famiice",
+      "single-famiice"
+    ]
   },
   {
     "name": "全家萬興店",
@@ -13695,7 +13603,7 @@
   },
   {
     "name": "全家再興店",
-    "id": "014696",
+    "id": "025536",
     "tel": "02-22302780",
     "lat": 24.99499,
     "lng": 121.561509,
@@ -13932,26 +13840,6 @@
     "service": [
       "toilet",
       "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家金山陽金店",
-    "id": "020988",
-    "tel": "02-24256032",
-    "lat": 25.22119393,
-    "lng": 121.63162086,
-    "city": "新北市",
-    "area": "金山區",
-    "road": "中正路",
-    "address": "新北市金山區中正路 149 號加（後方停車場）",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "special-famiice",
-      "sohot-dessert",
-      "costco-shelf",
       "charge-spot",
       "hot-dog"
     ]
@@ -14485,6 +14373,30 @@
     ]
   },
   {
+    "name": "全家板橋漢西店",
+    "id": "023019",
+    "tel": "02-22548179",
+    "lat": 25.020853,
+    "lng": 121.465214,
+    "city": "新北市",
+    "area": "板橋區",
+    "road": "文化路一段",
+    "address": "新北市板橋區文化路一段 313 號",
+    "service": [
+      "famiice",
+      "two-famiice",
+      "special-famiice",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "formosa-tea",
+      "spicy-egg",
+      "sohot-grill",
+      "cook-now",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家板橋致科店",
     "id": "024240",
     "tel": "02-22569453",
@@ -14980,7 +14892,7 @@
   },
   {
     "name": "全家板橋興宜宅店",
-    "id": "024513",
+    "id": "025475",
     "tel": "02-29660189",
     "lat": 24.998948,
     "lng": 121.447333,
@@ -15581,6 +15493,21 @@
     ]
   },
   {
+    "name": "全家板橋亞東二店",
+    "id": "025179",
+    "tel": "02-89660013",
+    "lat": 24.997338,
+    "lng": 121.452287,
+    "city": "新北市",
+    "area": "板橋區",
+    "road": "南雅南路二段",
+    "address": "新北市板橋區南雅南路二段 21 號大廳",
+    "service": [
+      "sohot-dessert",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家板橋亞東一店",
     "id": "025213",
     "tel": "02-89675467",
@@ -15597,21 +15524,6 @@
       "sohot-dessert",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家板橋亞東二店",
-    "id": "025179",
-    "tel": "02-89660013",
-    "lat": 24.997338,
-    "lng": 121.452287,
-    "city": "新北市",
-    "area": "板橋區",
-    "road": "南雅南路二段",
-    "address": "新北市板橋區南雅南路二段 21 號大廳",
-    "service": [
-      "sohot-dessert",
       "hot-dog"
     ]
   },
@@ -15639,7 +15551,7 @@
   },
   {
     "name": "全家板橋慶豐店",
-    "id": "020568",
+    "id": "025466",
     "tel": "02-89535147",
     "lat": 24.99951,
     "lng": 121.463053,
@@ -16112,22 +16024,16 @@
     ]
   },
   {
-    "name": "全家板橋裕盛店",
-    "id": "024027",
-    "tel": "02-22581579",
-    "lat": 25.027921,
-    "lng": 121.460234,
+    "name": "全家板橋萬興店",
+    "id": "025210",
+    "tel": "02-89536142",
+    "lat": 25.023569,
+    "lng": 121.482903,
     "city": "新北市",
     "area": "板橋區",
-    "road": "裕民街",
-    "address": "新北市板橋區裕民街 95 號",
-    "service": [
-      "rest-area",
-      "sohot-dessert",
-      "charge-spot",
-      "recyclable-cup",
-      "hot-dog"
-    ]
+    "road": "萬安街",
+    "address": "新北市板橋區萬安街 53 巷 27 號",
+    "service": []
   },
   {
     "name": "全家板橋新裕店",
@@ -16164,6 +16070,24 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家板橋裕盛店",
+    "id": "024027",
+    "tel": "02-22581579",
+    "lat": 25.027921,
+    "lng": 121.460234,
+    "city": "新北市",
+    "area": "板橋區",
+    "road": "裕民街",
+    "address": "新北市板橋區裕民街 95 號",
+    "service": [
+      "rest-area",
+      "sohot-dessert",
+      "charge-spot",
+      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -16237,30 +16161,6 @@
       "single-famiice",
       "special-famiice",
       "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家板橋漢西店",
-    "id": "023019",
-    "tel": "02-22548179",
-    "lat": 25.020853,
-    "lng": 121.465214,
-    "city": "新北市",
-    "area": "板橋區",
-    "road": "漢生西路",
-    "address": "新北市板橋區文化路一段 313 號",
-    "service": [
-      "famiice",
-      "two-famiice",
-      "special-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "formosa-tea",
-      "spicy-egg",
-      "sohot-grill",
-      "cook-now",
       "hot-dog"
     ]
   },
@@ -17231,7 +17131,7 @@
   },
   {
     "name": "全家汐止日月光店",
-    "id": "018859",
+    "id": "025477",
     "tel": "02-26486322",
     "lat": 25.07332,
     "lng": 121.638188,
@@ -17526,7 +17426,7 @@
   {
     "name": "全家汐止江山店",
     "id": "025301",
-    "tel": "02-",
+    "tel": "02-26416093",
     "lat": 25.067174,
     "lng": 121.668253,
     "city": "新北市",
@@ -17901,7 +17801,7 @@
   },
   {
     "name": "全家深坑昇高店",
-    "id": "019681",
+    "id": "025411",
     "tel": "02-26649860",
     "lat": 25.002456,
     "lng": 121.620397,
@@ -18255,7 +18155,7 @@
   },
   {
     "name": "全家新店新中央店",
-    "id": "017773",
+    "id": "025473",
     "tel": "02-22197580",
     "lat": 24.977077,
     "lng": 121.532635,
@@ -18507,8 +18407,6 @@
     "road": "文化路",
     "address": "新北市新店區文化路 17 號",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
       "sohot-dessert",
       "charge-spot",
@@ -18616,7 +18514,7 @@
   },
   {
     "name": "全家新店行政店",
-    "id": "020221",
+    "id": "025487",
     "tel": "02-89146697",
     "lat": 24.96729842,
     "lng": 121.54209263,
@@ -18672,7 +18570,7 @@
   },
   {
     "name": "全家新店忠誠店",
-    "id": "020149",
+    "id": "025467",
     "tel": "02-29158815",
     "lat": 24.97497,
     "lng": 121.542742,
@@ -18716,14 +18614,17 @@
   {
     "name": "全家新店大坪林店",
     "id": "025292",
-    "tel": "02-",
+    "tel": "02-89145497",
     "lat": 24.981876,
     "lng": 121.541698,
     "city": "新北市",
     "area": "新店區",
     "road": "北新路三段",
     "address": "新北市新店區北新路三段 126 號 1 樓",
-    "service": []
+    "service": [
+      "famiice",
+      "single-famiice"
+    ]
   },
   {
     "name": "全家新店央北店",
@@ -19349,7 +19250,7 @@
   },
   {
     "name": "全家新店江陵店",
-    "id": "023974",
+    "id": "025398",
     "tel": "02-22190529",
     "lat": 24.981026,
     "lng": 121.537519,
@@ -19535,7 +19436,6 @@
     "address": "新北市新店區德正街 27 巷 1 號",
     "service": [
       "famiice",
-      "toilet",
       "rest-area",
       "two-famiice",
       "baked-potato",
@@ -21522,7 +21422,7 @@
   },
   {
     "name": "全家中和遠建店",
-    "id": "012607",
+    "id": "025539",
     "tel": "02-82272991",
     "lat": 24.997336,
     "lng": 121.487778,
@@ -22012,7 +21912,7 @@
   },
   {
     "name": "全家中和摩天店",
-    "id": "025234",
+    "id": "025488",
     "tel": "02-89423447",
     "lat": 24.992388,
     "lng": 121.516444,
@@ -22980,6 +22880,18 @@
       "charge-spot",
       "hot-dog"
     ]
+  },
+  {
+    "name": "全家土城永富店",
+    "id": "025426",
+    "tel": "02-",
+    "lat": 24.98322,
+    "lng": 121.466493,
+    "city": "新北市",
+    "area": "土城區",
+    "road": "永豐路",
+    "address": "新北市土城區永豐路 202 巷 3-1 號 1 樓",
+    "service": []
   },
   {
     "name": "全家土城虎躍店",
@@ -23969,7 +23881,7 @@
   },
   {
     "name": "全家三峽大勇店",
-    "id": "023290",
+    "id": "025372",
     "tel": "02-26734590",
     "lat": 24.935888,
     "lng": 121.367118,
@@ -24187,27 +24099,6 @@
     ]
   },
   {
-    "name": "全家三峽大學店",
-    "id": "020626",
-    "tel": "02-86721732",
-    "lat": 24.94570742,
-    "lng": 121.37335363,
-    "city": "新北市",
-    "area": "三峽區",
-    "road": "學勤路",
-    "address": "新北市三峽區學勤路 1 號 1 樓",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "special-famiice",
-      "sohot-dessert",
-      "costco-shelf",
-      "charge-spot",
-      "hot-dog",
-      "jpy-atm"
-    ]
-  },
-  {
     "name": "全家三峽學勝店",
     "id": "019202",
     "tel": "02-86716146",
@@ -24254,8 +24145,6 @@
     "road": "三俊街",
     "address": "新北市樹林區三俊街 127 號 1F",
     "service": [
-      "famiice",
-      "single-famiice",
       "toilet",
       "rest-area",
       "sohot-dessert",
@@ -24643,7 +24532,7 @@
   },
   {
     "name": "全家樹林五圓店",
-    "id": "025894",
+    "id": "025482",
     "tel": "02-86864723",
     "lat": 24.980973,
     "lng": 121.424422,
@@ -25291,7 +25180,7 @@
   {
     "name": "全家鶯歌建新店",
     "id": "025265",
-    "tel": "02-",
+    "tel": "02-26703332",
     "lat": 24.95369,
     "lng": 121.350894,
     "city": "新北市",
@@ -27213,7 +27102,7 @@
   {
     "name": "全家新莊新庄店",
     "id": "025262",
-    "tel": "02-",
+    "tel": "02-29901482",
     "lat": 25.035864,
     "lng": 121.452903,
     "city": "新北市",
@@ -27606,7 +27495,7 @@
   },
   {
     "name": "全家新莊新市店",
-    "id": "020520",
+    "id": "025348",
     "tel": "02-85212417",
     "lat": 25.059739,
     "lng": 121.462614,
@@ -27768,7 +27657,10 @@
     "road": "民安西路",
     "address": "新北市新莊區民安西路 247 號 1 樓",
     "service": [
+      "famiice",
+      "single-famiice",
       "rest-area",
+      "special-famiice",
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
@@ -28460,9 +28352,6 @@
     "road": "新豐街",
     "address": "新北市新莊區新豐街 11 號、 13 號 1 樓",
     "service": [
-      "famiice",
-      "single-famiice",
-      "special-famiice",
       "sohot-dessert",
       "charge-spot",
       "hot-dog"
@@ -29031,7 +28920,7 @@
   {
     "name": "全家泰山義東店",
     "id": "025261",
-    "tel": "02-",
+    "tel": "02-85317132",
     "lat": 25.050169,
     "lng": 121.438447,
     "city": "新北市",
@@ -29565,7 +29454,7 @@
   },
   {
     "name": "全家林口文義店",
-    "id": "019055",
+    "id": "025420",
     "tel": "02-26090866",
     "lat": 25.08201218,
     "lng": 121.37535669,
@@ -30249,7 +30138,7 @@
   },
   {
     "name": "全家蘆洲中華店",
-    "id": "017993",
+    "id": "025461",
     "tel": "02-82814768",
     "lat": 25.080097,
     "lng": 121.467496,
@@ -30723,7 +30612,7 @@
   {
     "name": "全家五股臻愛店",
     "id": "025312",
-    "tel": "02-",
+    "tel": "02-22952475",
     "lat": 25.095183,
     "lng": 121.447827,
     "city": "新北市",
@@ -30931,6 +30820,18 @@
     ]
   },
   {
+    "name": "全家五股微風店",
+    "id": "025407",
+    "tel": "02-",
+    "lat": 25.090772,
+    "lng": 121.446954,
+    "city": "新北市",
+    "area": "五股區",
+    "road": "新五路三段",
+    "address": "新北市五股區新五路三段 268 號 1、2、3 樓",
+    "service": []
+  },
+  {
     "name": "全家五股洲子洋店",
     "id": "016882",
     "tel": "02-22953856",
@@ -30996,6 +30897,18 @@
       "cook-now",
       "hot-dog"
     ]
+  },
+  {
+    "name": "全家八里中山店",
+    "id": "025408",
+    "tel": "02-",
+    "lat": 25.146829,
+    "lng": 121.398207,
+    "city": "新北市",
+    "area": "八里區",
+    "road": "中山路二段",
+    "address": "新北市八里區中山路二段 387 號 1 樓",
+    "service": []
   },
   {
     "name": "全家八里中華店",
@@ -31311,7 +31224,7 @@
   {
     "name": "全家淡水河岸店",
     "id": "025181",
-    "tel": "02-",
+    "tel": "02-26265187",
     "lat": 25.16823193,
     "lng": 121.44555426,
     "city": "新北市",
@@ -31611,6 +31524,18 @@
       "recyclable-cup",
       "hot-dog"
     ]
+  },
+  {
+    "name": "全家淡水民勝店",
+    "id": "025409",
+    "tel": "02-28087438",
+    "lat": 25.13528092,
+    "lng": 121.46283563,
+    "city": "新北市",
+    "area": "淡水區",
+    "road": "民族路",
+    "address": "新北市淡水區民族路 51 號 1 樓",
+    "service": []
   },
   {
     "name": "全家淡水加州店",
@@ -32591,6 +32516,18 @@
     ]
   },
   {
+    "name": "全家中壢金夜市店",
+    "id": "025306",
+    "tel": "03-4937145",
+    "lat": 24.959207,
+    "lng": 121.214079,
+    "city": "桃園市",
+    "area": "中壢區",
+    "road": "中央西路二段",
+    "address": "桃園市中壢區中央西路二段 148 號 1 樓",
+    "service": []
+  },
+  {
     "name": "全家中壢龍凱店",
     "id": "018328",
     "tel": "03-4207322",
@@ -32657,27 +32594,6 @@
     ]
   },
   {
-    "name": "全家中壢聯運店",
-    "id": "020476",
-    "tel": "03-4265772",
-    "lat": 24.95358,
-    "lng": 121.224706,
-    "city": "桃園市",
-    "area": "中壢區",
-    "road": "中和路",
-    "address": "桃園市中壢區中和路 146、148 號 1 樓",
-    "service": [
-      "famiice",
-      "two-famiice",
-      "sohot-dessert",
-      "charge-spot",
-      "sohot-grill",
-      "cook-now",
-      "hot-dog",
-      "jpy-atm"
-    ]
-  },
-  {
     "name": "全家中壢新臺鐵店",
     "id": "023457",
     "tel": "03-2841406",
@@ -32690,6 +32606,28 @@
     "service": [
       "sohot-dessert",
       "hot-dog"
+    ]
+  },
+  {
+    "name": "全家中壢聯運店",
+    "id": "020476",
+    "tel": "03-4265772",
+    "lat": 24.95358,
+    "lng": 121.224706,
+    "city": "桃園市",
+    "area": "中壢區",
+    "road": "中和路",
+    "address": "桃園市中壢區中和路 146、148 號 1 樓",
+    "service": [
+      "famiice",
+      "two-famiice",
+      "special-famiice",
+      "sohot-dessert",
+      "charge-spot",
+      "sohot-grill",
+      "cook-now",
+      "hot-dog",
+      "jpy-atm"
     ]
   },
   {
@@ -33166,6 +33104,18 @@
       "cook-now",
       "hot-dog"
     ]
+  },
+  {
+    "name": "全家中壢金利民店",
+    "id": "025307",
+    "tel": "03-2830582",
+    "lat": 24.9523,
+    "lng": 121.237661,
+    "city": "桃園市",
+    "area": "中壢區",
+    "road": "利民路",
+    "address": "桃園市中壢區利民路 1 號",
+    "service": []
   },
   {
     "name": "全家中壢延平店",
@@ -33787,7 +33737,7 @@
   },
   {
     "name": "全家中壢元大一店",
-    "id": "014600",
+    "id": "025396",
     "tel": "03-4358022",
     "lat": 24.969239,
     "lng": 121.262951,
@@ -33907,7 +33857,7 @@
   },
   {
     "name": "全家中壢青雲店",
-    "id": "021389",
+    "id": "025311",
     "tel": "03-2873930",
     "lat": 25.013076,
     "lng": 121.221771,
@@ -34119,7 +34069,7 @@
   },
   {
     "name": "全家中壢龍門店",
-    "id": "019763",
+    "id": "025436",
     "tel": "03-4507940",
     "lat": 24.928586,
     "lng": 121.241473,
@@ -34176,7 +34126,7 @@
   },
   {
     "name": "全家中壢龍平店",
-    "id": "023195",
+    "id": "025298",
     "tel": "03-4657273",
     "lat": 24.933591,
     "lng": 121.256173,
@@ -34936,23 +34886,6 @@
     ]
   },
   {
-    "name": "全家龍潭五福店",
-    "id": "023915",
-    "tel": "03-4807507",
-    "lat": 24.865112,
-    "lng": 121.21718,
-    "city": "桃園市",
-    "area": "龍潭區",
-    "road": "中正路",
-    "address": "桃園市龍潭區中正路 187 之 9 號",
-    "service": [
-      "rest-area",
-      "sohot-dessert",
-      "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家龍潭興龍店",
     "id": "025075",
     "tel": "03-4809934",
@@ -35181,6 +35114,18 @@
       "hot-dog",
       "jpy-atm"
     ]
+  },
+  {
+    "name": "全家龍潭大草坪店",
+    "id": "025336",
+    "tel": "03-4115376",
+    "lat": 24.834304140598903,
+    "lng": 121.24082580125808,
+    "city": "桃園市",
+    "area": "龍潭區",
+    "road": "佳安路",
+    "address": "桃園市龍潭區佳安路 5 號",
+    "service": []
   },
   {
     "name": "全家龍潭東龍店",
@@ -35855,11 +35800,8 @@
     "road": "新榮路",
     "address": "桃園市新屋區新榮路 206 號",
     "service": [
-      "famiice",
       "toilet",
       "rest-area",
-      "two-famiice",
-      "special-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -36228,6 +36170,24 @@
     ]
   },
   {
+    "name": "全家桃園鶴岡店",
+    "id": "018186",
+    "tel": "03-2160572",
+    "lat": 25.009822,
+    "lng": 121.297632,
+    "city": "桃園市",
+    "area": "桃園區",
+    "road": "大興西路二段",
+    "address": "桃園市桃園區大興西路二段 139 巷 77 號",
+    "service": [
+      "rest-area",
+      "sohot-dessert",
+      "charge-spot",
+      "recyclable-cup",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家桃園御賞店",
     "id": "022083",
     "tel": "03-2161611",
@@ -36246,24 +36206,6 @@
       "charge-spot",
       "hot-dog",
       "jpy-atm"
-    ]
-  },
-  {
-    "name": "全家桃園鶴岡店",
-    "id": "018186",
-    "tel": "03-2160572",
-    "lat": 25.009822,
-    "lng": 121.297632,
-    "city": "桃園市",
-    "area": "桃園區",
-    "road": "大興西路二段",
-    "address": "桃園市桃園區大興西路二段 139 巷 77 號",
-    "service": [
-      "rest-area",
-      "sohot-dessert",
-      "charge-spot",
-      "recyclable-cup",
-      "hot-dog"
     ]
   },
   {
@@ -36325,22 +36267,6 @@
       "sohot-dessert",
       "hot-dog",
       "jpy-atm"
-    ]
-  },
-  {
-    "name": "全家桃園國陽店",
-    "id": "014546",
-    "tel": "03-3377356",
-    "lat": 24.995822,
-    "lng": 121.314536,
-    "city": "桃園市",
-    "area": "桃園區",
-    "road": "中山東路",
-    "address": "桃園市桃園區中山東路 32 之 21 號 1 樓、 B1",
-    "service": [
-      "rest-area",
-      "sohot-dessert",
-      "hot-dog"
     ]
   },
   {
@@ -36716,7 +36642,7 @@
   },
   {
     "name": "全家桃園米蘭店",
-    "id": "023183",
+    "id": "025501",
     "tel": "03-4770939",
     "lat": 25.005088,
     "lng": 121.292118,
@@ -37056,7 +36982,7 @@
   },
   {
     "name": "全家桃園建國店",
-    "id": "019677",
+    "id": "025497",
     "tel": "03-3766328",
     "lat": 24.983695,
     "lng": 121.314779,
@@ -38526,7 +38452,7 @@
   },
   {
     "name": "全家龜山光啟店",
-    "id": "019785",
+    "id": "025546",
     "tel": "02-82001363",
     "lat": 25.017827,
     "lng": 121.40378,
@@ -38673,6 +38599,18 @@
       "hot-dog",
       "jpy-atm"
     ]
+  },
+  {
+    "name": "全家龜山文樂店",
+    "id": "025428",
+    "tel": "03-3234007",
+    "lat": 25.047128,
+    "lng": 121.38278,
+    "city": "桃園市",
+    "area": "龜山區",
+    "road": "樂善二路",
+    "address": "桃園市龜山區樂善二路 143 號",
+    "service": []
   },
   {
     "name": "全家龜山金文達店",
@@ -39132,6 +39070,18 @@
     ]
   },
   {
+    "name": "全家八德桃德店",
+    "id": "025305",
+    "tel": "03-3627176",
+    "lat": 24.968184,
+    "lng": 121.294599,
+    "city": "桃園市",
+    "area": "八德區",
+    "road": "桃德路",
+    "address": "桃園市八德區桃德路 125 號",
+    "service": []
+  },
+  {
     "name": "全家八德桃鶯店",
     "id": "024542",
     "tel": "03-3621084",
@@ -39339,25 +39289,6 @@
       "sohot-grill",
       "cook-now",
       "hot-dog"
-    ]
-  },
-  {
-    "name": "全家八德青年店",
-    "id": "024784",
-    "tel": "03-3684147",
-    "lat": 24.925419,
-    "lng": 121.288006,
-    "city": "桃園市",
-    "area": "八德區",
-    "road": "豐德路",
-    "address": "桃園市八德區豐德路 318 號 1 樓",
-    "service": [
-      "baked-potato",
-      "sohot-dessert",
-      "costco-shelf",
-      "charge-spot",
-      "hot-dog",
-      "jpy-atm"
     ]
   },
   {
@@ -40334,22 +40265,6 @@
     ]
   },
   {
-    "name": "全家蘆竹忠孝西店",
-    "id": "023037",
-    "tel": "03-3331571",
-    "lat": 25.041212,
-    "lng": 121.289801,
-    "city": "桃園市",
-    "area": "蘆竹區",
-    "road": "忠孝西路",
-    "address": "桃園市蘆竹區南昌路 197 號",
-    "service": [
-      "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家蘆竹星馳店",
     "id": "023621",
     "tel": "03-3529579",
@@ -40437,7 +40352,7 @@
   },
   {
     "name": "全家蘆竹南山店",
-    "id": "020961",
+    "id": "025397",
     "tel": "03-2121487",
     "lat": 25.051866,
     "lng": 121.292073,
@@ -40554,6 +40469,22 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家蘆竹忠孝西店",
+    "id": "023037",
+    "tel": "03-3331571",
+    "lat": 25.041212,
+    "lng": 121.289801,
+    "city": "桃園市",
+    "area": "蘆竹區",
+    "road": "南昌路",
+    "address": "桃園市蘆竹區南昌路 197 號",
+    "service": [
+      "sohot-dessert",
+      "charge-spot",
       "hot-dog"
     ]
   },
@@ -40715,7 +40646,7 @@
   },
   {
     "name": "全家蘆竹開南店",
-    "id": "014716",
+    "id": "025395",
     "tel": "03-2161494",
     "lat": 25.009297,
     "lng": 121.271222,
@@ -40862,23 +40793,6 @@
       "charge-spot",
       "hot-dog",
       "jpy-atm"
-    ]
-  },
-  {
-    "name": "全家新竹中山店",
-    "id": "015051",
-    "tel": "03-5268570",
-    "lat": 24.801085,
-    "lng": 120.960514,
-    "city": "新竹市",
-    "area": "北區",
-    "road": "四維路",
-    "address": "新竹市北區四維路 91 號",
-    "service": [
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
-      "hot-dog"
     ]
   },
   {
@@ -41154,23 +41068,49 @@
     ]
   },
   {
-    "name": "全家新竹天群店",
-    "id": "018795",
-    "tel": "03-5322090",
-    "lat": 24.816338,
-    "lng": 120.963481,
+    "name": "全家新竹荷蘭村店",
+    "id": "025124",
+    "tel": "03-5451966",
+    "lat": 24.821611,
+    "lng": 120.968108,
     "city": "新竹市",
     "area": "北區",
     "road": "武陵路",
-    "address": "新竹市北區武陵路 36-1 號 1、2 樓",
+    "address": "新竹市北區武陵路 175 巷 2 號 1 樓",
     "service": [
+      "famiice",
       "toilet",
       "rest-area",
+      "fresh-vegetables",
+      "two-famiice",
+      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
+      "charge-spot",
       "recyclable-cup",
       "sohot-grill",
+      "cook-now",
+      "no-pork",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家新竹新武陵店",
+    "id": "022409",
+    "tel": "03-5426961",
+    "lat": 24.824257,
+    "lng": 120.970855,
+    "city": "新竹市",
+    "area": "北區",
+    "road": "武陵路",
+    "address": "新竹市北區武陵路 267 號 1 樓",
+    "service": [
+      "toilet",
+      "rest-area",
+      "fresh-vegetables",
+      "sohot-dessert",
+      "charge-spot",
       "hot-dog"
     ]
   },
@@ -41218,49 +41158,23 @@
     ]
   },
   {
-    "name": "全家新竹荷蘭村店",
-    "id": "025124",
-    "tel": "03-5451966",
-    "lat": 24.821611,
-    "lng": 120.968108,
+    "name": "全家新竹天群店",
+    "id": "018795",
+    "tel": "03-5322090",
+    "lat": 24.816338,
+    "lng": 120.963481,
     "city": "新竹市",
     "area": "北區",
     "road": "武陵路",
-    "address": "新竹市北區武陵路 175 巷 2 號 1 樓",
+    "address": "新竹市北區武陵路 36-1 號 1、2 樓",
     "service": [
-      "famiice",
       "toilet",
       "rest-area",
-      "fresh-vegetables",
-      "two-famiice",
-      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
-      "charge-spot",
       "recyclable-cup",
       "sohot-grill",
-      "cook-now",
-      "no-pork",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家新竹新武陵店",
-    "id": "022409",
-    "tel": "03-5426961",
-    "lat": 24.824257,
-    "lng": 120.970855,
-    "city": "新竹市",
-    "area": "北區",
-    "road": "武陵路",
-    "address": "新竹市北區武陵路 267 號 1 樓",
-    "service": [
-      "toilet",
-      "rest-area",
-      "fresh-vegetables",
-      "sohot-dessert",
-      "charge-spot",
       "hot-dog"
     ]
   },
@@ -41500,6 +41414,21 @@
     ]
   },
   {
+    "name": "全家新竹旺宏三店",
+    "id": "018845",
+    "tel": "03-5771386",
+    "lat": 24.764569,
+    "lng": 121.024669,
+    "city": "新竹市",
+    "area": "東區",
+    "road": "力行路",
+    "address": "新竹市東區力行路 19 號 1 樓（新竹科學園區）",
+    "service": [
+      "sohot-dessert",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家新竹晶電店",
     "id": "017707",
     "tel": "03-5797849",
@@ -41515,21 +41444,6 @@
       "spicy-egg",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家新竹旺宏三店",
-    "id": "018845",
-    "tel": "03-5771386",
-    "lat": 24.764569,
-    "lng": 121.024669,
-    "city": "新竹市",
-    "area": "東區",
-    "road": "力行路",
-    "address": "新竹市東區力行路 19 號 1 樓（新竹科學園區）",
-    "service": [
-      "sohot-dessert",
       "hot-dog"
     ]
   },
@@ -41839,24 +41753,6 @@
     ]
   },
   {
-    "name": "全家新竹關東店",
-    "id": "021077",
-    "tel": "03-6686002",
-    "lat": 24.784768,
-    "lng": 121.013334,
-    "city": "新竹市",
-    "area": "東區",
-    "road": "光復路一段",
-    "address": "新竹市東區光復路一段 527 號 1 樓、 527 之 1 號 1 樓",
-    "service": [
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家新竹大贏店",
     "id": "020295",
     "tel": "03-6686798",
@@ -41875,6 +41771,24 @@
       "formosa-tea",
       "hot-dog",
       "jpy-atm"
+    ]
+  },
+  {
+    "name": "全家新竹關東店",
+    "id": "021077",
+    "tel": "03-6686002",
+    "lat": 24.784768,
+    "lng": 121.013334,
+    "city": "新竹市",
+    "area": "東區",
+    "road": "光復路一段",
+    "address": "新竹市東區光復路一段 527 號 1 樓、 527 之 1 號 1 樓",
+    "service": [
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "cook-now",
+      "hot-dog"
     ]
   },
   {
@@ -42016,23 +41930,6 @@
     "service": [
       "sohot-dessert",
       "gogoro-battery-exchange",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家新竹五福店",
-    "id": "023906",
-    "tel": "03-5292709",
-    "lat": 24.767615,
-    "lng": 120.979828,
-    "city": "新竹市",
-    "area": "東區",
-    "road": "明湖路",
-    "address": "新竹市東區明湖路 1255 號 1 樓",
-    "service": [
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
       "hot-dog"
     ]
   },
@@ -42547,6 +42444,23 @@
     ]
   },
   {
+    "name": "全家新竹聯發二店",
+    "id": "022155",
+    "tel": "03-5797735",
+    "lat": 24.768015,
+    "lng": 121.024681,
+    "city": "新竹市",
+    "area": "東區",
+    "road": "篤行一路",
+    "address": "新竹市東區篤行一路 2 號 2 樓",
+    "service": [
+      "baked-potato",
+      "sohot-dessert",
+      "recyclable-cup",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家新竹聯發科店",
     "id": "021536",
     "tel": "03-5783195",
@@ -42564,23 +42478,6 @@
       "steam-fresh",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家新竹聯發二店",
-    "id": "022155",
-    "tel": "03-5797735",
-    "lat": 24.768015,
-    "lng": 121.024681,
-    "city": "新竹市",
-    "area": "東區",
-    "road": "篤行一路",
-    "address": "新竹市東區篤行一路 2 號 2 樓",
-    "service": [
-      "baked-potato",
-      "sohot-dessert",
-      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -43110,6 +43007,18 @@
     ]
   },
   {
+    "name": "全家竹北新嘉豐店",
+    "id": "025386",
+    "tel": "03-6683749",
+    "lat": 24.808681,
+    "lng": 121.024969,
+    "city": "新竹縣",
+    "area": "竹北市",
+    "road": "六家七路",
+    "address": "新竹縣竹北市六家七路 40 號壹樓",
+    "service": []
+  },
+  {
     "name": "全家竹北金六家店",
     "id": "020147",
     "tel": "03-6670542",
@@ -43200,6 +43109,24 @@
     ]
   },
   {
+    "name": "全家竹北達發店",
+    "id": "023520",
+    "tel": "03-5539237",
+    "lat": 24.840806,
+    "lng": 121.016853,
+    "city": "新竹縣",
+    "area": "竹北市",
+    "road": "台元二街",
+    "address": "新竹縣竹北市台元二街 12 號 14 樓",
+    "service": [
+      "baked-potato",
+      "sohot-dessert",
+      "recyclable-cup",
+      "sohot-grill",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家竹北聯詠店",
     "id": "020928",
     "tel": "03-6562880",
@@ -43213,24 +43140,6 @@
       "baked-potato",
       "sohot-dessert",
       "smart-coffee",
-      "recyclable-cup",
-      "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家竹北達發店",
-    "id": "023520",
-    "tel": "03-5539237",
-    "lat": 24.840806,
-    "lng": 121.016853,
-    "city": "新竹縣",
-    "area": "竹北市",
-    "road": "台元二街",
-    "address": "新竹縣竹北市台元二街 12 號 14 樓",
-    "service": [
-      "baked-potato",
-      "sohot-dessert",
       "recyclable-cup",
       "sohot-grill",
       "hot-dog"
@@ -43643,6 +43552,42 @@
     ]
   },
   {
+    "name": "全家竹北台元店",
+    "id": "015673",
+    "tel": "03-5552394",
+    "lat": 24.83975,
+    "lng": 121.0109,
+    "city": "新竹縣",
+    "area": "竹北市",
+    "road": "博愛街",
+    "address": "新竹縣竹北市博愛街 523 號 1 樓",
+    "service": [
+      "toilet",
+      "rest-area",
+      "fresh-vegetables",
+      "baked-potato",
+      "sohot-dessert",
+      "hot-dog",
+      "jpy-atm"
+    ]
+  },
+  {
+    "name": "全家竹北新竹愛店",
+    "id": "016233",
+    "tel": "03-5527543",
+    "lat": 24.83754,
+    "lng": 121.00947,
+    "city": "新竹縣",
+    "area": "竹北市",
+    "road": "博愛街",
+    "address": "新竹縣竹北市博愛街 422 號一樓",
+    "service": [
+      "rest-area",
+      "sohot-dessert",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家竹北台燿店",
     "id": "016356",
     "tel": "03-5555018",
@@ -43686,42 +43631,6 @@
     "address": "新竹縣竹北市博愛街 709 號 1 樓",
     "service": [
       "baked-potato",
-      "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家竹北台元店",
-    "id": "015673",
-    "tel": "03-5552394",
-    "lat": 24.83975,
-    "lng": 121.0109,
-    "city": "新竹縣",
-    "area": "竹北市",
-    "road": "博愛街",
-    "address": "新竹縣竹北市博愛街 523 號 1 樓",
-    "service": [
-      "toilet",
-      "rest-area",
-      "fresh-vegetables",
-      "baked-potato",
-      "sohot-dessert",
-      "hot-dog",
-      "jpy-atm"
-    ]
-  },
-  {
-    "name": "全家竹北新竹愛店",
-    "id": "016233",
-    "tel": "03-5527543",
-    "lat": 24.83754,
-    "lng": 121.00947,
-    "city": "新竹縣",
-    "area": "竹北市",
-    "road": "博愛街",
-    "address": "新竹縣竹北市博愛街 422 號一樓",
-    "service": [
-      "rest-area",
       "sohot-dessert",
       "hot-dog"
     ]
@@ -43773,7 +43682,7 @@
   },
   {
     "name": "全家竹北新光店",
-    "id": "023978",
+    "id": "025433",
     "tel": "03-5516942",
     "lat": 24.839583,
     "lng": 120.996393,
@@ -43860,26 +43769,6 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家竹北嘉豐店",
-    "id": "024998",
-    "tel": "03-6578910",
-    "lat": 24.808921,
-    "lng": 121.025849,
-    "city": "新竹縣",
-    "area": "竹北市",
-    "road": "嘉豐五路二段",
-    "address": "新竹縣竹北市嘉豐五路二段 79 號 1 樓",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "rest-area",
-      "special-famiice",
-      "sohot-dessert",
       "recyclable-cup",
       "hot-dog"
     ]
@@ -44919,6 +44808,18 @@
     ]
   },
   {
+    "name": "全家關西華光店",
+    "id": "025385",
+    "tel": "03-5478828",
+    "lat": 24.772364,
+    "lng": 121.233531,
+    "city": "新竹縣",
+    "area": "關西鎮",
+    "road": "無路名店鋪",
+    "address": "新竹縣關西鎮錦山里 2 鄰錦山 21-8 號",
+    "service": []
+  },
+  {
     "name": "全家關西正義店",
     "id": "019518",
     "tel": "03-5870347",
@@ -45389,7 +45290,7 @@
   },
   {
     "name": "全家尖石那互依店",
-    "id": "020293",
+    "id": "025419",
     "tel": "03-5842060",
     "lat": 24.707979,
     "lng": 121.204535,
@@ -45594,21 +45495,6 @@
       "polaroid",
       "toilet",
       "rest-area",
-      "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家竹南中義店",
-    "id": "018101",
-    "tel": "037-586083",
-    "lat": 24.715593,
-    "lng": 120.906213,
-    "city": "苗栗縣",
-    "area": "竹南鎮",
-    "road": "公義路",
-    "address": "苗栗縣竹南鎮公義路 1354 號 1 樓",
-    "service": [
       "sohot-dessert",
       "hot-dog"
     ]
@@ -46032,8 +45918,6 @@
     "road": "龍山路二段",
     "address": "苗栗縣竹南鎮龍山路二段 2 號一樓",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
       "sohot-dessert",
       "steam-fresh",
@@ -46405,6 +46289,21 @@
       "toilet",
       "sohot-dessert",
       "hot-dog"
+    ]
+  },
+  {
+    "name": "全家頭份忠孝店",
+    "id": "025293",
+    "tel": "037-675862",
+    "lat": 24.689607,
+    "lng": 120.907647,
+    "city": "苗栗縣",
+    "area": "頭份市",
+    "road": "忠孝一路",
+    "address": "苗栗縣頭份市忠孝一路 73 號",
+    "service": [
+      "famiice",
+      "single-famiice"
     ]
   },
   {
@@ -47121,6 +47020,18 @@
       "cook-now",
       "hot-dog"
     ]
+  },
+  {
+    "name": "全家苗栗復興店",
+    "id": "025295",
+    "tel": "037-358527",
+    "lat": 24.555168,
+    "lng": 120.825799,
+    "city": "苗栗縣",
+    "area": "苗栗市",
+    "road": "復興路二段",
+    "address": "苗栗縣苗栗市復興路二段 204 號",
+    "service": []
   },
   {
     "name": "全家苗栗水源店",
@@ -49342,8 +49253,8 @@
     "name": "全家台中柳川美店",
     "id": "025291",
     "tel": "04-23764049",
-    "lat": 24.136252,
-    "lng": 120.666681,
+    "lat": 24.136362147289574,
+    "lng": 120.66679097056958,
     "city": "台中市",
     "area": "西區",
     "road": "柳川西路二段",
@@ -49355,7 +49266,7 @@
   },
   {
     "name": "全家台中美美店",
-    "id": "021905",
+    "id": "025469",
     "tel": "04-23010377",
     "lat": 24.150548,
     "lng": 120.661899,
@@ -49412,7 +49323,7 @@
   },
   {
     "name": "全家台中綠園道店",
-    "id": "022762",
+    "id": "025359",
     "tel": "04-23233938",
     "lat": 24.155773,
     "lng": 120.663221,
@@ -50787,7 +50698,7 @@
   },
   {
     "name": "全家台中和順店",
-    "id": "014968",
+    "id": "025470",
     "tel": "04-24391336",
     "lat": 24.176805,
     "lng": 120.722712,
@@ -51312,27 +51223,6 @@
     ]
   },
   {
-    "name": "全家台中祥順店",
-    "id": "021560",
-    "tel": "04-24392871",
-    "lat": 24.164186,
-    "lng": 120.733193,
-    "city": "台中市",
-    "area": "北屯區",
-    "road": "部子路",
-    "address": "台中市北屯區?子路 309 號",
-    "service": [
-      "famiice",
-      "two-famiice",
-      "special-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "costco-shelf",
-      "charge-spot",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家台中敦化店",
     "id": "021082",
     "tel": "04-22920301",
@@ -51409,6 +51299,27 @@
       "toilet",
       "special-famiice",
       "sohot-dessert",
+      "charge-spot",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家台中祥順店",
+    "id": "021560",
+    "tel": "04-24392871",
+    "lat": 24.164186,
+    "lng": 120.733193,
+    "city": "台中市",
+    "area": "北屯區",
+    "road": "廓子路",
+    "address": "台中市北屯區?子路 309 號",
+    "service": [
+      "famiice",
+      "two-famiice",
+      "special-famiice",
+      "baked-potato",
+      "sohot-dessert",
+      "costco-shelf",
       "charge-spot",
       "hot-dog"
     ]
@@ -51551,6 +51462,22 @@
     ]
   },
   {
+    "name": "全家台中詠成店",
+    "id": "020291",
+    "tel": "04-23934345",
+    "lat": 24.157867,
+    "lng": 120.72951,
+    "city": "台中市",
+    "area": "北屯區",
+    "road": "環太東路",
+    "address": "台中市北屯區環太東路 469 號",
+    "service": [
+      "baked-potato",
+      "sohot-dessert",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家台中環太東店",
     "id": "024215",
     "tel": "04-23937422",
@@ -51568,22 +51495,6 @@
       "sohot-dessert",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家台中詠成店",
-    "id": "020291",
-    "tel": "04-23934345",
-    "lat": 24.157867,
-    "lng": 120.72951,
-    "city": "台中市",
-    "area": "北屯區",
-    "road": "環太東路",
-    "address": "台中市北屯區環太東路 469 號",
-    "service": [
-      "baked-potato",
-      "sohot-dessert",
       "hot-dog"
     ]
   },
@@ -51904,7 +51815,7 @@
   },
   {
     "name": "全家台中真安店",
-    "id": "014779",
+    "id": "025495",
     "tel": "04-22994955",
     "lat": 24.175228,
     "lng": 120.666292,
@@ -53536,7 +53447,7 @@
   },
   {
     "name": "全家台中保安店",
-    "id": "018820",
+    "id": "025403",
     "tel": "04-23500203",
     "lat": 24.148598,
     "lng": 120.608874,
@@ -53612,7 +53523,7 @@
     "city": "台中市",
     "area": "南屯區",
     "road": "建功路",
-    "address": "台中市南屯區建功路 107 之 38 號 107 之 39 號 1 樓",
+    "address": "台中市南屯區建功路 107 之 38 號 107 之 39 號一樓",
     "service": [
       "rest-area",
       "baked-potato",
@@ -53724,6 +53635,21 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
+    ]
+  },
+  {
+    "name": "全家台中豐年店",
+    "id": "025413",
+    "tel": "04-24794126",
+    "lat": 24.11279992673039,
+    "lng": 120.62619291534422,
+    "city": "台中市",
+    "area": "南屯區",
+    "road": "黎明路一段",
+    "address": "台中市南屯區黎明路一段 30 號",
+    "service": [
+      "famiice",
+      "single-famiice"
     ]
   },
   {
@@ -54285,22 +54211,6 @@
     "address": "台中市太平區育賢路 156 號、 158 號",
     "service": [
       "rest-area",
-      "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家太平大道店",
-    "id": "022050",
-    "tel": "04-22790607",
-    "lat": 24.142853,
-    "lng": 120.712865,
-    "city": "台中市",
-    "area": "太平區",
-    "road": "宜昌路",
-    "address": "台中市太平區宜昌路 300 號",
-    "service": [
-      "baked-potato",
       "sohot-dessert",
       "hot-dog"
     ]
@@ -55868,24 +55778,6 @@
     ]
   },
   {
-    "name": "全家烏日金鴿店",
-    "id": "023103",
-    "tel": "04-23360452",
-    "lat": 24.095477,
-    "lng": 120.656718,
-    "city": "台中市",
-    "area": "烏日區",
-    "road": "五光路",
-    "address": "台中市烏日區五光路 95 之 1 號",
-    "service": [
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家烏日光日店",
     "id": "023098",
     "tel": "04-23369013",
@@ -55906,27 +55798,6 @@
       "spicy-egg",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家烏日高鐵店",
-    "id": "024507",
-    "tel": "04-23387882",
-    "lat": 24.110514,
-    "lng": 120.625907,
-    "city": "台中市",
-    "area": "烏日區",
-    "road": "光日路",
-    "address": "台中市烏日區光日路 356、358 號 1 樓",
-    "service": [
-      "famiice",
-      "polaroid",
-      "single-famiice",
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
-      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -56091,29 +55962,16 @@
     ]
   },
   {
-    "name": "全家烏日新溪南店",
-    "id": "019771",
-    "tel": "04-23353211",
-    "lat": 24.073064,
-    "lng": 120.643125,
+    "name": "全家烏日大展店",
+    "id": "025357",
+    "tel": "04-",
+    "lat": 24.074425,
+    "lng": 120.643078,
     "city": "台中市",
     "area": "烏日區",
     "road": "溪南路一段",
-    "address": "台中市烏日區溪南路一段 659 號",
-    "service": [
-      "famiice",
-      "polaroid",
-      "toilet",
-      "rest-area",
-      "two-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "spicy-egg",
-      "cook-now",
-      "no-pork",
-      "hot-dog"
-    ]
+    "address": "台中市烏日區溪南路一段 599 號",
+    "service": []
   },
   {
     "name": "全家烏日新成嶺店",
@@ -57626,26 +57484,6 @@
     ]
   },
   {
-    "name": "全家大雅廣福店",
-    "id": "024862",
-    "tel": "04-25681946",
-    "lat": 24.205977,
-    "lng": 120.644231,
-    "city": "台中市",
-    "area": "大雅區",
-    "road": "中山路",
-    "address": "台中市大雅區橫山里二鄰中山路 47 號 1 樓",
-    "service": [
-      "polaroid",
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
-      "charge-spot",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家大雅好雅店",
     "id": "016378",
     "tel": "04-25606984",
@@ -57749,7 +57587,7 @@
   },
   {
     "name": "全家大雅上楓店",
-    "id": "014667",
+    "id": "025422",
     "tel": "04-25662482",
     "lat": 24.237946,
     "lng": 120.669728,
@@ -60201,7 +60039,7 @@
   },
   {
     "name": "全家彰化旭光店",
-    "id": "024379",
+    "id": "025439",
     "tel": "04-7202747",
     "lat": 24.076039273743206,
     "lng": 120.54703226686478,
@@ -61209,6 +61047,22 @@
     ]
   },
   {
+    "name": "全家和美新頂美店",
+    "id": "025356",
+    "tel": "04-",
+    "lat": 24.1121042,
+    "lng": 120.5168266,
+    "city": "彰化縣",
+    "area": "和美鎮",
+    "road": "柑竹路",
+    "address": "彰化縣和美鎮柑竹路 393 號 1 樓",
+    "service": [
+      "famiice",
+      "two-famiice",
+      "special-famiice"
+    ]
+  },
+  {
     "name": "全家和美德美店",
     "id": "018285",
     "tel": "04-7556549",
@@ -61222,29 +61076,6 @@
       "rest-area",
       "sohot-dessert",
       "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家和美頂美店",
-    "id": "019331",
-    "tel": "04-7350643",
-    "lat": 24.1125139,
-    "lng": 120.5169182,
-    "city": "彰化縣",
-    "area": "和美鎮",
-    "road": "美寮路二段",
-    "address": "彰化縣和美鎮柑井里美寮路二段 2 號 1 樓",
-    "service": [
-      "famiice",
-      "toilet",
-      "rest-area",
-      "two-famiice",
-      "special-famiice",
-      "sohot-dessert",
-      "charge-spot",
-      "spicy-egg",
-      "sohot-grill",
       "hot-dog"
     ]
   },
@@ -62924,7 +62755,7 @@
   {
     "name": "全家南投水源店",
     "id": "025209",
-    "tel": "049-",
+    "tel": "049-2253881",
     "lat": 23.92501717905857,
     "lng": 120.66478808829119,
     "city": "南投縣",
@@ -63516,7 +63347,7 @@
   {
     "name": "全家草屯財神店",
     "id": "025236",
-    "tel": "049-",
+    "tel": "049-2357822",
     "lat": 23.980692,
     "lng": 120.680078,
     "city": "南投縣",
@@ -64137,22 +63968,6 @@
       "famiice",
       "single-famiice",
       "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家魚池日月潭店",
-    "id": "019045",
-    "tel": "049-2850266",
-    "lat": 23.84733,
-    "lng": 120.93232,
-    "city": "南投縣",
-    "area": "魚池鄉",
-    "road": "中正路",
-    "address": "南投縣魚池鄉中正路 286 號",
-    "service": [
-      "sohot-dessert",
-      "charge-spot",
       "hot-dog"
     ]
   },
@@ -66939,7 +66754,7 @@
   },
   {
     "name": "全家嘉義保義店",
-    "id": "021103",
+    "id": "025406",
     "tel": "05-2789759",
     "lat": 23.503709,
     "lng": 120.452942,
@@ -66987,12 +66802,9 @@
     "road": "博東路",
     "address": "嘉義市東區博東路 183 號",
     "service": [
-      "famiice",
       "polaroid",
       "toilet",
       "rest-area",
-      "two-famiice",
-      "special-famiice",
       "sohot-dessert",
       "recyclable-cup",
       "hot-dog"
@@ -67798,7 +67610,7 @@
   },
   {
     "name": "全家中正大學店",
-    "id": "021333",
+    "id": "025704",
     "tel": "05-2723991",
     "lat": 23.536428,
     "lng": 120.467398,
@@ -68159,7 +67971,7 @@
   },
   {
     "name": "全家大林達鄰店",
-    "id": "021925",
+    "id": "025268",
     "tel": "05-2641269",
     "lat": 23.600182,
     "lng": 120.460859,
@@ -68533,24 +68345,6 @@
     ]
   },
   {
-    "name": "全家台南成大店",
-    "id": "017599",
-    "tel": "06-2004692",
-    "lat": 22.996317,
-    "lng": 120.219527,
-    "city": "台南市",
-    "area": "東區",
-    "road": "大學路",
-    "address": "台南市東區大學路 1 號　光復校區學生餐廳",
-    "service": [
-      "sohot-dessert",
-      "spicy-egg",
-      "sohot-grill",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家台南中平店",
     "id": "018973",
     "tel": "06-2094533",
@@ -68626,23 +68420,6 @@
       "recyclable-cup",
       "hot-dog",
       "jpy-atm"
-    ]
-  },
-  {
-    "name": "全家台南仁東店",
-    "id": "025534",
-    "tel": "06-2605708",
-    "lat": 22.969856,
-    "lng": 120.235379,
-    "city": "台南市",
-    "area": "東區",
-    "road": "仁東街",
-    "address": "臺南市東區仁東街 32 號 1 樓",
-    "service": [
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
-      "hot-dog"
     ]
   },
   {
@@ -69529,25 +69306,6 @@
     ]
   },
   {
-    "name": "全家台南臨安店",
-    "id": "020515",
-    "tel": "06-2508275",
-    "lat": 23.002282,
-    "lng": 120.195197,
-    "city": "台南市",
-    "area": "北區",
-    "road": "成功路",
-    "address": "台南市北區成功路 586 號一樓",
-    "service": [
-      "toilet",
-      "rest-area",
-      "sohot-dessert",
-      "costco-shelf",
-      "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家台南長成店",
     "id": "019636",
     "tel": "06-2255085",
@@ -69567,20 +69325,21 @@
     ]
   },
   {
-    "name": "全家台南忠成店",
-    "id": "018993",
-    "tel": "06-2211656",
-    "lat": 22.998488,
-    "lng": 120.205207,
+    "name": "全家台南臨安店",
+    "id": "020515",
+    "tel": "06-2508275",
+    "lat": 23.002282,
+    "lng": 120.195197,
     "city": "台南市",
     "area": "北區",
     "road": "成功路",
-    "address": "台南市北區成功路 118、120 號",
+    "address": "台南市北區成功路 586 號一樓",
     "service": [
       "toilet",
       "rest-area",
       "sohot-dessert",
-      "charge-spot",
+      "costco-shelf",
+      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -69870,7 +69629,7 @@
   },
   {
     "name": "全家台南康裕店",
-    "id": "024937",
+    "id": "025415",
     "tel": "06-2931235",
     "lat": 22.989723,
     "lng": 120.168614,
@@ -70223,7 +69982,10 @@
     "area": "安南區",
     "road": "安和路二段",
     "address": "台南市安南區安和路二段 98 號 B1 餐廳",
-    "service": []
+    "service": [
+      "famiice",
+      "single-famiice"
+    ]
   },
   {
     "name": "全家台南安通店",
@@ -70369,18 +70131,34 @@
     ]
   },
   {
-    "name": "全家台南安南店",
-    "id": "023337",
-    "tel": "06-3584103",
-    "lat": 23.024253,
-    "lng": 120.19187,
+    "name": "全家台南溪墘店",
+    "id": "025402",
+    "tel": "06-3584057",
+    "lat": 23.024314,
+    "lng": 120.193528,
     "city": "台南市",
     "area": "安南區",
     "road": "海佃路一段",
-    "address": "台南市安南區海佃路一段 160 號",
+    "address": "台南市安南區海佃路一段 158 巷 68 號 1 樓",
+    "service": []
+  },
+  {
+    "name": "全家台南府安店",
+    "id": "023599",
+    "tel": "06-3588319",
+    "lat": 23.022159,
+    "lng": 120.18763,
+    "city": "台南市",
+    "area": "安南區",
+    "road": "國安街",
+    "address": "台南市安南區國安街 158 號",
     "service": [
-      "rest-area",
+      "famiice",
+      "single-famiice",
+      "special-famiice",
+      "baked-potato",
       "sohot-dessert",
+      "spicy-egg",
       "recyclable-cup",
       "hot-dog"
     ]
@@ -70400,27 +70178,6 @@
       "single-famiice",
       "baked-potato",
       "sohot-dessert",
-      "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家台南府安店",
-    "id": "023599",
-    "tel": "06-3588319",
-    "lat": 23.022159,
-    "lng": 120.18763,
-    "city": "台南市",
-    "area": "安南區",
-    "road": "國安街",
-    "address": "台南市安南區國安街 158 號",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "special-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "spicy-egg",
       "recyclable-cup",
       "hot-dog"
     ]
@@ -70874,13 +70631,16 @@
     "name": "全家永康安康店",
     "id": "025238",
     "tel": "06-",
-    "lat": 23.044379,
-    "lng": 120.24554,
+    "lat": 23.04450764064866,
+    "lng": 120.24503191897963,
     "city": "台南市",
     "area": "永康區",
     "road": "永安一街",
     "address": "台南市永康區永安一街 16 號",
-    "service": []
+    "service": [
+      "famiice",
+      "two-famiice"
+    ]
   },
   {
     "name": "全家永康永明店",
@@ -70968,7 +70728,7 @@
   },
   {
     "name": "全家永康忠孝店",
-    "id": "019153",
+    "id": "025443",
     "tel": "06-3134320",
     "lat": 23.003924,
     "lng": 120.239968,
@@ -71207,7 +70967,7 @@
   {
     "name": "全家歸仁媽廟店",
     "id": "025309",
-    "tel": "06-",
+    "tel": "06-2309780",
     "lat": 22.995987478998146,
     "lng": 120.29426105522538,
     "city": "台南市",
@@ -71477,23 +71237,6 @@
       "single-famiice",
       "sohot-dessert",
       "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家仁德仁義店",
-    "id": "022100",
-    "tel": "06-2492442",
-    "lat": 22.971204,
-    "lng": 120.255896,
-    "city": "台南市",
-    "area": "仁德區",
-    "road": "中山路",
-    "address": "台南市仁德區中山路 426 號",
-    "service": [
-      "rest-area",
-      "sohot-dessert",
-      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -71877,7 +71620,10 @@
     "area": "麻豆區",
     "road": "無路名店鋪",
     "address": "台南市麻豆區安業里安業 90 之 12 號",
-    "service": []
+    "service": [
+      "famiice",
+      "single-famiice"
+    ]
   },
   {
     "name": "全家麻豆文旦店",
@@ -73505,7 +73251,7 @@
   {
     "name": "全家高雄八德店",
     "id": "025300",
-    "tel": "07-",
+    "tel": "07-2367550",
     "lat": 22.635979,
     "lng": 120.304749,
     "city": "高雄市",
@@ -73601,7 +73347,7 @@
   },
   {
     "name": "全家高雄森華店",
-    "id": "024805",
+    "id": "025287",
     "tel": "07-2364729",
     "lat": 22.632159,
     "lng": 120.305054,
@@ -74535,7 +74281,7 @@
   },
   {
     "name": "全家高雄青海店",
-    "id": "022721",
+    "id": "025400",
     "tel": "07-5227027",
     "lat": 22.65127235,
     "lng": 120.28518471,
@@ -74558,7 +74304,7 @@
   },
   {
     "name": "全家高雄南屏店",
-    "id": "014657",
+    "id": "025437",
     "tel": "07-5536031",
     "lat": 22.664984,
     "lng": 120.299903,
@@ -75396,7 +75142,7 @@
   },
   {
     "name": "全家高雄漁港店",
-    "id": "023716",
+    "id": "025391",
     "tel": "07-8211945",
     "lat": 22.570125,
     "lng": 120.319705,
@@ -75539,7 +75285,7 @@
   },
   {
     "name": "全家高雄如順店",
-    "id": "016675",
+    "id": "025346",
     "tel": "07-3807586",
     "lat": 22.639414,
     "lng": 120.326827,
@@ -75639,23 +75385,6 @@
     ]
   },
   {
-    "name": "全家高雄得陽店",
-    "id": "018963",
-    "tel": "07-3819572",
-    "lat": 22.648138,
-    "lng": 120.331755,
-    "city": "高雄市",
-    "area": "三民區",
-    "road": "大昌二路",
-    "address": "高雄市三民區大昌二路 309-1 號",
-    "service": [
-      "polaroid",
-      "rest-area",
-      "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家高雄褒忠店",
     "id": "021661",
     "tel": "07-3954767",
@@ -75725,23 +75454,6 @@
       "sohot-dessert",
       "charge-spot",
       "hot-dog"
-    ]
-  },
-  {
-    "name": "全家高雄春風店",
-    "id": "022830",
-    "tel": "07-3924487",
-    "lat": 22.648429,
-    "lng": 120.334703,
-    "city": "高雄市",
-    "area": "三民區",
-    "road": "大豐二路",
-    "address": "高雄市三民區大豐二路 457 號一樓右側",
-    "service": [
-      "sohot-dessert",
-      "recyclable-cup",
-      "hot-dog",
-      "jpy-atm"
     ]
   },
   {
@@ -75944,7 +75656,7 @@
   },
   {
     "name": "全家高雄鼎中店",
-    "id": "020989",
+    "id": "025347",
     "tel": "07-3493468",
     "lat": 22.665183,
     "lng": 120.319529,
@@ -76538,6 +76250,38 @@
     ]
   },
   {
+    "name": "全家左營海訓店",
+    "id": "025430",
+    "tel": "07-5810089",
+    "lat": 22.681007,
+    "lng": 120.286935,
+    "city": "高雄市",
+    "area": "楠梓區",
+    "road": "介壽路",
+    "address": "高雄市左營區介壽路 10 號（國軍 503 營站）",
+    "service": []
+  },
+  {
+    "name": "全家高雄經武店",
+    "id": "024660",
+    "tel": "07-3648387",
+    "lat": 22.724469,
+    "lng": 120.301053,
+    "city": "高雄市",
+    "area": "楠梓區",
+    "road": "內環北路",
+    "address": "高雄市楠梓區內環北路 101 號 1 樓-光寶科技 101 室",
+    "service": [
+      "baked-potato",
+      "sohot-dessert",
+      "formosa-tea",
+      "spicy-egg",
+      "sohot-grill",
+      "no-pork",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家日月光十二店",
     "id": "024558",
     "tel": "07-3649535",
@@ -76574,28 +76318,8 @@
     ]
   },
   {
-    "name": "全家高雄經武店",
-    "id": "024660",
-    "tel": "07-3648387",
-    "lat": 22.724469,
-    "lng": 120.301053,
-    "city": "高雄市",
-    "area": "楠梓區",
-    "road": "內環北路",
-    "address": "高雄市楠梓區內環北路 101 號 1 樓-光寶科技 101 室",
-    "service": [
-      "baked-potato",
-      "sohot-dessert",
-      "formosa-tea",
-      "spicy-egg",
-      "sohot-grill",
-      "no-pork",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家高雄加宏店",
-    "id": "024741",
+    "id": "025458",
     "tel": "07-3656976",
     "lat": 22.7180683205673,
     "lng": 120.295720035219,
@@ -76893,7 +76617,7 @@
   },
   {
     "name": "全家日月光三店",
-    "id": "024566",
+    "id": "025441",
     "tel": "07-3654946",
     "lat": 22.72132235,
     "lng": 120.30510471,
@@ -77854,7 +77578,7 @@
   },
   {
     "name": "全家高雄光昌店",
-    "id": "024681",
+    "id": "025442",
     "tel": "07-3655968",
     "lat": 22.70841,
     "lng": 120.297842,
@@ -78333,7 +78057,7 @@
   {
     "name": "全家仁武水管店",
     "id": "025257",
-    "tel": "07-",
+    "tel": "07-3751012",
     "lat": 22.70530271,
     "lng": 120.35384783,
     "city": "高雄市",
@@ -79608,8 +79332,8 @@
     "address": "高雄市鳳山區五甲一路 149 號",
     "service": [
       "famiice",
+      "single-famiice",
       "rest-area",
-      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -80115,8 +79839,6 @@
     "road": "新富路",
     "address": "高雄市鳳山區新富路 210 號",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
       "sohot-dessert",
       "charge-spot",
@@ -81055,9 +80777,7 @@
     "road": "光復路",
     "address": "高雄市六龜區光復路 109 號",
     "service": [
-      "famiice",
       "rest-area",
-      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -81157,7 +80877,7 @@
   },
   {
     "name": "全家茄萣白砂崙店",
-    "id": "014501",
+    "id": "025222",
     "tel": "07-6903182",
     "lat": 22.913101,
     "lng": 120.185084,
@@ -81240,26 +80960,6 @@
     ]
   },
   {
-    "name": "全家屏東愛園店",
-    "id": "019386",
-    "tel": "08-7329836",
-    "lat": 22.673668,
-    "lng": 120.492221,
-    "city": "屏東縣",
-    "area": "屏東市",
-    "road": "公園路",
-    "address": "屏東縣屏東市公園路 21 號 1 樓",
-    "service": [
-      "famiice",
-      "toilet",
-      "rest-area",
-      "two-famiice",
-      "special-famiice",
-      "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家屏東商大店",
     "id": "025329",
     "tel": "08-7217393",
@@ -81313,7 +81013,10 @@
     "road": "民族路",
     "address": "屏東縣屏東市民族路 303 號一樓",
     "service": [
+      "famiice",
       "rest-area",
+      "two-famiice",
+      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "hot-dog"
@@ -81417,6 +81120,18 @@
       "cook-now",
       "hot-dog"
     ]
+  },
+  {
+    "name": "全家屏東銘森店",
+    "id": "025376",
+    "tel": "08-7330550",
+    "lat": 22.673013,
+    "lng": 120.491477,
+    "city": "屏東縣",
+    "area": "屏東市",
+    "road": "林森路",
+    "address": "屏東縣屏東市林森路 95-1 號",
+    "service": []
   },
   {
     "name": "全家屏東民享店",
@@ -81834,7 +81549,7 @@
   },
   {
     "name": "全家里港茄苳腳店",
-    "id": "025127",
+    "id": "025456",
     "tel": "08-7751091",
     "lat": 22.776794,
     "lng": 120.515086,
@@ -81906,7 +81621,7 @@
   },
   {
     "name": "全家鹽埔大仁店",
-    "id": "014738",
+    "id": "025491",
     "tel": "08-7628180",
     "lat": 22.726811,
     "lng": 120.543115,
@@ -82328,7 +82043,7 @@
   {
     "name": "全家萬丹紅豆店",
     "id": "025296",
-    "tel": "08-",
+    "tel": "08-7072639",
     "lat": 22.61322,
     "lng": 120.46866,
     "city": "屏東縣",
@@ -82462,7 +82177,7 @@
   },
   {
     "name": "全家潮州三和店",
-    "id": "023851",
+    "id": "025453",
     "tel": "08-7892217",
     "lat": 22.555799,
     "lng": 120.538618,
@@ -82732,21 +82447,16 @@
     ]
   },
   {
-    "name": "全家東港長春店",
-    "id": "025330",
-    "tel": "08-8323957",
-    "lat": 22.471823,
-    "lng": 120.459293,
+    "name": "全家東港德譽店",
+    "id": "025387",
+    "tel": "08-8324515",
+    "lat": 22.47310777332659,
+    "lng": 120.46129315211486,
     "city": "屏東縣",
     "area": "東港鎮",
-    "road": "長春一路",
-    "address": "屏東縣東港鎮長春一路 93 號",
-    "service": [
-      "rest-area",
-      "sohot-dessert",
-      "charge-spot",
-      "hot-dog"
-    ]
+    "road": "明德一路",
+    "address": "屏東縣東港鎮明德一路 412 號",
+    "service": []
   },
   {
     "name": "全家東港東光店",
@@ -82980,7 +82690,7 @@
   },
   {
     "name": "全家枋寮大嚮店",
-    "id": "025994",
+    "id": "025455",
     "tel": "08-8713070",
     "lat": 22.405868,
     "lng": 120.587491,
@@ -83124,11 +82834,8 @@
     "road": "中山路",
     "address": "屏東縣車城鄉中山路 2-1 號",
     "service": [
-      "famiice",
       "polaroid",
       "rest-area",
-      "two-famiice",
-      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -83637,7 +83344,7 @@
   },
   {
     "name": "全家宜蘭新泰山店",
-    "id": "023550",
+    "id": "025388",
     "tel": "03-9313137",
     "lat": 24.7484079,
     "lng": 121.73268416,
@@ -85101,11 +84808,8 @@
     "road": "民國路",
     "address": "花蓮縣花蓮市民國路 121 號",
     "service": [
-      "famiice",
       "toilet",
       "rest-area",
-      "two-famiice",
-      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -85838,8 +85542,6 @@
     "road": "中山路",
     "address": "花蓮縣壽豐鄉豐山村中山路 195 號",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
       "sohot-dessert",
       "charge-spot",
@@ -85917,10 +85619,8 @@
     "road": "中山路二段",
     "address": "花蓮縣光復鄉中山路二段 223 號",
     "service": [
-      "famiice",
       "toilet",
       "rest-area",
-      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "smart-coffee",
@@ -85931,7 +85631,7 @@
   {
     "name": "全家豐濱濱海店",
     "id": "025211",
-    "tel": "03-",
+    "tel": "03-8791245",
     "lat": 23.598219,
     "lng": 121.522928,
     "city": "花蓮縣",
@@ -86003,10 +85703,8 @@
     "road": "中華路",
     "address": "花蓮縣玉里鎮中華路 177 號",
     "service": [
-      "famiice",
       "toilet",
       "rest-area",
-      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -86144,8 +85842,6 @@
     "road": "中華路三段",
     "address": "台東縣台東市中華路三段 257 號 1 樓",
     "service": [
-      "famiice",
-      "single-famiice",
       "rest-area",
       "sohot-dessert",
       "cook-now",
@@ -86246,25 +85942,6 @@
     ]
   },
   {
-    "name": "全家台東豐樂店",
-    "id": "021779",
-    "tel": "089-325869",
-    "lat": 22.7552026,
-    "lng": 121.1313509,
-    "city": "台東縣",
-    "area": "台東市",
-    "road": "正氣北路",
-    "address": "台東縣台東市豐樂里正氣北路 526 號一樓",
-    "service": [
-      "polaroid",
-      "rest-area",
-      "sohot-dessert",
-      "costco-shelf",
-      "formosa-tea",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家台東南京店",
     "id": "024732",
     "tel": "089-332782",
@@ -86289,7 +85966,7 @@
   },
   {
     "name": "全家台東志航店",
-    "id": "019098",
+    "id": "025476",
     "tel": "089-236374",
     "lat": 22.7870994,
     "lng": 121.161686,
@@ -86703,12 +86380,9 @@
     "road": "都蘭路",
     "address": "臺東縣東河鄉都蘭村都蘭路 209-1 號",
     "service": [
-      "famiice",
       "toilet",
       "rest-area",
       "fresh-vegetables",
-      "two-famiice",
-      "special-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -87256,24 +86930,6 @@
     ]
   },
   {
-    "name": "全家澎湖吉貝店",
-    "id": "018481",
-    "tel": "06-9911393",
-    "lat": 23.739898,
-    "lng": 119.60935,
-    "city": "澎湖縣",
-    "area": "白沙鄉",
-    "road": "無路名店鋪",
-    "address": "澎湖縣白沙鄉吉貝 183-9 號",
-    "service": [
-      "famiice",
-      "single-famiice",
-      "rest-area",
-      "sohot-dessert",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家澎湖跨海店",
     "id": "022030",
     "tel": "06-9933690",
@@ -87307,6 +86963,24 @@
       "sohot-dessert",
       "costco-shelf",
       "sohot-grill",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家澎湖吉貝店",
+    "id": "018481",
+    "tel": "06-9911393",
+    "lat": 23.739898,
+    "lng": 119.60935,
+    "city": "澎湖縣",
+    "area": "白沙鄉",
+    "road": "",
+    "address": "澎湖縣白沙鄉吉貝 183-9 號",
+    "service": [
+      "famiice",
+      "single-famiice",
+      "rest-area",
+      "sohot-dessert",
       "hot-dog"
     ]
   },
@@ -87662,7 +87336,7 @@
   {
     "name": "全家馬祖仁愛店",
     "id": "024320",
-    "tel": "836-",
+    "tel": "836-23849",
     "lat": 26.15615,
     "lng": 119.949347,
     "city": "連江縣",
