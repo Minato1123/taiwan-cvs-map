@@ -205,7 +205,8 @@
       "single-famiice",
       "special-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -325,7 +326,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -571,7 +573,8 @@
       "charge-spot",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -592,7 +595,8 @@
       "special-famiice",
       "charge-spot",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -740,7 +744,8 @@
       "rest-area",
       "fami-laundry",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -880,7 +885,8 @@
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -941,7 +947,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -962,7 +969,8 @@
       "smart-coffee",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -1096,7 +1104,8 @@
       "special-famiice",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -1152,7 +1161,9 @@
       "single-famiice",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -1394,7 +1405,8 @@
       "sohot-grill",
       "cook-now",
       "hogan",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -1714,7 +1726,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -1965,7 +1978,8 @@
       "sweat-potato",
       "single-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -2048,7 +2062,8 @@
       "charge-spot",
       "formosa-tea",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -2135,7 +2150,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -2246,7 +2262,8 @@
       "formosa-tea",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -2534,7 +2551,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -2795,7 +2813,8 @@
       "baked-potato",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -3175,7 +3194,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -3682,7 +3702,7 @@
   },
   {
     "name": "全家民族店",
-    "id": "021201",
+    "id": "025900",
     "tel": "02-25185693",
     "lat": 25.066772,
     "lng": 121.539542,
@@ -3740,7 +3760,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -4004,7 +4025,8 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -4390,7 +4412,8 @@
       "formosa-tea",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -4549,7 +4572,8 @@
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -5198,7 +5222,8 @@
       "sohot-grill",
       "cook-now",
       "hogan",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -5226,7 +5251,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -5264,7 +5290,8 @@
       "two-famiice",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -5613,7 +5640,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -5714,7 +5742,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -5827,7 +5856,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -6017,7 +6047,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "no-pork"
+      "no-pork",
+      "weighed-sweets"
     ]
   },
   {
@@ -6041,7 +6072,8 @@
       "charge-spot",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -6153,7 +6185,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -6410,7 +6443,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -6468,7 +6502,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -6527,7 +6562,8 @@
       "costco-shelf",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -6547,7 +6583,8 @@
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
-      "sohot-grill"
+      "sohot-grill",
+      "weighed-sweets"
     ]
   },
   {
@@ -6642,7 +6679,8 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -6904,6 +6942,40 @@
       "fresh-vegetables",
       "baked-potato",
       "charge-spot",
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家新北科二店",
+    "id": "025165",
+    "tel": "02-",
+    "lat": 25.042233,
+    "lng": 121.535485,
+    "city": "台北市",
+    "area": "大安區",
+    "road": "忠孝東路三段",
+    "address": "台北市大安區忠孝東路三段 1 號設計館 1 樓",
+    "service": [
+      "sweat-potato",
+      "baked-potato"
+    ]
+  },
+  {
+    "name": "全家頂好店",
+    "id": "024238",
+    "tel": "02-87737075",
+    "lat": 25.041771,
+    "lng": 121.547055,
+    "city": "台北市",
+    "area": "大安區",
+    "road": "忠孝東路四段",
+    "address": "台北市大安區忠孝東路四段 75 號 1 樓",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "two-famiice",
+      "steam-fresh",
       "hot-dog"
     ]
   },
@@ -7000,7 +7072,8 @@
       "sohot-dessert",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -7041,7 +7114,8 @@
       "fami-super",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -7103,7 +7177,8 @@
       "charge-spot",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -7126,7 +7201,8 @@
       "spicy-egg",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -7532,7 +7608,8 @@
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -7607,7 +7684,8 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -7683,7 +7761,8 @@
       "charge-spot",
       "recyclable-cup",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -7966,7 +8045,8 @@
     "service": [
       "sweat-potato",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -8054,7 +8134,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -8354,7 +8435,8 @@
       "formosa-tea",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -8596,7 +8678,8 @@
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -8613,7 +8696,8 @@
       "sweat-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -8633,7 +8717,8 @@
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -8654,7 +8739,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -8752,7 +8838,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -8819,7 +8906,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -8923,7 +9011,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -8965,7 +9054,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -9050,7 +9140,8 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -9163,7 +9254,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -9181,7 +9273,9 @@
       "sweat-potato",
       "single-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -9246,7 +9340,8 @@
       "steam-fresh",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -9285,7 +9380,8 @@
       "steam-fresh",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -9386,7 +9482,8 @@
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -9539,7 +9636,9 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -9561,7 +9660,9 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -9707,7 +9808,9 @@
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -9843,7 +9946,8 @@
       "baked-potato",
       "charge-spot",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -9924,7 +10028,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -10823,7 +10928,8 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -10874,7 +10980,9 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -10897,7 +11005,9 @@
       "charge-spot",
       "fami-super",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -11071,7 +11181,8 @@
       "charge-spot",
       "spicy-egg",
       "steam-fresh",
-      "recyclable-cup"
+      "recyclable-cup",
+      "veggie-zone"
     ]
   },
   {
@@ -11190,7 +11301,8 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -11416,7 +11528,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -11453,7 +11566,8 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -11699,7 +11813,8 @@
       "single-famiice",
       "rest-area",
       "charge-spot",
-      "recyclable-cup"
+      "recyclable-cup",
+      "weighed-sweets"
     ]
   },
   {
@@ -11853,22 +11968,20 @@
     ]
   },
   {
-    "name": "全家德湖店",
-    "id": "022980",
-    "tel": "02-87923344",
-    "lat": 25.08276,
-    "lng": 121.592489,
+    "name": "全家瑞江店",
+    "id": "025108",
+    "tel": "02-26574357",
+    "lat": 25.07681,
+    "lng": 121.576937,
     "city": "台北市",
     "area": "內湖區",
-    "road": "成功路四段",
-    "address": "台北市內湖區成功路四段 62 號 1 樓及 B1",
+    "road": "江南街",
+    "address": "台北市內湖區江南街 91 號壹樓",
     "service": [
       "famiice",
       "sweat-potato",
       "single-famiice",
-      "toilet",
-      "special-famiice",
-      "recyclable-cup",
+      "baked-potato",
       "hot-dog"
     ]
   },
@@ -11886,7 +11999,8 @@
       "sweat-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -12353,7 +12467,8 @@
       "formosa-tea",
       "sohot-grill",
       "hogan",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -12479,7 +12594,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -12718,7 +12834,8 @@
       "charge-spot",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -12899,7 +13016,8 @@
       "formosa-tea",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -13286,7 +13404,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -13310,7 +13429,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -13346,7 +13466,8 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -13363,7 +13484,8 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
-      "recyclable-cup"
+      "recyclable-cup",
+      "weighed-sweets"
     ]
   },
   {
@@ -13462,7 +13584,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -13721,6 +13844,25 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家芳興店",
+    "id": "025183",
+    "tel": "02-82301643",
+    "lat": 24.995013,
+    "lng": 121.571137,
+    "city": "台北市",
+    "area": "文山區",
+    "road": "萬芳路",
+    "address": "台北市文山區萬芳路 3 號 1 樓",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "single-famiice",
+      "baked-potato",
       "hot-dog"
     ]
   },
@@ -13855,7 +13997,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -13875,7 +14018,8 @@
       "rest-area",
       "sohot-dessert",
       "costco-shelf",
-      "sohot-grill"
+      "sohot-grill",
+      "weighed-sweets"
     ]
   },
   {
@@ -13957,7 +14101,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -13992,7 +14137,8 @@
       "sweat-potato",
       "single-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -14073,7 +14219,8 @@
       "spicy-egg",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -14099,7 +14246,6 @@
     ]
   },
   {
-    "name": "全家萬里漁澳店",
     "id": "024516",
     "tel": "02-24926710",
     "lat": 25.19485646,
@@ -14180,7 +14326,8 @@
       "sweat-potato",
       "toilet",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -14309,7 +14456,8 @@
       "charge-spot",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -14339,7 +14487,9 @@
       "fami-super",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -14357,7 +14507,8 @@
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -14401,7 +14552,8 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -14478,7 +14630,8 @@
       "steam-fresh",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -14495,7 +14648,8 @@
       "sweat-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -14589,7 +14743,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -14667,7 +14822,8 @@
       "sohot-dessert",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -14994,7 +15150,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -15097,7 +15254,9 @@
       "cook-now",
       "hogan",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -15123,7 +15282,9 @@
       "formosa-tea",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -15255,7 +15416,9 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -15482,7 +15645,8 @@
       "sweat-potato",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -15591,7 +15755,9 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -15629,7 +15795,8 @@
       "charge-spot",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -15651,7 +15818,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -15739,7 +15907,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -15798,7 +15967,8 @@
       "two-famiice",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -15823,7 +15993,9 @@
       "charge-spot",
       "smart-coffee",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -16044,7 +16216,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -16145,7 +16318,8 @@
       "charge-spot",
       "formosa-tea",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -16275,7 +16449,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -16562,7 +16737,8 @@
     "service": [
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -16607,7 +16783,9 @@
       "formosa-tea",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -16690,7 +16868,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -16713,7 +16892,8 @@
       "sohot-grill",
       "cook-now",
       "hogan",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -16806,7 +16986,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -17043,7 +17224,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -17167,7 +17349,8 @@
       "special-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -17188,7 +17371,9 @@
       "fresh-vegetables",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -17266,7 +17451,8 @@
       "baked-potato",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -17322,7 +17508,8 @@
       "single-famiice",
       "costco-shelf",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -17358,7 +17545,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -17595,7 +17783,8 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -17720,7 +17909,9 @@
       "steam-fresh",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -17742,7 +17933,8 @@
       "smart-coffee",
       "formosa-tea",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -17786,7 +17978,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -17998,7 +18191,8 @@
       "rest-area",
       "baked-potato",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -18131,7 +18325,8 @@
       "sohot-dessert",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -18174,7 +18369,8 @@
       "charge-spot",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -18212,7 +18408,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -18235,7 +18432,25 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家石碇雙溪店",
+    "id": "024523",
+    "tel": "02-26633324",
+    "lat": 25.00613654,
+    "lng": 121.65144995,
+    "city": "新北市",
+    "area": "石碇區",
+    "road": "碇坪路一段",
+    "address": "新北市石碇區碇坪路一段 8 號 1 樓",
+    "service": [
+      "sweat-potato",
+      "toilet",
+      "rest-area",
+      "charge-spot"
     ]
   },
   {
@@ -18294,7 +18509,8 @@
       "special-famiice",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -18463,7 +18679,8 @@
       "sohot-grill",
       "cook-now",
       "hogan",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -18485,7 +18702,8 @@
       "charge-spot",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -18504,7 +18722,8 @@
       "single-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -18606,7 +18825,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -18628,7 +18848,8 @@
       "baked-potato",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -18686,7 +18907,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -18770,7 +18992,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -19050,7 +19273,8 @@
       "sohot-dessert",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -19112,7 +19336,9 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -19266,7 +19492,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -19444,7 +19671,8 @@
       "costco-shelf",
       "recyclable-cup",
       "sohot-grill",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -19632,7 +19860,8 @@
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -19653,7 +19882,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -19667,7 +19897,8 @@
     "road": "建國路",
     "address": "新北市新店區建國路 289 號 B1 慈濟醫院大愛美食坊",
     "service": [
-      "sweat-potato"
+      "sweat-potato",
+      "veggie-zone"
     ]
   },
   {
@@ -19710,7 +19941,8 @@
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -19728,7 +19960,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -19922,7 +20155,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -19946,7 +20180,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -20453,7 +20688,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -20638,7 +20874,8 @@
       "spicy-egg",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -20703,7 +20940,8 @@
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -21011,7 +21249,9 @@
       "formosa-tea",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -21029,7 +21269,8 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -21047,7 +21288,9 @@
       "rest-area",
       "fresh-vegetables",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -21129,7 +21372,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -21262,7 +21506,8 @@
       "formosa-tea",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -21360,7 +21605,8 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -21450,7 +21696,8 @@
       "two-famiice",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -21490,7 +21737,8 @@
       "baked-potato",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -21599,7 +21847,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -21638,7 +21887,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -21711,7 +21961,8 @@
       "cook-now",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -21735,7 +21986,7 @@
   },
   {
     "name": "全家中和鑫發店",
-    "id": "019037",
+    "id": "025901",
     "tel": "02-29434443",
     "lat": 24.986399,
     "lng": 121.511862,
@@ -21786,7 +22037,8 @@
       "sweat-potato",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -21846,7 +22098,9 @@
       "fami-super",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -21910,7 +22164,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -22006,7 +22261,9 @@
       "sweat-potato",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -22026,7 +22283,8 @@
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -22063,7 +22321,8 @@
       "sweat-potato",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -22293,6 +22552,23 @@
       "sohot-grill",
       "cook-now",
       "hogan",
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家中和國都店",
+    "id": "025711",
+    "tel": "02-29400165",
+    "lat": 24.992144,
+    "lng": 121.514363,
+    "city": "新北市",
+    "area": "中和區",
+    "road": "景平路",
+    "address": "新北市中和區景平路 139-1 號",
+    "service": [
+      "sweat-potato",
       "hot-dog"
     ]
   },
@@ -22481,7 +22757,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -22503,7 +22780,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -22626,7 +22904,8 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -22669,7 +22948,8 @@
       "rest-area",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -22711,7 +22991,8 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -22768,7 +23049,8 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -22809,7 +23091,8 @@
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -22852,7 +23135,9 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -22875,7 +23160,8 @@
       "steam-fresh",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -22972,7 +23258,9 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -23174,7 +23462,8 @@
       "toilet",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23213,7 +23502,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -23315,7 +23605,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -23490,7 +23781,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -23643,7 +23935,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -23663,7 +23956,8 @@
       "fresh-vegetables",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23704,7 +23998,8 @@
       "two-famiice",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23736,7 +24031,8 @@
     "address": "新北市土城區南天母路 47 號（地下層）",
     "service": [
       "sweat-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23755,7 +24051,8 @@
       "single-famiice",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23779,7 +24076,8 @@
       "charge-spot",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23799,7 +24097,8 @@
       "special-famiice",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -23859,7 +24158,8 @@
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -23899,7 +24199,8 @@
       "costco-shelf",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23956,7 +24257,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -23975,7 +24277,8 @@
       "charge-spot",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -23995,7 +24298,8 @@
       "charge-spot",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -24014,7 +24318,9 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -24252,7 +24558,8 @@
       "rest-area",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -24331,7 +24638,9 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -24402,7 +24711,8 @@
       "charge-spot",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24489,7 +24799,8 @@
       "sweat-potato",
       "single-famiice",
       "special-famiice",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24504,7 +24815,8 @@
     "address": "新北市三峽區國慶路 148 號",
     "service": [
       "sweat-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24528,7 +24840,9 @@
       "sohot-dessert",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -24699,7 +25013,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24743,7 +25058,8 @@
       "costco-shelf",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24763,7 +25079,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -24782,7 +25099,8 @@
       "rest-area",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24819,7 +25137,9 @@
       "single-famiice",
       "baked-potato",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -24840,7 +25160,8 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24900,7 +25221,8 @@
       "rest-area",
       "charge-spot",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -24940,7 +25262,8 @@
       "two-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -25035,7 +25358,8 @@
       "spicy-egg",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -25057,7 +25381,8 @@
       "rest-area",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -25264,7 +25589,8 @@
       "special-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -25565,7 +25891,8 @@
       "baked-potato",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -25625,7 +25952,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -25648,7 +25976,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -25695,6 +26024,59 @@
       "costco-shelf",
       "charge-spot",
       "formosa-tea",
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
+    ]
+  },
+  {
+    "name": "全家鶯歌國中店",
+    "id": "025757",
+    "tel": "02-26775190",
+    "lat": 24.941621,
+    "lng": 121.341617,
+    "city": "新北市",
+    "area": "鶯歌區",
+    "road": "國中街",
+    "address": "新北市鶯歌區國中街 82 號",
+    "service": [
+      "sweat-potato",
+      "sohot-dessert",
+      "sohot-grill",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家鶯歌建新店",
+    "id": "025265",
+    "tel": "02-26703332",
+    "lat": 24.95369,
+    "lng": 121.350894,
+    "city": "新北市",
+    "area": "鶯歌區",
+    "road": "國慶街",
+    "address": "新北市鶯歌區國慶街 139-1 號",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "single-famiice",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家鶯歌永富店",
+    "id": "025656",
+    "tel": "02-86780821",
+    "lat": 24.960202,
+    "lng": 121.333384,
+    "city": "新北市",
+    "area": "鶯歌區",
+    "road": "德昌街",
+    "address": "新北市鶯歌區德昌街 38 號",
+    "service": [
+      "sweat-potato",
+      "sohot-dessert",
+      "sohot-grill",
       "hot-dog"
     ]
   },
@@ -25880,7 +26262,8 @@
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -25945,7 +26328,9 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -25984,7 +26369,8 @@
       "baked-potato",
       "spicy-egg",
       "fami-super",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -26003,7 +26389,8 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -26059,7 +26446,9 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -26286,7 +26675,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -26361,7 +26751,8 @@
       "charge-spot",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -26496,7 +26887,9 @@
       "steam-fresh",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -26519,7 +26912,8 @@
       "baked-potato",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -26582,7 +26976,8 @@
       "formosa-tea",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -26678,7 +27073,9 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -26889,7 +27286,9 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -26915,7 +27314,8 @@
       "charge-spot",
       "spicy-egg",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -26985,7 +27385,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -27042,7 +27443,8 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -27148,7 +27550,9 @@
       "spicy-egg",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -27209,7 +27613,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -27347,7 +27752,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -27428,7 +27834,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -27470,7 +27877,8 @@
       "charge-spot",
       "formosa-tea",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -27514,7 +27922,9 @@
       "fami-super",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -27553,7 +27963,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -27630,7 +28041,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -27660,7 +28072,9 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -27704,6 +28118,22 @@
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家新莊新庄店",
+    "id": "025262",
+    "tel": "02-29901482",
+    "lat": 25.035864,
+    "lng": 121.452903,
+    "city": "新北市",
+    "area": "新莊區",
+    "road": "中正路",
+    "address": "新北市新莊區中正路 197 號 1、2 樓",
+    "service": [
+      "sweat-potato",
       "hot-dog"
     ]
   },
@@ -27818,7 +28248,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -27965,7 +28396,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -27985,7 +28417,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -28007,7 +28440,8 @@
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -28074,7 +28508,8 @@
       "smart-coffee",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -28156,7 +28591,8 @@
       "formosa-tea",
       "fami-super",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -28193,7 +28629,8 @@
       "toilet",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -28428,7 +28865,8 @@
       "charge-spot",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -28602,7 +29040,8 @@
       "costco-shelf",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -28632,7 +29071,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -28702,7 +29142,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -28724,7 +29165,9 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -28766,7 +29209,9 @@
       "costco-shelf",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -28858,7 +29303,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -28920,7 +29366,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -28991,7 +29438,9 @@
       "sweat-potato",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -29008,7 +29457,8 @@
       "sweat-potato",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -29049,7 +29499,8 @@
       "sweat-potato",
       "single-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -29084,7 +29535,8 @@
       "rest-area",
       "two-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -29405,7 +29857,8 @@
     "service": [
       "sweat-potato",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -29737,7 +30190,8 @@
       "sweat-potato",
       "two-famiice",
       "special-famiice",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -29805,7 +30259,9 @@
       "fami-super",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -29855,7 +30311,8 @@
       "fami-laundry",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -29878,7 +30335,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -29901,7 +30359,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -29988,7 +30447,8 @@
       "rest-area",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -30151,7 +30611,9 @@
       "sohot-grill",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -30253,7 +30715,9 @@
       "spicy-egg",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -30367,7 +30831,8 @@
       "charge-spot",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -30391,7 +30856,8 @@
       "charge-spot",
       "fami-super",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -30449,7 +30915,8 @@
       "two-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -30489,7 +30956,8 @@
       "baked-potato",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -30572,7 +31040,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -30609,7 +31078,8 @@
       "sweat-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -30651,7 +31121,8 @@
       "sohot-dessert",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -31167,7 +31638,8 @@
       "baked-potato",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -31403,7 +31875,8 @@
       "charge-spot",
       "spicy-egg",
       "fami-super",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -31423,7 +31896,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -31459,7 +31933,8 @@
       "sweat-potato",
       "single-famiice",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -31480,7 +31955,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -31498,6 +31974,24 @@
       "charge-spot",
       "formosa-tea",
       "spicy-egg",
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家五股微風店",
+    "id": "025407",
+    "tel": "02-22953592",
+    "lat": 25.090772,
+    "lng": 121.446954,
+    "city": "新北市",
+    "area": "五股區",
+    "road": "新五路三段",
+    "address": "新北市五股區新五路三段 268 號 1、2、3 樓",
+    "service": [
+      "sweat-potato",
+      "baked-potato",
       "hot-dog"
     ]
   },
@@ -31974,7 +32468,8 @@
       "charge-spot",
       "formosa-tea",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -32035,7 +32530,9 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -32336,7 +32833,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -32356,7 +32854,8 @@
       "fami-laundry",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -32380,7 +32879,8 @@
       "spicy-egg",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -32516,7 +33016,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -32637,7 +33138,8 @@
       "charge-spot",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -32658,7 +33160,9 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -32677,7 +33181,9 @@
       "single-famiice",
       "fresh-vegetables",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -32962,7 +33468,8 @@
       "two-famiice",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -33020,7 +33527,8 @@
       "costco-shelf",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -33144,7 +33652,8 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -33188,7 +33697,8 @@
       "steam-fresh",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -33212,7 +33722,9 @@
       "smart-coffee",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -33359,7 +33871,8 @@
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -33377,7 +33890,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -33603,7 +34117,8 @@
       "charge-spot",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -33619,7 +34134,9 @@
     "service": [
       "sweat-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -33764,7 +34281,8 @@
       "charge-spot",
       "formosa-tea",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -33806,7 +34324,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -33916,7 +34435,8 @@
       "costco-shelf",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -33952,7 +34472,8 @@
     "address": "桃園市中壢區青心路 88 號 1 樓、 2 樓、 B1",
     "service": [
       "sweat-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -33976,7 +34497,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34038,7 +34560,8 @@
     "service": [
       "sweat-potato",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34054,7 +34577,8 @@
     "service": [
       "sweat-potato",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34077,7 +34601,8 @@
       "spicy-egg",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34093,7 +34618,8 @@
     "service": [
       "sweat-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34298,7 +34824,8 @@
       "formosa-tea",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34395,7 +34922,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -34477,7 +35005,8 @@
       "charge-spot",
       "formosa-tea",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -34557,7 +35086,9 @@
       "charge-spot",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -34593,7 +35124,8 @@
       "sweat-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34613,7 +35145,8 @@
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -34631,7 +35164,27 @@
       "charge-spot",
       "formosa-tea",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家中壢興榮店",
+    "id": "022672",
+    "tel": "03-2854760",
+    "lat": 24.963792,
+    "lng": 121.264486,
+    "city": "桃園市",
+    "area": "中壢區",
+    "road": "興仁路二段",
+    "address": "桃園市中壢區興仁路二段 288 號 1 樓",
+    "service": [
+      "sweat-potato",
+      "baked-potato",
+      "charge-spot",
+      "steam-fresh",
+      "hot-dog"
     ]
   },
   {
@@ -34735,7 +35288,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -34797,7 +35351,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -34870,7 +35425,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -34994,7 +35550,8 @@
       "sweat-potato",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -35019,7 +35576,10 @@
       "spicy-egg",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -35043,7 +35603,10 @@
       "smart-coffee",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -35220,7 +35783,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -35264,7 +35828,8 @@
       "spicy-egg",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -35429,7 +35994,8 @@
       "spicy-egg",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -35492,7 +36058,9 @@
       "costco-shelf",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -35543,7 +36111,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -35648,7 +36217,8 @@
       "sweat-potato",
       "costco-shelf",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -35845,7 +36415,8 @@
       "costco-shelf",
       "formosa-tea",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -36013,7 +36584,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -36153,7 +36725,8 @@
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -36171,7 +36744,8 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -36332,7 +36906,8 @@
       "rest-area",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -36553,7 +37128,8 @@
       "sweat-potato",
       "single-famiice",
       "special-famiice",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -36617,6 +37193,18 @@
     ]
   },
   {
+    "name": "全家新屋大坡店",
+    "id": "025857",
+    "tel": "03-4265615",
+    "lat": 24.95965042,
+    "lng": 121.03977963,
+    "city": "桃園市",
+    "area": "新屋區",
+    "road": "東福路一段",
+    "address": "桃園市新屋區東福路一段 886 號壹樓（如附圖）",
+    "service": []
+  },
+  {
     "name": "全家新屋富榮店",
     "id": "024125",
     "tel": "03-4904523",
@@ -36678,7 +37266,9 @@
       "formosa-tea",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -36940,7 +37530,8 @@
       "cook-now",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -36963,7 +37554,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -37288,7 +37880,8 @@
       "formosa-tea",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -37398,7 +37991,8 @@
       "costco-shelf",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -37462,7 +38056,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -37509,7 +38104,8 @@
       "spicy-egg",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -37527,7 +38123,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -37570,7 +38167,8 @@
       "charge-spot",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -37644,7 +38242,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -37719,7 +38318,8 @@
       "sweat-potato",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -37796,7 +38396,8 @@
       "cook-now",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -37854,7 +38455,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -37969,6 +38571,24 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家桃園聖保祿店",
+    "id": "025543",
+    "tel": "03-4807507",
+    "lat": 24.980979,
+    "lng": 121.311853,
+    "city": "桃園市",
+    "area": "桃園區",
+    "road": "建新街",
+    "address": "桃園市桃園區建新街 153 號 1 樓部分空間",
+    "service": [
+      "sweat-potato",
+      "sohot-dessert",
+      "sohot-grill",
       "hot-dog"
     ]
   },
@@ -38072,7 +38692,8 @@
       "sohot-dessert",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -38229,7 +38850,8 @@
       "charge-spot",
       "formosa-tea",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -38253,7 +38875,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -38292,7 +38915,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -38451,7 +39075,8 @@
       "formosa-tea",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -38475,7 +39100,9 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -38562,7 +39189,10 @@
     "address": "桃園市龜山區大同路 196 號",
     "service": [
       "sweat-potato",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -38586,7 +39216,8 @@
       "fami-super",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -38645,7 +39276,9 @@
       "special-famiice",
       "baked-potato",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -38665,7 +39298,8 @@
       "charge-spot",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -38741,7 +39375,9 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -38795,7 +39431,8 @@
       "spicy-egg",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -38862,7 +39499,8 @@
       "sohot-grill",
       "cook-now",
       "hogan",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -38886,7 +39524,8 @@
       "steam-fresh",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -39066,7 +39705,8 @@
       "sohot-dessert",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -39128,7 +39768,8 @@
       "costco-shelf",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -39213,7 +39854,9 @@
       "spicy-egg",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -39309,7 +39952,8 @@
       "formosa-tea",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -39499,7 +40143,24 @@
       "sweat-potato",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家龜山文樂店",
+    "id": "025428",
+    "tel": "03-3234007",
+    "lat": 25.047128,
+    "lng": 121.38278,
+    "city": "桃園市",
+    "area": "龜山區",
+    "road": "樂善二路",
+    "address": "桃園市龜山區樂善二路 143 號",
+    "service": [
+      "sweat-potato",
+      "hot-dog"
     ]
   },
   {
@@ -39530,7 +40191,8 @@
     "service": [
       "sweat-potato",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -39592,7 +40254,8 @@
       "spicy-egg",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -39668,7 +40331,8 @@
       "charge-spot",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -39688,7 +40352,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -39774,7 +40439,8 @@
       "costco-shelf",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -39792,7 +40458,8 @@
       "toilet",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -39812,7 +40479,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -39907,7 +40575,8 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -39983,6 +40652,23 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
+      "hot-dog",
+      "veggie-zone"
+    ]
+  },
+  {
+    "name": "全家八德桃德店",
+    "id": "025305",
+    "tel": "03-3627176",
+    "lat": 24.968184,
+    "lng": 121.294599,
+    "city": "桃園市",
+    "area": "八德區",
+    "road": "桃德路",
+    "address": "桃園市八德區桃德路 125 號",
+    "service": [
+      "sweat-potato",
+      "steam-fresh",
       "hot-dog"
     ]
   },
@@ -40087,7 +40773,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -40215,7 +40902,8 @@
       "fami-super",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -40254,7 +40942,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -40274,7 +40963,8 @@
       "sohot-dessert",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -40300,7 +40990,9 @@
       "formosa-tea",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -40694,7 +41386,8 @@
       "charge-spot",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -40817,7 +41510,8 @@
       "gogoro-battery-exchange",
       "fami-super",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -41170,7 +41864,8 @@
       "charge-spot",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -41247,7 +41942,8 @@
       "spicy-egg",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -41438,7 +42134,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -41578,7 +42275,8 @@
       "baked-potato",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -41733,7 +42431,9 @@
       "single-famiice",
       "baked-potato",
       "sohot-dessert",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -41968,7 +42668,8 @@
       "baked-potato",
       "gogoro-battery-exchange",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -41991,7 +42692,8 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -42011,7 +42713,8 @@
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -42322,7 +43025,8 @@
       "baked-potato",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -42502,7 +43206,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -42578,7 +43283,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -42728,7 +43434,8 @@
       "sweat-potato",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -42806,7 +43513,8 @@
       "baked-potato",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -42894,7 +43602,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -43059,7 +43768,8 @@
       "charge-spot",
       "formosa-tea",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -43183,7 +43893,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -43209,7 +43920,8 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -43313,7 +44025,8 @@
       "sweat-potato",
       "single-famiice",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -43352,7 +44065,8 @@
       "baked-potato",
       "costco-shelf",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -43452,6 +44166,26 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家新竹聯發二店",
+    "id": "022155",
+    "tel": "03-5797735",
+    "lat": 24.768015,
+    "lng": 121.024681,
+    "city": "新竹市",
+    "area": "東區",
+    "road": "篤行一路",
+    "address": "新竹市東區篤行一路 2 號 2 樓",
+    "service": [
+      "sweat-potato",
+      "baked-potato",
+      "sohot-dessert",
+      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -43520,7 +44254,9 @@
       "fami-super",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -43563,7 +44299,8 @@
       "formosa-tea",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -43590,7 +44327,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -43613,7 +44351,8 @@
       "sohot-dessert",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -43658,7 +44397,8 @@
       "charge-spot",
       "spicy-egg",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -43803,7 +44543,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -43881,7 +44622,8 @@
       "sohot-dessert",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -43922,7 +44664,9 @@
       "costco-shelf",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -43989,7 +44733,23 @@
       "spicy-egg",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家竹北東南亞店",
+    "id": "025651",
+    "tel": "03-5559346",
+    "lat": 24.83451,
+    "lng": 121.00434,
+    "city": "新竹縣",
+    "area": "竹北市",
+    "road": "中華路",
+    "address": "新竹縣竹北市中華路 307 之 5 號 1F＋2F （如附圖）",
+    "service": [
+      "sweat-potato",
+      "hot-dog"
     ]
   },
   {
@@ -44083,7 +44843,8 @@
       "formosa-tea",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -44111,7 +44872,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -44242,6 +45004,23 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家竹北金光明店",
+    "id": "025448",
+    "tel": "03-6571141",
+    "lat": 24.825129,
+    "lng": 121.009931,
+    "city": "新竹縣",
+    "area": "竹北市",
+    "road": "光明九路",
+    "address": "新竹縣竹北市光明九路 76 號",
+    "service": [
+      "sweat-potato",
       "hot-dog"
     ]
   },
@@ -44386,7 +45165,8 @@
     "service": [
       "sweat-potato",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -44427,7 +45207,8 @@
       "fami-super",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -44534,7 +45315,10 @@
       "formosa-tea",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -44594,7 +45378,8 @@
       "charge-spot",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -44620,7 +45405,8 @@
       "steam-fresh",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -44751,7 +45537,9 @@
       "fami-super",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -44771,7 +45559,8 @@
       "special-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -44879,7 +45668,8 @@
       "single-famiice",
       "baked-potato",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -44944,7 +45734,8 @@
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -45172,7 +45963,8 @@
       "costco-shelf",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -45206,7 +45998,8 @@
       "sweat-potato",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -45432,7 +46225,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -45451,7 +46245,8 @@
       "single-famiice",
       "special-famiice",
       "sohot-dessert",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -45469,7 +46264,8 @@
       "sweat-potato",
       "single-famiice",
       "sohot-dessert",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -45513,7 +46309,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -45551,7 +46348,9 @@
       "costco-shelf",
       "formosa-tea",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -45572,7 +46371,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "ecar-charging"
+      "ecar-charging",
+      "weighed-sweets"
     ]
   },
   {
@@ -45636,7 +46436,8 @@
       "toilet",
       "fresh-vegetables",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -45788,7 +46589,8 @@
       "rest-area",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -45866,7 +46668,9 @@
       "special-famiice",
       "costco-shelf",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -46022,7 +46826,8 @@
       "sohot-dessert",
       "costco-shelf",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -46141,7 +46946,8 @@
       "fami-super",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -46274,7 +47080,8 @@
       "rest-area",
       "fresh-vegetables",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -46292,7 +47099,8 @@
       "toilet",
       "rest-area",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -46324,7 +47132,8 @@
     "service": [
       "sweat-potato",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -46421,7 +47230,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -46459,7 +47269,8 @@
       "costco-shelf",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -46495,7 +47306,9 @@
       "sweat-potato",
       "single-famiice",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -46513,8 +47326,21 @@
       "sweat-potato",
       "two-famiice",
       "special-famiice",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
+  },
+  {
+    "name": "全家峨眉台山線店",
+    "id": "025835",
+    "tel": "03-5809287",
+    "lat": 24.697437,
+    "lng": 121.008129,
+    "city": "新竹縣",
+    "area": "峨眉鄉",
+    "road": "",
+    "address": "新竹縣峨眉鄉石井 19 號",
+    "service": []
   },
   {
     "name": "全家竹南大埔五店",
@@ -46782,7 +47608,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -46805,7 +47632,25 @@
       "charge-spot",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家竹南東平店",
+    "id": "025663",
+    "tel": "037-636450",
+    "lat": 24.684689,
+    "lng": 120.882586,
+    "city": "苗栗縣",
+    "area": "竹南鎮",
+    "road": "東平路",
+    "address": "苗栗縣竹南鎮東平路 91 號",
+    "service": [
+      "sweat-potato",
+      "sohot-dessert",
+      "sohot-grill",
+      "hot-dog"
     ]
   },
   {
@@ -46855,7 +47700,8 @@
       "sweat-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -47025,7 +47871,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -47266,7 +48113,8 @@
     "address": "苗栗縣頭份市中華路 8 號",
     "service": [
       "sweat-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -47411,7 +48259,9 @@
       "formosa-tea",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -47468,7 +48318,8 @@
       "single-famiice",
       "costco-shelf",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -47491,7 +48342,8 @@
       "baked-potato",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -47510,7 +48362,8 @@
       "single-famiice",
       "special-famiice",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -47547,7 +48400,8 @@
       "sohot-dessert",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -47573,7 +48427,8 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -47685,7 +48540,8 @@
       "spicy-egg",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -47714,7 +48570,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -47739,7 +48596,8 @@
       "formosa-tea",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -47894,7 +48752,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -47913,7 +48772,8 @@
       "single-famiice",
       "special-famiice",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48051,7 +48911,8 @@
       "baked-potato",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48186,6 +49047,22 @@
       "rest-area",
       "recyclable-cup",
       "cook-now",
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家苗栗復興店",
+    "id": "025295",
+    "tel": "037-358527",
+    "lat": 24.555168,
+    "lng": 120.825799,
+    "city": "苗栗縣",
+    "area": "苗栗市",
+    "road": "復興路二段",
+    "address": "苗栗縣苗栗市復興路二段 204 號",
+    "service": [
+      "sweat-potato",
       "hot-dog"
     ]
   },
@@ -48433,7 +49310,8 @@
       "sweat-potato",
       "two-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -48456,7 +49334,8 @@
       "spicy-egg",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48497,7 +49376,8 @@
       "spicy-egg",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48514,7 +49394,8 @@
       "sweat-potato",
       "formosa-tea",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48533,7 +49414,8 @@
       "rest-area",
       "baked-potato",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48610,7 +49492,8 @@
       "spicy-egg",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48687,7 +49570,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48794,7 +49678,8 @@
       "special-famiice",
       "charge-spot",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -48910,7 +49795,8 @@
       "single-famiice",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -48978,7 +49864,10 @@
       "bear-snack",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -49034,7 +49923,8 @@
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49091,7 +49981,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49133,7 +50024,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -49154,7 +50046,8 @@
       "steam-fresh",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -49176,7 +50069,9 @@
       "formosa-tea",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -49196,7 +50091,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49215,7 +50111,9 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -49314,7 +50212,8 @@
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49355,7 +50254,8 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49374,7 +50274,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49392,7 +50293,8 @@
       "sweat-potato",
       "single-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49503,7 +50405,8 @@
       "special-famiice",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -49525,7 +50428,8 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -49607,7 +50511,8 @@
       "two-famiice",
       "sohot-dessert",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49628,7 +50533,9 @@
       "rest-area",
       "costco-shelf",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -49674,7 +50581,8 @@
       "charge-spot",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -49715,7 +50623,9 @@
       "charge-spot",
       "spicy-egg",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -49862,7 +50772,8 @@
       "cook-now",
       "bear-snack",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -49929,7 +50840,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -49951,7 +50863,9 @@
       "costco-shelf",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -50020,6 +50934,25 @@
       "costco-shelf",
       "charge-spot",
       "gogoro-battery-exchange",
+      "hot-dog",
+      "veggie-zone"
+    ]
+  },
+  {
+    "name": "全家台中大雄店",
+    "id": "025065",
+    "tel": "04-22610219",
+    "lat": 24.122862,
+    "lng": 120.659446,
+    "city": "台中市",
+    "area": "南區",
+    "road": "復興路二段",
+    "address": "台中市南區復興路二段 71 巷 34 號",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "single-famiice",
+      "steam-fresh",
       "hot-dog"
     ]
   },
@@ -50081,7 +51014,9 @@
       "formosa-tea",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -50104,7 +51039,8 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -50508,7 +51444,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -50707,7 +51644,8 @@
       "charge-spot",
       "formosa-tea",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -50770,7 +51708,8 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -50918,7 +51857,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -50942,7 +51882,8 @@
       "charge-spot",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -50962,7 +51903,8 @@
       "baked-potato",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -50980,7 +51922,8 @@
       "baked-potato",
       "costco-shelf",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -51027,7 +51970,8 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -51049,7 +51993,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -51383,7 +52328,8 @@
       "baked-potato",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -51587,7 +52533,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -51628,7 +52575,8 @@
       "formosa-tea",
       "spicy-egg",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -51831,7 +52779,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52049,7 +52998,8 @@
       "two-famiice",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52134,7 +53084,8 @@
       "baked-potato",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52197,6 +53148,23 @@
       "steam-fresh",
       "recyclable-cup",
       "cook-now",
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
+    ]
+  },
+  {
+    "name": "全家台中舊社店",
+    "id": "025345",
+    "tel": "04-24364925",
+    "lat": 24.178042,
+    "lng": 120.702194,
+    "city": "台中市",
+    "area": "北屯區",
+    "road": "南興三路",
+    "address": "台中市北屯區南興三路 319 號",
+    "service": [
+      "sweat-potato",
       "hot-dog"
     ]
   },
@@ -52535,7 +53503,8 @@
       "special-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52559,7 +53528,8 @@
       "fami-super",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52601,7 +53571,8 @@
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52684,7 +53655,8 @@
       "formosa-tea",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -52722,7 +53694,8 @@
       "two-famiice",
       "special-famiice",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52778,7 +53751,8 @@
       "sohot-dessert",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -52798,7 +53772,8 @@
       "spicy-egg",
       "fami-super",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -52882,7 +53857,9 @@
       "sohot-grill",
       "cook-now",
       "bear-snack",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -52955,7 +53932,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -53070,7 +54048,8 @@
       "charge-spot",
       "formosa-tea",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -53313,7 +54292,8 @@
       "sohot-grill",
       "cook-now",
       "bear-snack",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -53336,7 +54316,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -53451,7 +54432,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -54124,7 +55106,26 @@
       "formosa-tea",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
+    ]
+  },
+  {
+    "name": "全家台中國展店",
+    "id": "025499",
+    "tel": "04-24265395",
+    "lat": 24.193314,
+    "lng": 120.650491,
+    "city": "台中市",
+    "area": "西屯區",
+    "road": "黎明路三段",
+    "address": "台中市西屯區黎明路三段 1000 號 1 樓（展覽館）",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "single-famiice",
+      "baked-potato",
+      "hot-dog"
     ]
   },
   {
@@ -54255,7 +55256,8 @@
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -54290,7 +55292,8 @@
       "rest-area",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54313,7 +55316,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54355,7 +55359,8 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54374,7 +55379,8 @@
       "rest-area",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54399,7 +55405,8 @@
       "spicy-egg",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -54420,7 +55427,8 @@
       "charge-spot",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54569,7 +55577,8 @@
       "charge-spot",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54629,7 +55638,9 @@
       "charge-spot",
       "smart-coffee",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -54669,7 +55680,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -54691,7 +55703,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54807,7 +55820,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -54859,7 +55873,9 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "ecar-charging"
+      "ecar-charging",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -54897,7 +55913,9 @@
       "smart-coffee",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -55101,7 +56119,9 @@
       "costco-shelf",
       "charge-spot",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -55121,7 +56141,8 @@
       "special-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -55147,7 +56168,8 @@
       "cook-now",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -55364,7 +56386,9 @@
       "single-famiice",
       "special-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -55520,7 +56544,8 @@
     "service": [
       "sweat-potato",
       "toilet",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -55543,7 +56568,8 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -55568,7 +56594,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -55605,7 +56632,8 @@
       "charge-spot",
       "formosa-tea",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -55670,7 +56698,9 @@
       "formosa-tea",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -55687,7 +56717,8 @@
       "famiice",
       "sweat-potato",
       "single-famiice",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -55710,7 +56741,8 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -55825,7 +56857,8 @@
       "costco-shelf",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -55905,7 +56938,8 @@
       "charge-spot",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -56012,7 +57046,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -56096,7 +57131,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -56181,7 +57217,8 @@
       "gogoro-battery-exchange",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -56303,7 +57340,10 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -56331,7 +57371,9 @@
       "gogoro-battery-exchange",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -56558,7 +57600,8 @@
       "single-famiice",
       "baked-potato",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -56662,7 +57705,8 @@
       "special-famiice",
       "costco-shelf",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -56741,7 +57785,9 @@
       "baked-potato",
       "costco-shelf",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -56868,7 +57914,8 @@
       "sweat-potato",
       "single-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -57186,7 +58233,8 @@
       "steam-fresh",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -57221,7 +58269,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -57363,7 +58412,8 @@
       "sweat-potato",
       "two-famiice",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -57381,7 +58431,8 @@
       "sweat-potato",
       "two-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57478,7 +58529,8 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57495,7 +58547,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57518,7 +58571,8 @@
       "sohot-dessert",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57558,7 +58612,8 @@
       "sohot-dessert",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57575,7 +58630,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57615,7 +58671,8 @@
       "formosa-tea",
       "spicy-egg",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -57676,7 +58733,9 @@
       "sohot-dessert",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -57696,7 +58755,8 @@
       "special-famiice",
       "baked-potato",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57736,7 +58796,8 @@
       "rest-area",
       "special-famiice",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -57909,7 +58970,8 @@
       "charge-spot",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -57932,7 +58994,8 @@
       "spicy-egg",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -58029,7 +59092,8 @@
       "charge-spot",
       "formosa-tea",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -58147,7 +59211,8 @@
       "charge-spot",
       "spicy-egg",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -58308,7 +59373,8 @@
       "sohot-dessert",
       "costco-shelf",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -58393,7 +59459,8 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -58413,7 +59480,8 @@
       "two-famiice",
       "gogoro-battery-exchange",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -58546,7 +59614,8 @@
       "spicy-egg",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -58596,7 +59665,8 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -58622,7 +59692,9 @@
       "formosa-tea",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -58643,7 +59715,8 @@
       "rest-area",
       "sohot-dessert",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -58802,7 +59875,8 @@
       "baked-potato",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -58891,7 +59965,9 @@
       "spicy-egg",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -58975,7 +60051,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -59119,7 +60196,8 @@
       "spicy-egg",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -59180,7 +60258,8 @@
       "spicy-egg",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -59217,7 +60296,8 @@
       "sohot-dessert",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -59260,7 +60340,8 @@
       "spicy-egg",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -59576,7 +60657,8 @@
       "cook-now",
       "no-pork",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -59603,7 +60685,8 @@
       "spicy-egg",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -59697,7 +60780,8 @@
       "baked-potato",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -59756,7 +60840,8 @@
       "spicy-egg",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -59797,7 +60882,8 @@
       "spicy-egg",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -59908,7 +60994,8 @@
       "single-famiice",
       "special-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -60088,7 +61175,8 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -60112,7 +61200,8 @@
       "charge-spot",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -60154,7 +61243,8 @@
       "charge-spot",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -60363,7 +61453,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -60557,7 +61648,8 @@
       "spicy-egg",
       "recyclable-cup",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -60813,7 +61905,8 @@
       "baked-potato",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -61156,7 +62249,8 @@
       "single-famiice",
       "spicy-egg",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -61247,7 +62341,8 @@
       "sweat-potato",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -61328,7 +62423,8 @@
       "spicy-egg",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -61369,7 +62465,8 @@
       "spicy-egg",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -61899,7 +62996,8 @@
       "toilet",
       "rest-area",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -62022,7 +63120,8 @@
       "charge-spot",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -62121,7 +63220,8 @@
       "gogoro-battery-exchange",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -62143,7 +63243,9 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -62272,7 +63374,8 @@
       "two-famiice",
       "special-famiice",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -62309,7 +63412,9 @@
       "baked-potato",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -62424,7 +63529,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -62447,7 +63553,8 @@
       "costco-shelf",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -62466,7 +63573,8 @@
       "single-famiice",
       "special-famiice",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -62484,7 +63592,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -62563,7 +63672,8 @@
       "special-famiice",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -62601,7 +63711,9 @@
       "rest-area",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -62628,7 +63740,8 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -62649,7 +63762,8 @@
       "special-famiice",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -62793,7 +63907,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -62843,7 +63958,8 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -62925,7 +64041,8 @@
       "spicy-egg",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -63033,7 +64150,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -63270,7 +64388,8 @@
       "sweat-potato",
       "single-famiice",
       "sohot-dessert",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -63351,7 +64470,8 @@
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -63373,12 +64493,13 @@
       "charge-spot",
       "formosa-tea",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
     "name": "全家埔心署醫店",
-    "id": "016272",
+    "id": "025875",
     "tel": "04-8284693",
     "lat": 23.9503369272,
     "lng": 120.5264007017,
@@ -63583,7 +64704,8 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -63782,7 +64904,9 @@
       "single-famiice",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -63882,7 +65006,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -63904,7 +65029,8 @@
       "special-famiice",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -63965,7 +65091,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -64004,7 +65131,8 @@
       "formosa-tea",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -64023,7 +65151,8 @@
       "two-famiice",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -64267,6 +65396,22 @@
     "address": "南投縣南投市平山一路三街 88 號",
     "service": [
       "sweat-potato",
+      "hot-dog",
+      "veggie-zone"
+    ]
+  },
+  {
+    "name": "全家南投水源店",
+    "id": "025209",
+    "tel": "049-2253881",
+    "lat": 23.92501717905857,
+    "lng": 120.66478808829119,
+    "city": "南投縣",
+    "area": "南投市",
+    "road": "同源路",
+    "address": "南投縣南投市新興里同源路 265 號",
+    "service": [
+      "sweat-potato",
       "hot-dog"
     ]
   },
@@ -64321,7 +65466,8 @@
       "special-famiice",
       "baked-potato",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -64339,7 +65485,9 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -64360,7 +65508,8 @@
       "special-famiice",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -64464,7 +65613,8 @@
       "single-famiice",
       "baked-potato",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -64595,7 +65745,8 @@
       "rest-area",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -64681,7 +65832,8 @@
       "baked-potato",
       "spicy-egg",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -64807,7 +65959,8 @@
       "sohot-dessert",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -64882,6 +66035,25 @@
       "costco-shelf",
       "formosa-tea",
       "sohot-grill",
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家草屯財神店",
+    "id": "025531",
+    "tel": "049-2357822",
+    "lat": 23.980692,
+    "lng": 120.680078,
+    "city": "南投縣",
+    "area": "草屯鎮",
+    "road": "敦和路",
+    "address": "南投縣草屯鎮敦和路 47 號",
+    "service": [
+      "sweat-potato",
+      "sohot-dessert",
+      "spicy-egg",
+      "cook-now",
       "hot-dog"
     ]
   },
@@ -65103,7 +66275,8 @@
       "formosa-tea",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -65124,7 +66297,8 @@
       "two-famiice",
       "costco-shelf",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -65161,7 +66335,8 @@
       "single-famiice",
       "toilet",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -65183,7 +66358,8 @@
       "sohot-dessert",
       "costco-shelf",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -65199,7 +66375,9 @@
     "service": [
       "sweat-potato",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -65218,7 +66396,8 @@
       "sohot-dessert",
       "costco-shelf",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -65351,7 +66530,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -65375,7 +66555,8 @@
       "gogoro-battery-exchange",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -65505,7 +66686,8 @@
       "gogoro-battery-exchange",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -65717,7 +66899,8 @@
       "costco-shelf",
       "smart-coffee",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -65858,7 +67041,8 @@
       "two-famiice",
       "special-famiice",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -65905,7 +67089,8 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -66021,7 +67206,8 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -66095,7 +67281,8 @@
       "toilet",
       "rest-area",
       "sohot-dessert",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -66153,7 +67340,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -66190,7 +67378,8 @@
       "single-famiice",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -66235,7 +67424,8 @@
       "formosa-tea",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -66271,7 +67461,8 @@
       "famiice",
       "sweat-potato",
       "single-famiice",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -66295,7 +67486,10 @@
       "spicy-egg",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -66439,7 +67633,8 @@
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -66556,7 +67751,8 @@
       "charge-spot",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -66590,7 +67786,8 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -66810,7 +68007,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -66909,7 +68107,9 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -66972,7 +68172,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -67092,7 +68293,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -67131,7 +68333,8 @@
       "rest-area",
       "steam-fresh",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -67271,7 +68474,8 @@
       "polaroid",
       "single-famiice",
       "rest-area",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -67344,7 +68548,8 @@
       "sweat-potato",
       "single-famiice",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -67423,7 +68628,8 @@
       "two-famiice",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -67586,7 +68792,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "ecar-charging"
+      "ecar-charging",
+      "weighed-sweets"
     ]
   },
   {
@@ -67638,7 +68845,8 @@
       "single-famiice",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -67657,7 +68865,8 @@
       "single-famiice",
       "rest-area",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -67774,7 +68983,8 @@
       "toilet",
       "special-famiice",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -67794,7 +69004,9 @@
       "spicy-egg",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -67872,7 +69084,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -67892,7 +69105,8 @@
       "two-famiice",
       "special-famiice",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -67912,7 +69126,8 @@
       "baked-potato",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -67931,7 +69146,8 @@
       "rest-area",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -67972,7 +69188,9 @@
       "formosa-tea",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -68029,7 +69247,8 @@
     "service": [
       "sweat-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68046,7 +69265,8 @@
       "sweat-potato",
       "rest-area",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -68109,7 +69329,8 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68127,7 +69348,8 @@
       "rest-area",
       "smart-coffee",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68164,7 +69386,9 @@
       "fresh-vegetables",
       "two-famiice",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -68207,7 +69431,8 @@
       "sohot-dessert",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -68272,7 +69497,8 @@
       "steam-fresh",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -68294,7 +69520,8 @@
       "steam-fresh",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -68382,7 +69609,8 @@
       "special-famiice",
       "sohot-dessert",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -68439,7 +69667,8 @@
       "baked-potato",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68459,7 +69688,8 @@
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68528,7 +69758,8 @@
       "sohot-dessert",
       "formosa-tea",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68588,7 +69819,8 @@
       "single-famiice",
       "baked-potato",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68609,7 +69841,8 @@
       "baked-potato",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -68654,7 +69887,8 @@
       "rest-area",
       "baked-potato",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -68723,7 +69957,8 @@
       "spicy-egg",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -68847,7 +70082,8 @@
       "formosa-tea",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -68931,7 +70167,8 @@
       "sohot-dessert",
       "spicy-egg",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -68951,7 +70188,8 @@
       "toilet",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -69007,7 +70245,9 @@
       "sohot-dessert",
       "formosa-tea",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -69198,7 +70438,8 @@
       "sohot-dessert",
       "charge-spot",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -69251,7 +70492,8 @@
       "costco-shelf",
       "spicy-egg",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -69273,7 +70515,9 @@
       "spicy-egg",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -69395,7 +70639,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -69525,7 +70770,8 @@
       "two-famiice",
       "special-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -69542,7 +70788,8 @@
       "sweat-potato",
       "polaroid",
       "fresh-vegetables",
-      "recyclable-cup"
+      "recyclable-cup",
+      "veggie-zone"
     ]
   },
   {
@@ -69563,7 +70810,8 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -69606,7 +70854,9 @@
       "formosa-tea",
       "gogoro-battery-exchange",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -69750,7 +71000,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -69789,15 +71040,15 @@
     ]
   },
   {
-    "name": "全家台南美環店",
-    "id": "024722",
-    "tel": "06-2989962",
-    "lat": 22.991998,
-    "lng": 120.189753,
+    "name": "全家台南西華店",
+    "id": "025657",
+    "tel": "06-2233935",
+    "lat": 22.998909,
+    "lng": 120.210466,
     "city": "台南市",
     "area": "中西區",
-    "road": "府前路二段",
-    "address": "台南市中西區府前路二段 277 號",
+    "road": "西華街",
+    "address": "台南市北區西華街 57 號 1 樓店面（承租範圍如附圖）",
     "service": [
       "sweat-potato",
       "baked-potato",
@@ -69883,7 +71134,8 @@
       "spicy-egg",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -69906,7 +71158,8 @@
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -70184,7 +71437,8 @@
       "steam-fresh",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -70248,7 +71502,8 @@
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -70360,7 +71615,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -70379,7 +71635,8 @@
       "baked-potato",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -70458,7 +71715,8 @@
       "charge-spot",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -70600,7 +71858,10 @@
       "single-famiice",
       "rest-area",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -70917,7 +72178,8 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -71093,7 +72355,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -71135,7 +72398,8 @@
       "spicy-egg",
       "hot-dog",
       "jpy-atm",
-      "ecar-charging"
+      "ecar-charging",
+      "veggie-zone"
     ]
   },
   {
@@ -71154,7 +72418,8 @@
       "single-famiice",
       "sohot-dessert",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -71358,7 +72623,8 @@
       "rest-area",
       "two-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -71380,7 +72646,8 @@
       "spicy-egg",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -71400,7 +72667,8 @@
       "rest-area",
       "sohot-dessert",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -71544,7 +72812,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -71980,7 +73249,7 @@
   },
   {
     "name": "全家永康大華店",
-    "id": "022385",
+    "id": "025765",
     "tel": "06-2715086",
     "lat": 23.004507,
     "lng": 120.266374,
@@ -72115,7 +73384,8 @@
       "spicy-egg",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -72174,7 +73444,8 @@
       "baked-potato",
       "costco-shelf",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -72452,7 +73723,8 @@
       "sweat-potato",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -72475,7 +73747,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -72655,7 +73928,8 @@
       "sweat-potato",
       "single-famiice",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -72697,7 +73971,8 @@
       "special-famiice",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -72776,7 +74051,8 @@
       "baked-potato",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -72856,7 +74132,9 @@
       "formosa-tea",
       "spicy-egg",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -72924,7 +74202,10 @@
       "single-famiice",
       "sohot-dessert",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -73090,7 +74371,8 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -73133,7 +74415,9 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -73157,7 +74441,8 @@
       "steam-fresh",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -73219,7 +74504,9 @@
       "special-famiice",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -73318,7 +74605,8 @@
       "sweat-potato",
       "single-famiice",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -73421,7 +74709,8 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -73737,7 +75026,9 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -73924,7 +75215,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -73951,7 +75243,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -74038,7 +75331,9 @@
       "spicy-egg",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -74166,7 +75461,8 @@
       "formosa-tea",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -74235,7 +75531,8 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -74381,7 +75678,8 @@
       "formosa-tea",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -74403,7 +75701,8 @@
       "baked-potato",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -74427,7 +75726,8 @@
       "charge-spot",
       "formosa-tea",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -74521,7 +75821,8 @@
       "spicy-egg",
       "fami-super",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -74570,7 +75871,8 @@
       "sweat-potato",
       "baked-potato",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -74635,7 +75937,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -74736,7 +76039,8 @@
       "charge-spot",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -74762,7 +76066,8 @@
       "recyclable-cup",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -74887,7 +76192,8 @@
       "special-famiice",
       "sohot-dessert",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -75015,7 +76321,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -75092,7 +76399,8 @@
       "single-famiice",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -75113,7 +76421,8 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -75246,7 +76555,8 @@
       "charge-spot",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -75326,7 +76636,8 @@
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -75569,7 +76880,8 @@
       "steam-fresh",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -75670,7 +76982,8 @@
       "sohot-dessert",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -75710,7 +77023,8 @@
       "rest-area",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -75753,7 +77067,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -75914,7 +77229,8 @@
       "steam-fresh",
       "recyclable-cup",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -76035,7 +77351,8 @@
       "recyclable-cup",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -76058,7 +77375,8 @@
       "baked-potato",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -76226,7 +77544,8 @@
       "charge-spot",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -76422,7 +77741,8 @@
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -76713,7 +78033,8 @@
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -76877,7 +78198,9 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -76940,7 +78263,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -77002,7 +78326,9 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone"
     ]
   },
   {
@@ -77307,24 +78633,6 @@
     ]
   },
   {
-    "name": "全家高雄民如店",
-    "id": "017382",
-    "tel": "07-3221178",
-    "lat": 22.640714,
-    "lng": 120.313849,
-    "city": "高雄市",
-    "area": "三民區",
-    "road": "民族一路",
-    "address": "高雄市三民區民族一路 13 號",
-    "service": [
-      "sweat-potato",
-      "rest-area",
-      "charge-spot",
-      "recyclable-cup",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家高雄吉林店",
     "id": "016677",
     "tel": "07-3234557",
@@ -77371,7 +78679,8 @@
       "sohot-dessert",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -77392,7 +78701,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -77469,7 +78779,8 @@
       "rest-area",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -77633,7 +78944,8 @@
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -77947,7 +79259,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -78247,7 +79560,8 @@
       "polaroid",
       "rest-area",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -78325,7 +79639,8 @@
       "steam-fresh",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -78429,7 +79744,8 @@
       "charge-spot",
       "formosa-tea",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -78483,7 +79799,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -78558,7 +79875,28 @@
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
+    ]
+  },
+  {
+    "name": "全家高雄屏信店",
+    "id": "018499",
+    "tel": "07-3643093",
+    "lat": 22.726436,
+    "lng": 120.299386,
+    "city": "高雄市",
+    "area": "楠梓區",
+    "road": "翠屏路",
+    "address": "高雄市楠梓區翠屏路 88 號 1 及 2 樓（部份）如圖",
+    "service": [
+      "sweat-potato",
+      "baked-potato",
+      "spicy-egg",
+      "steam-fresh",
+      "recyclable-cup",
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -78713,7 +80051,8 @@
       "formosa-tea",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -78729,7 +80068,8 @@
     "service": [
       "sweat-potato",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -78748,7 +80088,8 @@
       "sohot-dessert",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -78781,7 +80122,8 @@
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -78964,7 +80306,8 @@
       "smart-coffee",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -79025,7 +80368,8 @@
       "charge-spot",
       "formosa-tea",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -79083,7 +80427,8 @@
       "baked-potato",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -79107,7 +80452,8 @@
       "formosa-tea",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -79390,7 +80736,8 @@
       "rest-area",
       "baked-potato",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -79498,7 +80845,8 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -79516,7 +80864,8 @@
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -79556,7 +80905,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -79602,7 +80952,8 @@
       "spicy-egg",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -79931,7 +81282,8 @@
     "service": [
       "sweat-potato",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -80262,7 +81614,8 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -80383,7 +81736,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -80425,7 +81779,9 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -80503,7 +81859,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -80555,7 +81912,8 @@
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -80577,7 +81935,8 @@
       "two-famiice",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -80824,7 +82183,8 @@
       "sweat-potato",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -80877,7 +82237,8 @@
       "special-famiice",
       "steam-fresh",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -80913,7 +82274,8 @@
       "rest-area",
       "two-famiice",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -81056,7 +82418,8 @@
       "charge-spot",
       "smart-coffee",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -81121,7 +82484,35 @@
       "formosa-tea",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
+    ]
+  },
+  {
+    "name": "全家鳳山鳳翔店",
+    "id": "024994",
+    "tel": "07-7022294",
+    "lat": 22.625348,
+    "lng": 120.377196,
+    "city": "高雄市",
+    "area": "鳳山區",
+    "road": "中山東路",
+    "address": "高雄市鳳山區中山東路 234 巷 53 號",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "polaroid",
+      "single-famiice",
+      "toilet",
+      "rest-area",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "spicy-egg",
+      "steam-fresh",
+      "recyclable-cup",
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -81226,7 +82617,8 @@
       "rest-area",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -81510,7 +82902,8 @@
       "spicy-egg",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -81554,7 +82947,7 @@
   },
   {
     "name": "全家鳳山善美店",
-    "id": "023518",
+    "id": "025890",
     "tel": "07-7160451",
     "lat": 22.60012,
     "lng": 120.33417,
@@ -81573,7 +82966,8 @@
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -81827,7 +83221,9 @@
       "recyclable-cup",
       "cook-now",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -81904,7 +83300,7 @@
   },
   {
     "name": "全家鳳山老爺店",
-    "id": "016486",
+    "id": "025877",
     "tel": "07-7170515",
     "lat": 22.59671235,
     "lng": 120.33872471,
@@ -82072,7 +83468,8 @@
       "sohot-dessert",
       "charge-spot",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -82093,7 +83490,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -82152,7 +83550,8 @@
       "formosa-tea",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -82351,7 +83750,9 @@
       "steam-fresh",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -82397,7 +83798,8 @@
       "formosa-tea",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -82476,7 +83878,8 @@
       "sohot-dessert",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -82500,7 +83903,8 @@
       "charge-spot",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -82521,12 +83925,14 @@
       "charge-spot",
       "formosa-tea",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
     "name": "全家大樹鳳荔店",
-    "id": "017806",
+    "id": "025813",
     "tel": "07-6520498",
     "lat": 22.689598,
     "lng": 120.431694,
@@ -82694,7 +84100,8 @@
       "two-famiice",
       "costco-shelf",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -82848,7 +84255,8 @@
       "baked-potato",
       "costco-shelf",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -82976,7 +84384,8 @@
       "baked-potato",
       "sohot-dessert",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -83096,7 +84505,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -83137,7 +84547,8 @@
       "single-famiice",
       "baked-potato",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -83279,7 +84690,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -83341,7 +84753,8 @@
       "costco-shelf",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -83503,7 +84916,8 @@
       "baked-potato",
       "costco-shelf",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -83622,7 +85036,8 @@
       "sohot-grill",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -84081,7 +85496,10 @@
       "costco-shelf",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "veggie-zone",
+      "weighed-sweets"
     ]
   },
   {
@@ -84301,7 +85719,8 @@
       "sweat-potato",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -84319,7 +85738,8 @@
       "sweat-potato",
       "single-famiice",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -84391,7 +85811,8 @@
       "single-famiice",
       "baked-potato",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -84434,7 +85855,9 @@
       "spicy-egg",
       "gogoro-battery-exchange",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -84517,7 +85940,8 @@
       "costco-shelf",
       "spicy-egg",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -84662,7 +86086,8 @@
       "costco-shelf",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -84805,7 +86230,8 @@
       "spicy-egg",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -84864,7 +86290,8 @@
       "single-famiice",
       "rest-area",
       "baked-potato",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -84963,7 +86390,8 @@
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -85062,7 +86490,8 @@
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -85457,7 +86886,8 @@
       "costco-shelf",
       "charge-spot",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -85577,7 +87007,8 @@
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine"
     ]
   },
   {
@@ -85688,7 +87119,8 @@
       "single-famiice",
       "rest-area",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -85724,6 +87156,24 @@
       "fami-super",
       "cook-now",
       "no-pork",
+      "hot-dog",
+      "pokemon-machine"
+    ]
+  },
+  {
+    "name": "全家宜蘭員山店",
+    "id": "024091",
+    "tel": "03-9233360",
+    "lat": 24.746724,
+    "lng": 121.728586,
+    "city": "宜蘭縣",
+    "area": "員山鄉",
+    "road": "員山路一段",
+    "address": "宜蘭縣員山鄉員山路一段 122 號 1 樓",
+    "service": [
+      "sweat-potato",
+      "rest-area",
+      "charge-spot",
       "hot-dog"
     ]
   },
@@ -85766,7 +87216,8 @@
       "formosa-tea",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -85935,7 +87386,8 @@
       "gogoro-battery-exchange",
       "recyclable-cup",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine"
     ]
   },
   {
@@ -86071,7 +87523,8 @@
       "sohot-dessert",
       "charge-spot",
       "formosa-tea",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -86090,7 +87543,8 @@
       "sohot-dessert",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -86111,7 +87565,8 @@
       "formosa-tea",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -86231,7 +87686,8 @@
       "special-famiice",
       "baked-potato",
       "charge-spot",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -86273,7 +87729,8 @@
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -86403,7 +87860,8 @@
       "charge-spot",
       "spicy-egg",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -86441,7 +87899,8 @@
       "rest-area",
       "sohot-dessert",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -86481,7 +87940,8 @@
       "sohot-grill",
       "cook-now",
       "hot-dog",
-      "ecar-charging"
+      "ecar-charging",
+      "weighed-sweets"
     ]
   },
   {
@@ -86609,7 +88069,8 @@
       "charge-spot",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -86648,7 +88109,8 @@
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
-      "steam-fresh"
+      "steam-fresh",
+      "veggie-zone"
     ]
   },
   {
@@ -86813,7 +88275,9 @@
       "costco-shelf",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -86836,7 +88300,8 @@
       "formosa-tea",
       "spicy-egg",
       "steam-fresh",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -86941,7 +88406,8 @@
       "charge-spot",
       "spicy-egg",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -87019,7 +88485,8 @@
       "formosa-tea",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -87038,7 +88505,8 @@
       "costco-shelf",
       "charge-spot",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -87098,7 +88566,9 @@
       "baked-potato",
       "spicy-egg",
       "fami-super",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -87204,7 +88674,8 @@
       "formosa-tea",
       "spicy-egg",
       "gogoro-battery-exchange",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -87261,7 +88732,8 @@
       "baked-potato",
       "charge-spot",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "veggie-zone"
     ]
   },
   {
@@ -87324,7 +88796,8 @@
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -87460,7 +88933,8 @@
       "spicy-egg",
       "cook-now",
       "no-pork",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -87625,6 +89099,26 @@
       "sohot-dessert",
       "smart-coffee",
       "sohot-grill",
+      "hot-dog",
+      "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家豐濱濱海店",
+    "id": "025211",
+    "tel": "03-8791245",
+    "lat": 23.598219,
+    "lng": 121.522928,
+    "city": "花蓮縣",
+    "area": "豐濱鄉",
+    "road": "三民路",
+    "address": "花蓮縣豐濱鄉三民路 120 號",
+    "service": [
+      "sweat-potato",
+      "baked-potato",
+      "sohot-dessert",
+      "steam-fresh",
+      "sohot-grill",
       "hot-dog"
     ]
   },
@@ -87696,7 +89190,8 @@
       "single-famiice",
       "special-famiice",
       "hot-dog",
-      "jpy-atm"
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -87718,7 +89213,8 @@
       "costco-shelf",
       "sohot-grill",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -87737,7 +89233,8 @@
       "two-famiice",
       "special-famiice",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -87948,7 +89445,8 @@
       "rest-area",
       "two-famiice",
       "cook-now",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -87986,7 +89484,8 @@
       "sohot-dessert",
       "recyclable-cup",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -88170,7 +89669,9 @@
       "special-famiice",
       "baked-potato",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -88208,7 +89709,8 @@
       "rest-area",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -88397,7 +89899,9 @@
       "charge-spot",
       "steam-fresh",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "pokemon-machine",
+      "weighed-sweets"
     ]
   },
   {
@@ -88445,7 +89949,8 @@
       "sohot-dessert",
       "costco-shelf",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -88500,7 +90005,8 @@
       "baked-potato",
       "sohot-dessert",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -88598,7 +90104,8 @@
       "sweat-potato",
       "single-famiice",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -88662,7 +90169,8 @@
       "smart-coffee",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -88758,7 +90266,8 @@
       "rest-area",
       "baked-potato",
       "costco-shelf",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {
@@ -89034,7 +90543,8 @@
       "costco-shelf",
       "spicy-egg",
       "sohot-grill",
-      "hot-dog"
+      "hot-dog",
+      "weighed-sweets"
     ]
   },
   {

@@ -52,12 +52,29 @@ const sevenElevenServiceList: { [x in string]: string } = {
   'watts-59': 'Watts 均一價 59 元',
   'hot-pot': '饗喫鍋',
   'self-service-microwave': '自助微波',
+  'steamed-corn': '現蒸玉米',
+  'baked-sweet-potato': '現烤地瓜',
+  'ec-pickup': 'EC自助取件',
+  'rapid-test-retail': '藥商執照(快篩試劑)',
+  'guatemala-coffee': '瓜地馬拉豆',
+  'anker':'ANKER',
+  'director-tea-egg': '所長茶葉蛋',
+  'animal-welfare-egg': '動物福利蛋',
+  'beams-design': 'BEAMS DESIGN',
+  'beams-design-area': 'BEAMS DESIGN 專區',
+  'butter-popcorn-latte': '奶油爆米花風味拿鐵',
+  'beast-kingdom-area': '野獸國專櫃',
+  'happy-canteen': '開心食堂',
+  'weighed-candy': '精品秤重散糖',
+  'value-liquor-cellar': '超值酒藏',
+  'premium-coffee': '特選咖啡'
 }
 
 const familymartServiceList: { [x in string]: string } = {
   'coffee-hybrid-shop': '咖啡複合店',
   'fami-super': 'FamiSuper',
   'fami-laundry': 'Fami 自助洗衣',
+  
   'smart-coffee': '智能咖啡機',
   'cook-now': '馬尚煮',
   'hot-dog': '哈逗堡',
@@ -80,12 +97,17 @@ const familymartServiceList: { [x in string]: string } = {
   'hogan': '哈肯舖',
   'bear-snack': '小熊菓子',
   'no-pork': '無豬肉熱食友善店',
+  'veggie-zone': '蔬食專區',
+  'weighed-sweets': '秤重糖巧販售店',
+
   'recyclable-cup': '塑環真循環杯',
   'polaroid': '相片拍立得',
   'charge-spot': 'ChargeSPOT',
   'gogoro-battery-exchange': 'gogoro 電池交換站',
   'jpy-atm': '台新外幣 ATM（日圓）',
   'ecar-charging': '電動車充電站',
+  'pokemon-machine': '寶可夢機台',
+
   'rest-area': '休憩區',
   'toilet': '廁所',
   

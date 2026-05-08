@@ -84,6 +84,23 @@ const serviceConversionTable = {
   '88酷聖石霜淇淋': 'cold-stone-ice-cream',
   '89自助微波': 'self-service-microwave',
   '90饗喫鍋': 'hot-pot',
+  '91蒸玉米': 'steamed-corn',
+  '92現烤地瓜': 'baked-sweet-potato',
+  '93茶BAR(多元複合)': 'tea-bar',
+  '94EC自助取件': 'ec-pickup',
+  '95藥商執照(快篩試劑)': 'rapid-test-retail',
+  '96瓜地馬拉豆': 'guatemala-coffee',
+  '97ANKER': 'anker',
+  'A1所長茶葉蛋': 'director-tea-egg',
+  'A2動福滷蛋': 'animal-welfare-egg',
+  'A8BEAMS DESIGN': 'beams-design',
+  'A9BEAMS DESIGN專區': 'beams-design-area',
+  'B0奶油爆米花風味拿鐵': 'butter-popcorn-latte',
+  'B1野獸國專櫃': 'beast-kingdom-area',
+  'B2開心食堂': 'happy-canteen',
+  'B3精品秤重散糖': 'weighed-candy',
+  'B4超值酒藏': 'value-liquor-cellar',
+  'B6特選咖啡': 'premium-coffee'
 }
 
 const signConversionTable = {

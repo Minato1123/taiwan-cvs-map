@@ -40,6 +40,7 @@ const serviceConversionTable = {
   locoffee: 'coffee-hybrid-shop',
   super: 'fami-super',
   laundry: 'fami-laundry',
+
   smart: 'smart-coffee',
   cooknow: 'cook-now',
   hd: 'hot-dog',
@@ -62,14 +63,20 @@ const serviceConversionTable = {
   hogan: 'hogan',
   bear: 'bear-snack',
   npork: 'no-pork',
+  fzo: 'veggie-zone',
+  wei:'weighed-sweets',
+
   eco: 'recyclable-cup',
   photo: 'polaroid',
   cs: 'charge-spot',
   goro:	'gogoro-battery-exchange',
   jp: 'jpy-atm',
   evc: 'ecar-charging',
+  pok: 'pokemon-machine',
+
   rest: 'rest-area',
   toilet: 'toilet',
+  
 }
 
 const signConversionTable = {
