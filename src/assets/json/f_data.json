@@ -360,6 +360,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -456,6 +457,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "formosa-tea",
@@ -1114,7 +1116,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "hot-dog"
@@ -1224,6 +1225,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "steam-fresh",
@@ -1865,7 +1867,7 @@
   },
   {
     "name": "全家台北地下街店",
-    "id": "023736",
+    "id": "026674",
     "tel": "02-23142698",
     "lat": 25.04691,
     "lng": 121.516746,
@@ -1944,6 +1946,7 @@
     "address": "台北市中正區忠孝東路二段 93 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
@@ -2127,6 +2130,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "tianhe-fresh",
       "baked-potato",
@@ -2154,6 +2158,7 @@
     "address": "台北市中正區南陽街 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "hot-dog",
       "jpy-atm"
@@ -2161,7 +2166,7 @@
   },
   {
     "name": "全家重慶店",
-    "id": "017294",
+    "id": "026128",
     "tel": "02-23122797",
     "lat": 25.043947,
     "lng": 121.51306,
@@ -2219,6 +2224,7 @@
     "address": "台北市中正區許昌街 14 號 1F",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -2291,7 +2297,7 @@
   },
   {
     "name": "全家教育大學店",
-    "id": "026254",
+    "id": "026211",
     "tel": "02-23888317",
     "lat": 25.035578,
     "lng": 121.513569,
@@ -2301,6 +2307,7 @@
     "address": "台北市中正區愛國西路 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "steam-fresh",
       "sohot-grill",
@@ -2420,6 +2427,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "smart-coffee",
@@ -2680,6 +2688,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "recyclable-cup",
       "hot-dog"
@@ -2888,6 +2897,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "smart-coffee",
@@ -3519,6 +3529,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -3606,6 +3617,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -3763,6 +3775,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -3824,6 +3837,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -3844,6 +3858,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -3862,6 +3877,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -4076,6 +4092,7 @@
     "address": "台北市中山區林森北路 247 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -4190,6 +4207,7 @@
     "address": "台北市中山區松江路 122 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -4237,7 +4255,7 @@
   },
   {
     "name": "全家松茂店",
-    "id": "025201",
+    "id": "026189",
     "tel": "02-25028713",
     "lat": 25.053603,
     "lng": 121.533337,
@@ -4271,6 +4289,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -4294,6 +4313,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot"
     ]
@@ -4413,6 +4433,7 @@
     "address": "台北市中山區長春路 15 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "formosa-tea",
@@ -4471,6 +4492,7 @@
     "address": "台北市中山區南京東路二段 72 號 1 樓、 72-2 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -4931,6 +4953,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -5015,7 +5038,7 @@
   },
   {
     "name": "全家龍京店",
-    "id": "024110",
+    "id": "026188",
     "tel": "02-25082793",
     "lat": 25.052669,
     "lng": 121.540322,
@@ -5122,7 +5145,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "hot-dog"
     ]
@@ -5142,6 +5164,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -5219,6 +5242,7 @@
     "address": "台北市松山區八德路四段 676 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog",
@@ -5244,7 +5268,7 @@
   },
   {
     "name": "全家復盛店",
-    "id": "016137",
+    "id": "026238",
     "tel": "02-27619127",
     "lat": 25.048254,
     "lng": 121.559211,
@@ -5274,6 +5298,7 @@
     "address": "台北市松山區三民路 148 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "hot-dog"
@@ -5293,6 +5318,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -5459,6 +5485,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -5660,6 +5687,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -5878,6 +5906,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -6160,6 +6189,7 @@
     "road": "敦化北路",
     "address": "台北市松山區敦化北路 153 號 1 樓",
     "service": [
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -6330,6 +6360,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -6568,6 +6599,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -6593,6 +6625,7 @@
       "polaroid",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "smart-coffee",
@@ -6679,6 +6712,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "formosa-tea",
@@ -6718,6 +6752,7 @@
     "address": "台北市大安區和平東路二段 22 號",
     "service": [
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
@@ -6774,7 +6809,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "sohot-dessert",
@@ -6864,6 +6898,7 @@
     "address": "台北市大安區忠孝東路四段 75 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "steam-fresh",
       "hot-dog"
     ]
@@ -6879,6 +6914,7 @@
     "road": "忠孝東路四段",
     "address": "台北市大安區忠孝東路 4 段 302 號 1 樓東側部分",
     "service": [
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -6943,6 +6979,7 @@
     "address": "台北市大安區忠孝東路 4 段 170 巷 6 弄 2 號",
     "service": [
       "rest-area",
+      "two-famiice",
       "tianhe-fresh",
       "baked-potato",
       "sohot-dessert",
@@ -6968,6 +7005,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "cook-now",
       "no-pork",
@@ -7208,6 +7246,7 @@
     "address": "台北市大安區師大路 79 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -7234,7 +7273,7 @@
   },
   {
     "name": "全家台科店",
-    "id": "023762",
+    "id": "026163",
     "tel": "02-27384936",
     "lat": 25.013757,
     "lng": 121.540597,
@@ -7244,6 +7283,7 @@
     "address": "台北市大安區基隆路 4 段 43 號地下一樓第三餐廳",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -7343,7 +7383,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "costco-shelf",
       "charge-spot",
       "hot-dog",
@@ -7427,6 +7466,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -7448,7 +7488,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "charge-spot",
       "hot-dog"
@@ -7523,6 +7562,7 @@
     "address": "台北市大安區新生南路 1 段 1 號光華樓 1 樓部分空間",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -7597,6 +7637,7 @@
     "address": "台北市大安區潮州街 80 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
@@ -7821,6 +7862,7 @@
     "address": "台北市萬華區中華路二段 416 巷 50 號 1 樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -7881,7 +7923,7 @@
   },
   {
     "name": "全家萬園店",
-    "id": "019082",
+    "id": "026193",
     "tel": "02-23040410",
     "lat": 25.035019,
     "lng": 121.499378,
@@ -7970,7 +8012,7 @@
   },
   {
     "name": "全家昆明店",
-    "id": "020976",
+    "id": "026744",
     "tel": "02-23705910",
     "lat": 25.041328,
     "lng": 121.504376,
@@ -8001,6 +8043,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "cook-now",
@@ -8118,6 +8161,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
@@ -8157,6 +8201,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -8250,7 +8295,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "sohot-dessert",
@@ -8423,6 +8467,7 @@
     "address": "台北市萬華區漢口街二段 67 之 2 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "steam-fresh",
       "hot-dog"
@@ -8496,6 +8541,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
@@ -8652,6 +8698,7 @@
     "address": "台北市信義區中坡北路 25 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -8763,6 +8810,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
@@ -8817,6 +8865,7 @@
     "address": "台北市信義區光復南路 133 號（一號變電站庫房）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -8840,6 +8889,7 @@
     "address": "台北市信義區吳興街 156 巷 16 弄 1 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
@@ -8897,6 +8947,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -9280,6 +9331,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -9428,6 +9480,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -9451,6 +9504,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -9597,6 +9651,7 @@
     "address": "台北市信義區莊敬路 190 號 1 樓及地下室",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -9694,6 +9749,7 @@
     "address": "台北市士林區大東路 63 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -9778,6 +9834,34 @@
       "baked-potato",
       "charge-spot",
       "hot-dog"
+    ]
+  },
+  {
+    "name": "全家士林官邸店",
+    "id": "026160",
+    "tel": "02-28834149",
+    "lat": 25.093325,
+    "lng": 121.527255,
+    "city": "台北市",
+    "area": "士林區",
+    "road": "中山北路五段",
+    "address": "台北市士林區中山北路五段 505 巷 18 號 1 樓",
+    "service": [
+      "single-famiice"
+    ]
+  },
+  {
+    "name": "全家銘傳大學店",
+    "id": "026161",
+    "tel": "02-28839745",
+    "lat": 25.087209,
+    "lng": 121.526977,
+    "city": "台北市",
+    "area": "士林區",
+    "road": "中山北路五段",
+    "address": "臺北市士林區中山北路五段 250 號",
+    "service": [
+      "single-famiice"
     ]
   },
   {
@@ -9945,6 +10029,7 @@
       "polaroid",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -10006,6 +10091,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "hot-dog"
@@ -10096,6 +10182,7 @@
     "address": "台北市士林區延平北路八段 105 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -10115,7 +10202,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "charge-spot",
       "recyclable-cup"
@@ -10227,6 +10313,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -10326,7 +10413,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -10378,7 +10464,7 @@
   },
   {
     "name": "全家新格致店",
-    "id": "022620",
+    "id": "026171",
     "tel": "02-28623855",
     "lat": 25.137716,
     "lng": 121.546313,
@@ -10389,6 +10475,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -10612,6 +10699,7 @@
     "address": "台北市北投區大業路 527 巷 88 號 B1",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -10731,6 +10819,7 @@
     "address": "台北市北投區中央北路四段 298 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -10846,7 +10935,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "recyclable-cup",
       "cook-now",
@@ -10998,6 +11086,7 @@
     "address": "台北市北投區光明路 218 之 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -11160,6 +11249,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -11271,6 +11361,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -11301,6 +11392,20 @@
       "recyclable-cup",
       "hot-dog",
       "weighed-sweets"
+    ]
+  },
+  {
+    "name": "全家北藝大店",
+    "id": "026159",
+    "tel": "02-28942558",
+    "lat": 25.129937,
+    "lng": 121.46619,
+    "city": "台北市",
+    "area": "北投區",
+    "road": "學園路",
+    "address": "台北市北投區學園路 1 號 1 樓（綜合宿舍學生餐廳）",
+    "service": [
+      "single-famiice"
     ]
   },
   {
@@ -11354,6 +11459,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -11535,6 +11641,7 @@
     "address": "台北市內湖區民善街 1 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -11620,6 +11727,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "formosa-tea",
@@ -11674,6 +11782,7 @@
     "address": "台北市內湖區成功路二段 325 號 B1F",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "baked-potato",
       "sohot-dessert",
       "spicy-egg",
@@ -11900,6 +12009,7 @@
     "address": "台北市內湖區南京東路六段 370 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -12044,6 +12154,7 @@
     "address": "台北市內湖區康樂街 110 巷 15 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "costco-shelf",
       "recyclable-cup",
       "hot-dog"
@@ -12062,6 +12173,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot"
     ]
   },
@@ -12097,6 +12209,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "smart-coffee",
@@ -12207,7 +12320,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "charge-spot",
       "smart-coffee",
@@ -12231,6 +12343,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "smart-coffee",
@@ -12433,7 +12546,7 @@
   },
   {
     "name": "全家湖山店",
-    "id": "015432",
+    "id": "026239",
     "tel": "02-26572616",
     "lat": 25.082171,
     "lng": 121.573544,
@@ -12482,6 +12595,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "smart-coffee",
       "cook-now",
@@ -12733,6 +12847,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -12920,6 +13035,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -12943,6 +13059,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "steam-fresh",
       "hot-dog"
@@ -12962,6 +13079,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
@@ -13098,6 +13216,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -13184,6 +13303,7 @@
     "address": "台北市文山區汀州路 4 段 77 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "cook-now",
       "no-pork"
     ]
@@ -13313,6 +13433,7 @@
     "address": "台北市文山區保儀路 78 號、 80 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -13436,6 +13557,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "recyclable-cup",
       "jpy-atm"
@@ -13443,7 +13565,7 @@
   },
   {
     "name": "全家新文華店",
-    "id": "020275",
+    "id": "026255",
     "tel": "02-86633877",
     "lat": 24.995174,
     "lng": 121.541577,
@@ -13505,7 +13627,7 @@
   },
   {
     "name": "全家萬慶店",
-    "id": "020805",
+    "id": "026256",
     "tel": "02-86631281",
     "lat": 24.993664,
     "lng": 121.539152,
@@ -13567,6 +13689,7 @@
     "address": "台北市文山區萬安街 29 號一樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -13590,7 +13713,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "hot-dog"
     ]
@@ -13634,7 +13756,7 @@
   },
   {
     "name": "全家萬興店",
-    "id": "022670",
+    "id": "026182",
     "tel": "02-29304220",
     "lat": 25.004308,
     "lng": 121.541341,
@@ -13744,6 +13866,7 @@
     "address": "台北市文山區興隆路二段 203 巷 2 弄 2 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -13763,6 +13886,7 @@
     "road": "興隆路三段",
     "address": "台北市文山區興隆路三段 112 巷 2 弄 1 號 1 樓",
     "service": [
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -13880,6 +14004,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
@@ -14053,6 +14178,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -14275,6 +14401,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "formosa-tea",
       "recyclable-cup",
@@ -14370,6 +14497,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -14501,6 +14629,7 @@
     "address": "新北市板橋區中正路 254 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -14518,6 +14647,7 @@
     "address": "新北市板橋區中正路 1 巷 12 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -14677,6 +14807,7 @@
     "address": "新北市板橋區文化路一段 188 巷 42 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -14842,6 +14973,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -14967,6 +15099,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -15055,7 +15188,7 @@
   },
   {
     "name": "全家板橋民族店",
-    "id": "018267",
+    "id": "026229",
     "tel": "02-89510850",
     "lat": 25.008875,
     "lng": 121.465143,
@@ -15213,6 +15346,7 @@
     "address": "新北市板橋區府中路 29—1 號 1 樓",
     "service": [
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -15241,6 +15375,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -15374,17 +15509,19 @@
     ]
   },
   {
-    "name": "全家板橋金園店",
-    "id": "023335",
-    "tel": "02-26837125",
-    "lat": 24.991461,
-    "lng": 121.432977,
+    "name": "全家板橋金市店",
+    "id": "025964",
+    "tel": "02-26757155",
+    "lat": 24.99275,
+    "lng": 121.433122,
     "city": "新北市",
     "area": "板橋區",
     "road": "金門街",
-    "address": "新北市板橋區金門街 129 號一樓",
+    "address": "新北市板橋區金門街 86 號 1 樓（如附圖）",
     "service": [
       "sweat-potato",
+      "charge-spot",
+      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -15408,19 +15545,17 @@
     ]
   },
   {
-    "name": "全家板橋金市店",
-    "id": "025964",
-    "tel": "02-26757155",
-    "lat": 24.99275,
-    "lng": 121.433122,
+    "name": "全家板橋金園店",
+    "id": "023335",
+    "tel": "02-26837125",
+    "lat": 24.991461,
+    "lng": 121.432977,
     "city": "新北市",
     "area": "板橋區",
     "road": "金門街",
-    "address": "新北市板橋區金門街 86 號 1 樓（如附圖）",
+    "address": "新北市板橋區金門街 129 號一樓",
     "service": [
       "sweat-potato",
-      "charge-spot",
-      "recyclable-cup",
       "hot-dog"
     ]
   },
@@ -15463,28 +15598,6 @@
     ]
   },
   {
-    "name": "全家板橋永安店",
-    "id": "016536",
-    "tel": "02-29645603",
-    "lat": 25.012826,
-    "lng": 121.471958,
-    "city": "新北市",
-    "area": "板橋區",
-    "road": "長安街",
-    "address": "新北市板橋區長安街 331 巷 94 號 1 樓",
-    "service": [
-      "famiice",
-      "sweat-potato",
-      "single-famiice",
-      "rest-area",
-      "charge-spot",
-      "steam-fresh",
-      "hot-dog",
-      "jpy-atm",
-      "weighed-sweets"
-    ]
-  },
-  {
     "name": "全家板橋新安店",
     "id": "022380",
     "tel": "02-29513527",
@@ -15504,6 +15617,28 @@
       "hot-dog",
       "jpy-atm",
       "veggie-zone"
+    ]
+  },
+  {
+    "name": "全家板橋永安店",
+    "id": "016536",
+    "tel": "02-29645603",
+    "lat": 25.012826,
+    "lng": 121.471958,
+    "city": "新北市",
+    "area": "板橋區",
+    "road": "長安街",
+    "address": "新北市板橋區長安街 331 巷 94 號 1 樓",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "single-famiice",
+      "rest-area",
+      "charge-spot",
+      "steam-fresh",
+      "hot-dog",
+      "jpy-atm",
+      "weighed-sweets"
     ]
   },
   {
@@ -15541,24 +15676,6 @@
     ]
   },
   {
-    "name": "全家板橋江北店",
-    "id": "022533",
-    "tel": "02-82570100",
-    "lat": 25.03346,
-    "lng": 121.471063,
-    "city": "新北市",
-    "area": "板橋區",
-    "road": "長江路二段",
-    "address": "新北市板橋區長江路二段 313 號 1 樓",
-    "service": [
-      "sweat-potato",
-      "baked-potato",
-      "charge-spot",
-      "cook-now",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家板橋漢江店",
     "id": "016640",
     "tel": "02-22593499",
@@ -15574,6 +15691,24 @@
       "rest-area",
       "charge-spot",
       "steam-fresh",
+      "hot-dog"
+    ]
+  },
+  {
+    "name": "全家板橋江北店",
+    "id": "022533",
+    "tel": "02-82570100",
+    "lat": 25.03346,
+    "lng": 121.471063,
+    "city": "新北市",
+    "area": "板橋區",
+    "road": "長江路二段",
+    "address": "新北市板橋區長江路二段 313 號 1 樓",
+    "service": [
+      "sweat-potato",
+      "baked-potato",
+      "charge-spot",
+      "cook-now",
       "hot-dog"
     ]
   },
@@ -15651,6 +15786,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "hot-dog",
@@ -15685,27 +15821,6 @@
     ]
   },
   {
-    "name": "全家板橋華東店",
-    "id": "021496",
-    "tel": "02-89660536",
-    "lat": 24.995758,
-    "lng": 121.450711,
-    "city": "新北市",
-    "area": "板橋區",
-    "road": "南雅南路二段",
-    "address": "新北市板橋區南雅南路二段 144 巷 18 號",
-    "service": [
-      "famiice",
-      "sweat-potato",
-      "single-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "charge-spot",
-      "formosa-tea",
-      "hot-dog"
-    ]
-  },
-  {
     "name": "全家板橋湳雅店",
     "id": "020792",
     "tel": "02-29647980",
@@ -15726,18 +15841,23 @@
     ]
   },
   {
-    "name": "全家板橋亞東二店",
-    "id": "025179",
-    "tel": "02-89660013",
-    "lat": 24.997338,
-    "lng": 121.452287,
+    "name": "全家板橋華東店",
+    "id": "021496",
+    "tel": "02-89660536",
+    "lat": 24.995758,
+    "lng": 121.450711,
     "city": "新北市",
     "area": "板橋區",
     "road": "南雅南路二段",
-    "address": "新北市板橋區南雅南路二段 21 號大廳",
+    "address": "新北市板橋區南雅南路二段 144 巷 18 號",
     "service": [
+      "famiice",
       "sweat-potato",
-      "cook-now",
+      "single-famiice",
+      "baked-potato",
+      "sohot-dessert",
+      "charge-spot",
+      "formosa-tea",
       "hot-dog"
     ]
   },
@@ -15762,6 +15882,22 @@
     ]
   },
   {
+    "name": "全家板橋亞東二店",
+    "id": "025179",
+    "tel": "02-89660013",
+    "lat": 24.997338,
+    "lng": 121.452287,
+    "city": "新北市",
+    "area": "板橋區",
+    "road": "南雅南路二段",
+    "address": "新北市板橋區南雅南路二段 21 號大廳",
+    "service": [
+      "sweat-potato",
+      "cook-now",
+      "hot-dog"
+    ]
+  },
+  {
     "name": "全家板橋英仕店",
     "id": "015909",
     "tel": "02-22599823",
@@ -15774,6 +15910,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -15869,6 +16006,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -15896,6 +16034,18 @@
       "hot-dog",
       "weighed-sweets"
     ]
+  },
+  {
+    "name": "全家板橋永富店",
+    "id": "026155",
+    "tel": "02-29641842",
+    "lat": 24.996339,
+    "lng": 121.462311,
+    "city": "新北市",
+    "area": "板橋區",
+    "road": "國慶路",
+    "address": "新北市板橋區國慶路 171 號 1 樓",
+    "service": []
   },
   {
     "name": "全家板橋莒安店",
@@ -16099,6 +16249,7 @@
     "address": "新北市板橋區貴興路 49-1 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -16586,8 +16737,8 @@
     ]
   },
   {
-    "name": "全家板橋雙子店",
-    "id": "022390",
+    "name": "全家板橋雙子星店",
+    "id": "026130",
     "tel": "02-29649816",
     "lat": 25.012299,
     "lng": 121.463248,
@@ -16595,12 +16746,7 @@
     "area": "板橋區",
     "road": "縣民大道二段",
     "address": "新北市板橋區縣民大道二段 66 號 1 樓",
-    "service": [
-      "sweat-potato",
-      "rest-area",
-      "cook-now",
-      "hot-dog"
-    ]
+    "service": []
   },
   {
     "name": "全家板橋聚星店",
@@ -16887,6 +17033,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
@@ -16909,6 +17056,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -17008,6 +17156,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -17028,7 +17177,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "fresh-vegetables",
       "charge-spot",
@@ -17147,6 +17295,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -17240,6 +17389,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "recyclable-cup",
       "hot-dog"
@@ -17411,6 +17561,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -17491,6 +17642,7 @@
     "address": "新北市汐止區湖前街 49 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -17553,6 +17705,7 @@
     "address": "新北市汐止區新台五路一段 212 號、 212 之 1 號",
     "service": [
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -17722,7 +17875,9 @@
     "area": "汐止區",
     "road": "福德一路",
     "address": "新北市汐止區福德一路 195 號 1 樓",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家汐止長虹店",
@@ -17943,6 +18098,7 @@
     "address": "新北市深坑區文化街 76 號 1 樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -17987,7 +18143,7 @@
   },
   {
     "name": "全家深坑北福店",
-    "id": "015531",
+    "id": "026183",
     "tel": "02-26629753",
     "lat": 25.004186,
     "lng": 121.599612,
@@ -18178,6 +18334,7 @@
     "address": "新北市瑞芳區金光路 36 號 1 樓（部份）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -18212,6 +18369,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -18281,6 +18439,7 @@
     "address": "新北市貢寮區興隆街 22 號 1、2 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -18298,6 +18457,7 @@
     "service": [
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -18321,6 +18481,7 @@
     "road": "三民路",
     "address": "新北市新店區三民路 81 號 1 樓",
     "service": [
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -18485,6 +18646,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "formosa-tea",
@@ -18651,6 +18813,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -18846,12 +19009,47 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
       "sohot-grill",
       "hot-dog",
       "jpy-atm"
+    ]
+  },
+  {
+    "name": "全家新店寶嘉店",
+    "id": "026139",
+    "tel": "02-89145427",
+    "lat": 24.978687,
+    "lng": 121.542707,
+    "city": "新北市",
+    "area": "新店區",
+    "road": "北新路二段",
+    "address": "新北市新店區北新路二段 268 號 1 樓",
+    "service": [
+      "single-famiice"
+    ]
+  },
+  {
+    "name": "全家新店大坪林店",
+    "id": "025292",
+    "tel": "02-89145497",
+    "lat": 24.981876,
+    "lng": 121.541698,
+    "city": "新北市",
+    "area": "新店區",
+    "road": "北新路三段",
+    "address": "新北市新店區北新路三段 126 號 1 樓",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "single-famiice",
+      "baked-potato",
+      "sohot-dessert",
+      "sohot-grill",
+      "hot-dog"
     ]
   },
   {
@@ -18876,45 +19074,6 @@
     ]
   },
   {
-    "name": "全家新店大坪林店",
-    "id": "025292",
-    "tel": "02-89145497",
-    "lat": 24.981876,
-    "lng": 121.541698,
-    "city": "新北市",
-    "area": "新店區",
-    "road": "北新路三段",
-    "address": "新北市新店區北新路三段 126 號 1 樓",
-    "service": [
-      "famiice",
-      "sweat-potato",
-      "single-famiice",
-      "baked-potato",
-      "sohot-dessert",
-      "sohot-grill",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家新店央北店",
-    "id": "024778",
-    "tel": "02-22182512",
-    "lat": 24.980059,
-    "lng": 121.526079,
-    "city": "新北市",
-    "area": "新店區",
-    "road": "央北二路",
-    "address": "新北市新店區央北二路 229 號 1 樓",
-    "service": [
-      "sweat-potato",
-      "sohot-dessert",
-      "fami-super",
-      "sohot-grill",
-      "hot-dog",
-      "veggie-zone"
-    ]
-  },
-  {
     "name": "全家新店公宅店",
     "id": "021233",
     "tel": "02-22187268",
@@ -18936,6 +19095,25 @@
       "steam-fresh",
       "sohot-grill",
       "hot-dog"
+    ]
+  },
+  {
+    "name": "全家新店央北店",
+    "id": "024778",
+    "tel": "02-22182512",
+    "lat": 24.980059,
+    "lng": 121.526079,
+    "city": "新北市",
+    "area": "新店區",
+    "road": "央北二路",
+    "address": "新北市新店區央北二路 229 號 1 樓",
+    "service": [
+      "sweat-potato",
+      "sohot-dessert",
+      "fami-super",
+      "sohot-grill",
+      "hot-dog",
+      "veggie-zone"
     ]
   },
   {
@@ -18997,7 +19175,7 @@
     ]
   },
   {
-    "name": "全家新北捷十四張店",
+    "name": "全家新北捷十四張",
     "id": "023826",
     "tel": "02-22185671",
     "lat": 24.984655,
@@ -19048,6 +19226,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup"
@@ -19055,7 +19234,7 @@
   },
   {
     "name": "全家新店民佳店",
-    "id": "023350",
+    "id": "026253",
     "tel": "02-86658005",
     "lat": 24.983073,
     "lng": 121.538182,
@@ -19582,7 +19761,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
@@ -19677,6 +19855,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -19736,6 +19915,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -20187,6 +20367,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -20354,6 +20535,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot"
     ]
   },
@@ -20491,6 +20673,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
@@ -20682,6 +20865,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup"
     ]
@@ -20904,6 +21088,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "cook-now",
       "hot-dog"
@@ -20943,6 +21128,7 @@
       "polaroid",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -20998,6 +21184,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -21217,7 +21404,7 @@
   },
   {
     "name": "全家中和中興店",
-    "id": "018743",
+    "id": "026230",
     "tel": "02-82423542",
     "lat": 24.992287,
     "lng": 121.499982,
@@ -21281,6 +21468,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "recyclable-cup",
       "hot-dog",
@@ -21319,7 +21507,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -21357,6 +21544,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -21577,7 +21765,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -21670,6 +21857,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "spicy-egg",
@@ -21817,6 +22005,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -21959,6 +22148,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -22162,6 +22352,7 @@
     "address": "新北市中和區景平路 139-1 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "steam-fresh",
       "hot-dog"
     ]
@@ -22204,6 +22395,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "formosa-tea",
@@ -22408,8 +22600,8 @@
     "address": "新北市中和區景德街 124 號 1 樓",
     "service": [
       "sweat-potato",
-      "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -22430,6 +22622,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "no-pork",
       "hot-dog",
@@ -22492,6 +22685,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
@@ -22511,7 +22705,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot",
@@ -22535,6 +22728,20 @@
       "charge-spot",
       "steam-fresh",
       "hot-dog"
+    ]
+  },
+  {
+    "name": "全家中和圓景店",
+    "id": "026209",
+    "tel": "02-22438613",
+    "lat": 24.997631,
+    "lng": 121.500895,
+    "city": "新北市",
+    "area": "中和區",
+    "road": "圓通路",
+    "address": "新北市中和區圓通路 45 號 1 樓、 B1",
+    "service": [
+      "single-famiice"
     ]
   },
   {
@@ -22610,6 +22817,7 @@
     "address": "新北市中和區圓通路 307 之 5 號",
     "service": [
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -22633,6 +22841,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -22690,6 +22899,7 @@
     "service": [
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -22738,6 +22948,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "steam-fresh",
@@ -22747,7 +22958,7 @@
   },
   {
     "name": "全家中和德穗店",
-    "id": "020025",
+    "id": "026172",
     "tel": "02-89526580",
     "lat": 25.004493,
     "lng": 121.47085,
@@ -22812,6 +23023,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "cook-now",
@@ -22998,6 +23210,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "steam-fresh",
       "hot-dog"
@@ -23155,6 +23368,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "gogoro-battery-exchange",
@@ -23305,7 +23519,7 @@
   },
   {
     "name": "全家土城吉美店",
-    "id": "017621",
+    "id": "026231",
     "tel": "02-22602720",
     "lat": 24.984992,
     "lng": 121.467877,
@@ -23333,6 +23547,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
@@ -23549,6 +23764,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
@@ -23800,6 +24016,7 @@
     "address": "新北市土城區廣明街 49 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
@@ -24118,6 +24335,7 @@
     "address": "新北市三峽區大學路 81 號 1 樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -24168,7 +24386,7 @@
   },
   {
     "name": "全家三峽峇里店",
-    "id": "019150",
+    "id": "026169",
     "tel": "02-26736076",
     "lat": 24.937727,
     "lng": 121.361248,
@@ -24258,6 +24476,7 @@
     "address": "新北市三峽區民權街 6 號 1 樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -24529,6 +24748,7 @@
     "address": "新北市樹林區三俊街 112 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "hot-dog",
       "jpy-atm"
@@ -24794,6 +25014,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog",
@@ -24867,6 +25088,7 @@
     "address": "新北市樹林區名園街 45 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -24925,7 +25147,6 @@
       "famiice",
       "sweat-potato",
       "polaroid",
-      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot",
@@ -25208,6 +25429,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -25288,7 +25510,6 @@
     "address": "新北市樹林區學成路 601 號 1 樓",
     "service": [
       "famiice",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "sohot-dessert",
@@ -25373,7 +25594,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -25561,6 +25781,7 @@
     "address": "新北市鶯歌區國中街 1-3 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -25602,7 +25823,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "hot-dog"
     ]
   },
@@ -25636,6 +25856,7 @@
     "address": "新北市鶯歌區館前路 298 號 C3 店舖",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "steam-fresh",
       "hot-dog"
@@ -25747,6 +25968,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -25785,6 +26007,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "hot-dog"
@@ -25839,7 +26062,7 @@
   },
   {
     "name": "全家三重三張店",
-    "id": "024070",
+    "id": "026197",
     "tel": "02-89852190",
     "lat": 25.069864,
     "lng": 121.487541,
@@ -26455,6 +26678,7 @@
     "road": "永福街",
     "address": "新北市三重區永福街 124 號、 126 號 1 樓",
     "service": [
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -26552,6 +26776,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -26635,6 +26860,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -26788,6 +27014,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "fami-laundry",
       "baked-potato",
@@ -26812,6 +27039,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -26868,7 +27096,7 @@
   },
   {
     "name": "全家三重中興店",
-    "id": "019168",
+    "id": "026192",
     "tel": "02-29992889",
     "lat": 25.045773,
     "lng": 121.469545,
@@ -27220,6 +27448,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -27260,6 +27489,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -27482,6 +27712,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "recyclable-cup",
@@ -27518,6 +27749,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -27540,6 +27772,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -27592,6 +27825,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -27875,6 +28109,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -27937,6 +28172,7 @@
     "road": "五工路",
     "address": "新北市新莊區五工路 70 號 1 樓＋ B1",
     "service": [
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -28214,7 +28450,7 @@
   },
   {
     "name": "全家新莊立信店",
-    "id": "017020",
+    "id": "026173",
     "tel": "02-29982115",
     "lat": 25.049536,
     "lng": 121.443995,
@@ -28295,6 +28531,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -28410,6 +28647,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
@@ -28491,6 +28729,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -28787,6 +29026,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -28957,6 +29197,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog",
       "pokemon-machine"
@@ -29113,7 +29354,7 @@
   },
   {
     "name": "全家泰山白金店",
-    "id": "020897",
+    "id": "026217",
     "tel": "02-22979409",
     "lat": 25.05546918,
     "lng": 121.43344692,
@@ -29125,6 +29366,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "spicy-egg",
@@ -29234,6 +29476,7 @@
     "address": "新北市泰山區明志路二段 53 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -29290,6 +29533,7 @@
     "address": "新北市泰山區南林路 98 號支援二棟 6 樓販賣部",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "steam-fresh",
       "recyclable-cup",
@@ -29346,7 +29590,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot",
@@ -29368,7 +29611,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -29577,7 +29819,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -29637,6 +29878,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -29738,6 +29980,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -29871,6 +30114,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -29907,6 +30151,7 @@
     "address": "新北市林口區文化三路二段 48 號 1 樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -30002,6 +30247,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -30033,6 +30279,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "spicy-egg",
       "hot-dog"
     ]
@@ -30087,7 +30334,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "charge-spot",
       "recyclable-cup",
@@ -30183,6 +30429,7 @@
     "address": "新北市蘆洲區中正路 185 巷 19 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "charge-spot",
       "cook-now",
@@ -30201,6 +30448,7 @@
     "address": "新北市蘆洲區中正路 181-1 號部份及 2 樓全部",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -30305,6 +30553,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog",
@@ -30423,6 +30672,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "recyclable-cup",
@@ -30586,7 +30836,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "charge-spot",
       "steam-fresh",
@@ -30638,7 +30887,7 @@
   },
   {
     "name": "全家蘆洲金華店",
-    "id": "024429",
+    "id": "026133",
     "tel": "02-22827493",
     "lat": 25.083443,
     "lng": 121.465058,
@@ -30706,6 +30955,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -30793,7 +31043,7 @@
   },
   {
     "name": "全家蘆洲正榮店",
-    "id": "026104",
+    "id": "026218",
     "tel": "02-82863084",
     "lat": 25.084877,
     "lng": 121.460686,
@@ -30856,7 +31106,9 @@
     "area": "蘆洲區",
     "road": "信義路",
     "address": "新北市蘆洲區信義路 37 巷 13 號 1 樓",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家蘆洲復江店",
@@ -30933,6 +31185,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -31124,6 +31377,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "formosa-tea",
@@ -31146,7 +31400,9 @@
     "area": "五股區",
     "road": "成泰路一段",
     "address": "新北市五股區成泰路一段 6 號一樓",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家五股臻愛店",
@@ -31648,6 +31904,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -32031,7 +32288,7 @@
   },
   {
     "name": "全家淡水天元店",
-    "id": "022817",
+    "id": "026168",
     "tel": "02-23831985",
     "lat": 25.18511845,
     "lng": 121.48232099,
@@ -32391,6 +32648,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -32413,6 +32671,7 @@
     "address": "新北市淡水區淡金路二段 189 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "spicy-egg",
@@ -32727,7 +32986,7 @@
   },
   {
     "name": "全家淡水新興店",
-    "id": "017100",
+    "id": "026237",
     "tel": "02-26230631",
     "lat": 25.18015532,
     "lng": 121.44183523,
@@ -32817,7 +33076,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "sohot-dessert",
       "costco-shelf",
@@ -33064,6 +33322,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "smart-coffee",
@@ -33145,6 +33404,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog",
       "jpy-atm"
@@ -33306,6 +33566,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "steam-fresh",
@@ -33353,7 +33614,7 @@
   },
   {
     "name": "全家中壢元生店",
-    "id": "024504",
+    "id": "026106",
     "tel": "03-4341827",
     "lat": 24.976974,
     "lng": 121.251137,
@@ -33383,6 +33644,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog",
       "jpy-atm"
@@ -33532,7 +33794,7 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "two-famiice",
+      "single-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -33592,6 +33854,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -33646,7 +33909,7 @@
   },
   {
     "name": "全家中壢復華店",
-    "id": "017912",
+    "id": "026794",
     "tel": "03-4341338",
     "lat": 24.972448,
     "lng": 121.247799,
@@ -33701,6 +33964,7 @@
     "address": "桃園市中壢區西園路 9 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "sohot-dessert",
       "hot-dog"
     ]
@@ -33733,6 +33997,7 @@
     "address": "桃園市中壢區延平路 552 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "steam-fresh",
@@ -33789,7 +34054,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "sohot-dessert",
       "steam-fresh",
       "no-pork",
@@ -34076,7 +34340,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "sohot-dessert",
       "sohot-grill",
       "hot-dog",
@@ -34249,6 +34512,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -34433,6 +34697,7 @@
     "address": "桃園市中壢區領航北路二段 151 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -34672,6 +34937,7 @@
     "address": "桃園市中壢區龍岡路三段 117 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -34747,6 +35013,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "gogoro-battery-exchange",
@@ -34875,6 +35142,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "spicy-egg",
@@ -35059,6 +35327,7 @@
     "address": "桃園市平鎮區中豐路南勢二段 462 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "formosa-tea",
       "hot-dog"
@@ -35162,6 +35431,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -35214,6 +35484,40 @@
     ]
   },
   {
+    "name": "全家平鎮新振興店",
+    "id": "026067",
+    "tel": "03-4679403",
+    "lat": 24.947571,
+    "lng": 121.220634,
+    "city": "桃園市",
+    "area": "平鎮區",
+    "road": "和平路",
+    "address": "桃園市平鎮區和平路 110 號",
+    "service": []
+  },
+  {
+    "name": "全家平鎮平興店",
+    "id": "023121",
+    "tel": "03-4918563",
+    "lat": 24.944873,
+    "lng": 121.20598,
+    "city": "桃園市",
+    "area": "平鎮區",
+    "road": "延平路二段",
+    "address": "桃園市平鎮區延平路二段 430 巷 22 號 1F",
+    "service": [
+      "famiice",
+      "sweat-potato",
+      "single-famiice",
+      "spicy-egg",
+      "steam-fresh",
+      "recyclable-cup",
+      "cook-now",
+      "hot-dog",
+      "veggie-zone"
+    ]
+  },
+  {
     "name": "全家平鎮彩虹店",
     "id": "022456",
     "tel": "03-4028491",
@@ -35226,7 +35530,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot",
@@ -35254,28 +35557,6 @@
     ]
   },
   {
-    "name": "全家平鎮平興店",
-    "id": "023121",
-    "tel": "03-4918563",
-    "lat": 24.944873,
-    "lng": 121.20598,
-    "city": "桃園市",
-    "area": "平鎮區",
-    "road": "延平路二段",
-    "address": "桃園市平鎮區延平路二段 430 巷 22 號 1F",
-    "service": [
-      "famiice",
-      "sweat-potato",
-      "single-famiice",
-      "spicy-egg",
-      "steam-fresh",
-      "recyclable-cup",
-      "cook-now",
-      "hot-dog",
-      "veggie-zone"
-    ]
-  },
-  {
     "name": "全家平鎮大仁店",
     "id": "025913",
     "tel": "03-4575027",
@@ -35288,6 +35569,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -35308,6 +35590,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -35351,6 +35634,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -35504,6 +35788,7 @@
     "address": "桃園市龍潭區大昌路二段 80 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "toilet",
       "rest-area",
       "sohot-dessert",
@@ -35559,6 +35844,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -35697,6 +35983,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -35720,7 +36007,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "sohot-dessert",
       "steam-fresh",
@@ -35760,6 +36046,7 @@
     "address": "桃園市龍潭區佳安路 5 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "steam-fresh",
       "sohot-grill",
@@ -35832,6 +36119,7 @@
     "address": "桃園市龍潭區龍園一路 288 號（友達光電 K 棟）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -35915,6 +36203,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "smart-coffee",
@@ -35956,6 +36245,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -36240,7 +36530,9 @@
     "area": "楊梅區",
     "road": "楊湖路一段",
     "address": "桃園市楊梅區楊湖路一段 532 號",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家楊梅揚新店",
@@ -36359,6 +36651,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -36473,6 +36766,7 @@
     "address": "桃園市新屋區中華路 809 號壹樓（如附圖）",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "steam-fresh",
       "hot-dog"
     ]
@@ -36549,6 +36843,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -36806,7 +37101,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -36832,6 +37126,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -36890,6 +37185,7 @@
     "address": "桃園市桃園區大興西路二段 139 巷 77 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "charge-spot",
       "steam-fresh",
@@ -37069,6 +37365,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -37131,6 +37428,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -37285,6 +37583,7 @@
     "address": "桃園市桃園區介壽路 408 號 1、2 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
@@ -37404,7 +37703,7 @@
   },
   {
     "name": "全家桃園民光店",
-    "id": "025839",
+    "id": "026125",
     "tel": "03-3588972",
     "lat": 25.008046,
     "lng": 121.317904,
@@ -37458,6 +37757,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -37482,7 +37782,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "sohot-dessert",
@@ -37631,7 +37930,6 @@
     "address": "桃園市桃園區同德五街 98 號 1 樓",
     "service": [
       "famiice",
-      "single-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -37826,6 +38124,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -37890,6 +38189,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -37990,6 +38290,7 @@
     "address": "桃園市桃園區莊敬路一段 376 號、中正路 1416 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "baked-potato",
       "sohot-dessert",
@@ -38104,6 +38405,7 @@
     "address": "桃園市桃園區經國路 130 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -38303,6 +38605,7 @@
     "address": "桃園市桃園區龍壽里龍壽街 158 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -38442,6 +38745,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "fami-super",
@@ -38589,6 +38893,7 @@
     "address": "桃園市龜山區文化二路 32 之 22 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "fami-laundry",
       "baked-potato",
       "sohot-dessert",
@@ -38754,6 +39059,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -39060,6 +39366,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -39244,7 +39551,7 @@
   },
   {
     "name": "全家龜山龍華店",
-    "id": "018599",
+    "id": "026141",
     "tel": "02-82092667",
     "lat": 25.018638,
     "lng": 121.406982,
@@ -39267,7 +39574,7 @@
   },
   {
     "name": "全家龜山萬壽店",
-    "id": "018395",
+    "id": "026724",
     "tel": "03-3501272",
     "lat": 24.999259,
     "lng": 121.345662,
@@ -39317,6 +39624,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -39439,6 +39747,7 @@
     "address": "桃園市八德區中山路 219 號 1 樓（如附圖）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -39524,7 +39833,7 @@
   },
   {
     "name": "全家八德瑞豐店",
-    "id": "018461",
+    "id": "026232",
     "tel": "03-3657530",
     "lat": 24.936202,
     "lng": 121.297097,
@@ -39989,23 +40298,6 @@
     ]
   },
   {
-    "name": "全家八德廣順店",
-    "id": "026214",
-    "tel": "03-3619465",
-    "lat": 24.95887479,
-    "lng": 121.29799734,
-    "city": "桃園市",
-    "area": "八德區",
-    "road": "廣福路",
-    "address": "桃園市八德區廣福路 42 號 1 樓角間",
-    "service": [
-      "sweat-potato",
-      "charge-spot",
-      "hot-dog",
-      "jpy-atm"
-    ]
-  },
-  {
     "name": "全家八德德富店",
     "id": "019786",
     "tel": "03-3756696",
@@ -40096,7 +40388,7 @@
   },
   {
     "name": "全家大溪松樹店",
-    "id": "019536",
+    "id": "026221",
     "tel": "03-3805861",
     "lat": 24.918313,
     "lng": 121.286777,
@@ -40361,7 +40653,8 @@
     "service": [
       "sweat-potato",
       "toilet",
-      "rest-area"
+      "rest-area",
+      "two-famiice"
     ]
   },
   {
@@ -40611,6 +40904,7 @@
     "address": "桃園市大園區春德路 128 號、 130 號 1 樓（含夾層）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -40754,7 +41048,6 @@
     "address": "桃園市大園區環區西路 79 號",
     "service": [
       "famiice",
-      "single-famiice",
       "baked-potato",
       "sohot-dessert",
       "sohot-grill",
@@ -40864,6 +41157,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -40916,6 +41210,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "gogoro-battery-exchange",
       "steam-fresh",
@@ -41015,6 +41310,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -41044,7 +41340,7 @@
   },
   {
     "name": "全家蘆竹吉林店",
-    "id": "023018",
+    "id": "026198",
     "tel": "03-3127253",
     "lat": 25.051322,
     "lng": 121.29609,
@@ -41324,6 +41620,7 @@
     "service": [
       "sweat-potato",
       "fresh-vegetables",
+      "two-famiice",
       "charge-spot",
       "steam-fresh",
       "recyclable-cup",
@@ -41448,6 +41745,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog",
@@ -41505,6 +41803,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -41851,6 +42150,7 @@
     "address": "新竹市北區延平路一段 115 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -41873,6 +42173,7 @@
     "address": "新竹市北區延平路 3 段 669 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
@@ -41996,6 +42297,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -42129,6 +42431,7 @@
     "address": "新竹市東區八德路 35 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "formosa-tea",
@@ -42332,6 +42635,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -42355,6 +42659,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "smart-coffee",
@@ -42397,6 +42702,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "hot-dog"
@@ -42663,6 +42969,7 @@
     "address": "新竹市東區光復路二段 101 號（綜四館）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "steam-fresh",
@@ -42706,6 +43013,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "steam-fresh",
@@ -42744,6 +43052,7 @@
     "address": "新竹市東區自由路 97 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -42825,6 +43134,7 @@
     "address": "新竹市東區東大路一段 16 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -42862,6 +43172,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -42906,7 +43217,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "two-famiice",
       "fami-laundry",
       "baked-potato",
       "sohot-dessert",
@@ -43081,6 +43391,7 @@
     "address": "新竹市東區建新路 4 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -43107,6 +43418,18 @@
       "baked-potato",
       "hot-dog"
     ]
+  },
+  {
+    "name": "全家新竹金基店",
+    "id": "026115",
+    "tel": "03-5714316",
+    "lat": 24.808907,
+    "lng": 120.990696,
+    "city": "新竹市",
+    "area": "東區",
+    "road": "科研路",
+    "address": "新竹市東區科研路 8 號（ A0276 室）",
+    "service": []
   },
   {
     "name": "全家新竹新民治店",
@@ -43205,6 +43528,7 @@
     "address": "新竹市東區高峰路 95 巷 3 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "steam-fresh",
@@ -43301,6 +43625,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "fami-super",
@@ -43441,6 +43766,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -43653,6 +43979,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -43712,6 +44039,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "spicy-egg",
       "recyclable-cup",
@@ -43772,6 +44100,7 @@
     "address": "新竹縣竹北市十興路一段 333 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -43935,6 +44264,7 @@
     "service": [
       "sweat-potato",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -43962,6 +44292,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -44092,6 +44423,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -44468,6 +44800,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -44822,6 +45155,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -45027,6 +45361,7 @@
     "address": "新竹縣湖口鄉中正七街 157 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "cook-now",
@@ -45213,7 +45548,7 @@
   },
   {
     "name": "全家湖口新安宅店",
-    "id": "026074",
+    "id": "026145",
     "tel": "03-5972923",
     "lat": 24.870004,
     "lng": 121.030172,
@@ -45301,6 +45636,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -45359,6 +45695,7 @@
     "address": "新竹縣湖口鄉達生二街 372 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -45371,7 +45708,7 @@
   },
   {
     "name": "全家湖口達生八店",
-    "id": "022618",
+    "id": "026804",
     "tel": "03-6992105",
     "lat": 24.89078844935692,
     "lng": 121.04928981712727,
@@ -45420,6 +45757,7 @@
     "address": "新竹縣新豐鄉埔和村 5 鄰埔頂 115 之 2 號（範圍如圖）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "formosa-tea",
@@ -45441,6 +45779,7 @@
     "address": "新竹縣新豐鄉新豐村 12 鄰紅毛 295 之 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "sohot-grill",
       "cook-now",
@@ -45463,6 +45802,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -45837,7 +46177,7 @@
   },
   {
     "name": "全家關西宏義店",
-    "id": "015992",
+    "id": "026210",
     "tel": "03-5170455",
     "lat": 24.791591,
     "lng": 121.176048,
@@ -45941,6 +46281,7 @@
     "address": "新竹縣寶山鄉明湖路 309 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -45996,6 +46337,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -46224,6 +46566,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "steam-fresh",
       "recyclable-cup",
@@ -46278,6 +46621,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "formosa-tea",
@@ -46393,6 +46737,7 @@
     "address": "新竹縣峨眉鄉石井 19 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "steam-fresh",
       "hot-dog"
     ]
@@ -46541,7 +46886,7 @@
   },
   {
     "name": "全家竹南天文店",
-    "id": "017643",
+    "id": "026146",
     "tel": "037-611158",
     "lat": 24.686093,
     "lng": 120.884004,
@@ -46653,6 +46998,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "formosa-tea",
@@ -46677,6 +47023,7 @@
     "address": "苗栗縣竹南鎮明勝路 259 號及明德段 1、2 地號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -46762,7 +47109,7 @@
   },
   {
     "name": "全家竹南正大埔店",
-    "id": "023637",
+    "id": "026147",
     "tel": "037-583620",
     "lat": 24.710005,
     "lng": 120.902464,
@@ -46996,6 +47343,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "hot-dog"
@@ -47110,7 +47458,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "costco-shelf",
@@ -47257,6 +47604,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -47281,6 +47629,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "formosa-tea",
       "steam-fresh",
@@ -47441,6 +47790,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -47501,6 +47851,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -47552,6 +47903,7 @@
     "address": "苗栗縣後龍鎮成功路 297 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "sohot-dessert",
       "sohot-grill",
       "hot-dog"
@@ -47569,6 +47921,7 @@
     "address": "苗栗縣後龍鎮高鐵三路 263 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -47699,7 +48052,7 @@
   },
   {
     "name": "全家苑裡舊社店",
-    "id": "025989",
+    "id": "026111",
     "tel": "037-741449",
     "lat": 24.416838,
     "lng": 120.683118,
@@ -47710,14 +48063,13 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "costco-shelf",
       "hot-dog"
     ]
   },
   {
     "name": "全家苑裡新興店",
-    "id": "015523",
+    "id": "026126",
     "tel": "037-860826",
     "lat": 24.440467,
     "lng": 120.652461,
@@ -47939,6 +48291,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "spicy-egg",
@@ -48126,7 +48479,6 @@
       "famiice",
       "sweat-potato",
       "polaroid",
-      "single-famiice",
       "toilet",
       "rest-area",
       "steam-fresh",
@@ -48314,6 +48666,7 @@
     "address": "苗栗縣大湖鄉富興村 4 鄰法雲寺 6-10 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "hot-dog",
       "veggie-zone"
@@ -48331,6 +48684,7 @@
     "address": "苗栗縣大湖鄉中原路 87-2 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "formosa-tea",
@@ -48543,6 +48897,7 @@
     "address": "苗栗縣卓蘭鎮豐田里豐田 30-2 號 2 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -48788,6 +49143,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -48825,6 +49181,7 @@
     "address": "台中市中區民權路 162 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "formosa-tea",
       "fami-super",
@@ -48962,6 +49319,7 @@
     "address": "台中市東區十甲路 262 號一樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "charge-spot",
       "steam-fresh",
@@ -48983,6 +49341,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -49026,6 +49385,7 @@
     "address": "台中市東區自由二街 85 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "fami-laundry",
       "baked-potato",
       "sohot-dessert",
@@ -49117,6 +49477,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -49178,7 +49539,7 @@
   },
   {
     "name": "全家台中金東門店",
-    "id": "015398",
+    "id": "026093",
     "tel": "04-22806630",
     "lat": 24.127145,
     "lng": 120.699239,
@@ -49207,6 +49568,7 @@
     "address": "台中市東區東英十五街 300 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -49301,7 +49663,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -49356,6 +49717,7 @@
     "address": "台中市東區精武東路 85 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog",
@@ -49418,6 +49780,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
@@ -49459,6 +49822,7 @@
     "address": "台中市南區大慶街 2 段 49 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "hot-dog",
@@ -49566,6 +49930,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "hot-dog",
@@ -49626,7 +49991,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot",
@@ -49667,6 +50031,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -49774,6 +50139,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -49839,6 +50205,7 @@
     "road": "復興北路",
     "address": "台中市南區復興北路 300 號",
     "service": [
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -49891,7 +50258,7 @@
   },
   {
     "name": "全家台中興美店",
-    "id": "026134",
+    "id": "026117",
     "tel": "04-22600991",
     "lat": 24.124316,
     "lng": 120.662404,
@@ -49988,6 +50355,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot"
     ]
   },
@@ -50388,6 +50756,7 @@
     "address": "臺中市西區英才路 470 巷 58 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "steam-fresh",
@@ -50418,7 +50787,7 @@
   },
   {
     "name": "全家台中科博館店",
-    "id": "015380",
+    "id": "026053",
     "tel": "04-23297287",
     "lat": 24.15641,
     "lng": 120.665158,
@@ -50487,6 +50856,7 @@
     "address": "台中市西區精誠路 238 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "fami-laundry",
       "costco-shelf",
       "charge-spot",
@@ -50550,6 +50920,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog",
       "jpy-atm"
@@ -50587,6 +50958,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -50704,6 +51076,7 @@
     "address": "台中市北區中清路一段 83 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -50725,6 +51098,7 @@
     "address": "台中市北區中華路 2 段 116 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -50833,6 +51207,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -50880,6 +51255,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -51020,6 +51396,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -51084,6 +51461,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -51124,6 +51502,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "recyclable-cup",
       "hot-dog"
     ]
@@ -51159,6 +51538,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -51303,6 +51683,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -51359,6 +51740,7 @@
     "address": "台中市北區雙十路 2 段 97 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -51538,6 +51920,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -51560,6 +51943,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -51583,7 +51967,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -51777,6 +52160,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -51822,6 +52206,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "hot-dog",
@@ -51961,6 +52346,7 @@
     "address": "台中市北屯區河北路二段 69 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -52174,7 +52560,9 @@
     "area": "北屯區",
     "road": "軍福十三路",
     "address": "台中市北屯區軍福十三路 85 號",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家台中英皇店",
@@ -52190,6 +52578,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -52249,6 +52638,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -52306,6 +52696,7 @@
     "address": "台中市北屯區敦富路 157 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog",
@@ -52364,6 +52755,7 @@
     "address": "台中市北屯區?子路 309 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -52413,7 +52805,7 @@
   },
   {
     "name": "全家台中新崇河店",
-    "id": "025694",
+    "id": "026148",
     "tel": "04-22413302",
     "lat": 24.177026,
     "lng": 120.688244,
@@ -52445,6 +52837,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -52640,6 +53033,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -52666,6 +53060,7 @@
     "address": "台中市西屯區大墩二十街 99 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -52700,7 +53095,7 @@
   },
   {
     "name": "全家台中樂活店",
-    "id": "020969",
+    "id": "026504",
     "tel": "04-23271767",
     "lat": 24.1567,
     "lng": 120.6552,
@@ -52711,6 +53106,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -53050,6 +53446,7 @@
     "address": "台中市西屯區台灣大道 4 段 1727 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -53180,6 +53577,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -53201,6 +53599,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -53264,6 +53663,7 @@
     "address": "台中市西屯區安和路 120 之 15 號 1 樓及 2 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -53510,7 +53910,7 @@
   },
   {
     "name": "全家台中惠慶店",
-    "id": "015493",
+    "id": "026624",
     "tel": "04-24527462",
     "lat": 24.171804,
     "lng": 120.648458,
@@ -53597,6 +53997,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -53882,6 +54283,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -54009,6 +54411,7 @@
     "address": "台中市南屯區大墩一街 71 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -54151,6 +54554,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "spicy-egg",
@@ -54316,6 +54720,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -54375,6 +54780,7 @@
     "service": [
       "sweat-potato",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -54461,6 +54867,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "recyclable-cup",
       "hot-dog"
@@ -54576,6 +54983,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -54668,6 +55076,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -54710,6 +55119,7 @@
     "road": "惠文路",
     "address": "台中市南屯區惠文路 288 號",
     "service": [
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -54843,6 +55253,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "gogoro-battery-exchange",
@@ -55022,6 +55433,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "recyclable-cup",
       "hot-dog"
@@ -55247,6 +55659,7 @@
     "address": "台中市太平區光興路 313 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "spicy-egg",
       "hot-dog"
     ]
@@ -55409,6 +55822,7 @@
     "address": "台中市太平區長億路 172 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -55579,7 +55993,7 @@
   },
   {
     "name": "全家太平新福店",
-    "id": "015473",
+    "id": "026604",
     "tel": "04-23959213",
     "lat": 24.153084,
     "lng": 120.703762,
@@ -55626,6 +56040,7 @@
     "address": "台中市太平區溪洲西路 142 號（配送用）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "spicy-egg",
@@ -55706,6 +56121,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -55725,6 +56141,7 @@
     "address": "台中市太平區環中東路三段 600 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -55907,6 +56324,7 @@
     "address": "台中市大里區中興路 1 段 26 巷 11-6 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -56089,7 +56507,7 @@
   },
   {
     "name": "全家大里立仁店",
-    "id": "026034",
+    "id": "026151",
     "tel": "04-22777327",
     "lat": 24.107704,
     "lng": 120.703721,
@@ -56173,7 +56591,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "recyclable-cup",
       "hot-dog"
@@ -56230,6 +56647,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "recyclable-cup",
       "hot-dog"
@@ -56340,6 +56758,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "formosa-tea",
@@ -56458,6 +56877,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "gogoro-battery-exchange",
       "steam-fresh",
       "hot-dog"
@@ -56589,6 +57009,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -56911,6 +57332,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "spicy-egg",
@@ -57092,6 +57514,7 @@
     "address": "台中市烏日區溪南路一段 599 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "cook-now",
       "hot-dog",
       "weighed-sweets"
@@ -57109,6 +57532,7 @@
     "address": "台中市烏日區學田路 732 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "hot-dog",
       "veggie-zone"
@@ -57133,7 +57557,7 @@
   },
   {
     "name": "全家豐原社皮店",
-    "id": "023482",
+    "id": "026614",
     "tel": "04-25152711",
     "lat": 24.246451,
     "lng": 120.699112,
@@ -57200,6 +57624,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "spicy-egg",
       "gogoro-battery-exchange",
@@ -57210,7 +57635,7 @@
   },
   {
     "name": "全家豐原豐富店",
-    "id": "024154",
+    "id": "026092",
     "tel": "04-25229385",
     "lat": 24.255572,
     "lng": 120.733461,
@@ -57239,6 +57664,7 @@
     "service": [
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "steam-fresh",
@@ -57362,6 +57788,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "spicy-egg",
       "recyclable-cup",
@@ -57521,6 +57948,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "spicy-egg",
       "hot-dog"
@@ -57635,6 +58063,7 @@
     "address": "台中市豐原區豐陽路 147 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -57659,6 +58088,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "formosa-tea",
       "spicy-egg",
       "recyclable-cup",
@@ -57679,6 +58109,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "formosa-tea",
       "spicy-egg",
       "hot-dog"
@@ -57791,7 +58222,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "spicy-egg",
@@ -57829,6 +58259,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "spicy-egg",
       "steam-fresh",
@@ -57866,6 +58297,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -57906,6 +58338,7 @@
     "address": "台中市石岡區豐勢路 829 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "spicy-egg",
       "steam-fresh",
@@ -57924,6 +58357,7 @@
     "address": "台中市東勢區三民街 108 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "sohot-grill",
       "hot-dog"
@@ -58120,6 +58554,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -58144,6 +58579,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "gogoro-battery-exchange",
       "steam-fresh",
       "hot-dog",
@@ -58665,6 +59101,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "spicy-egg",
       "hot-dog"
     ]
@@ -58771,7 +59208,7 @@
   },
   {
     "name": "全家大雅永和店",
-    "id": "015379",
+    "id": "026012",
     "tel": "04-25609441",
     "lat": 24.210292,
     "lng": 120.63033,
@@ -58904,6 +59341,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "steam-fresh",
@@ -59063,6 +59501,7 @@
     "address": "台中市神岡區中山路 1058 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "formosa-tea",
@@ -59272,6 +59711,7 @@
     "address": "台中市大肚區文昌路二段 170 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -59314,6 +59754,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -59560,7 +60001,7 @@
   },
   {
     "name": "全家沙鹿弘光店",
-    "id": "017320",
+    "id": "026704",
     "tel": "04-26335938",
     "lat": 24.215322,
     "lng": 120.579737,
@@ -59644,6 +60085,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "gogoro-battery-exchange",
@@ -59773,6 +60215,7 @@
     "address": "台中市沙鹿區保成路 161 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -59861,6 +60304,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -60017,6 +60461,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "steam-fresh",
       "recyclable-cup",
       "hot-dog",
@@ -60183,6 +60628,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "spicy-egg",
       "hot-dog"
     ]
@@ -60297,7 +60743,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "hot-dog"
     ]
   },
@@ -60368,6 +60813,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "spicy-egg",
@@ -60387,6 +60833,7 @@
     "address": "台中市梧棲區四維中路 227 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -60504,6 +60951,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "formosa-tea",
@@ -60526,6 +60974,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "spicy-egg",
@@ -60809,6 +61258,7 @@
     "address": "台中市大甲區台中市大甲區幼二路 155 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "formosa-tea",
       "spicy-egg",
@@ -60903,6 +61353,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "recyclable-cup",
       "hot-dog"
     ]
@@ -60947,7 +61398,7 @@
   },
   {
     "name": "全家外埔長生店",
-    "id": "023232",
+    "id": "026110",
     "tel": "04-26830208",
     "lat": 24.346606,
     "lng": 120.647986,
@@ -60977,6 +61428,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -61073,6 +61525,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "formosa-tea",
       "spicy-egg",
@@ -61180,6 +61633,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "spicy-egg",
@@ -61227,6 +61681,7 @@
     "address": "彰化縣彰化市成功路 85 號 1 樓、 2 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -61289,6 +61744,7 @@
     "address": "彰化縣彰化市和平路 74 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "spicy-egg",
@@ -61391,6 +61847,7 @@
     "address": "彰化縣彰化市建國西街 101 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
@@ -61619,6 +62076,7 @@
     "address": "彰化縣彰化市莿桐里彰鹿路 109 之 6 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "spicy-egg",
       "sohot-grill",
@@ -61658,6 +62116,7 @@
     "address": "彰化縣彰化市辭修路 155 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "recyclable-cup",
       "hot-dog"
@@ -61813,6 +62272,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -61971,6 +62431,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "spicy-egg",
       "steam-fresh",
@@ -62122,6 +62583,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "hot-dog",
@@ -62261,6 +62723,7 @@
     "address": "彰化縣和美鎮柑竹路 393 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "spicy-egg",
@@ -62387,6 +62850,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -62534,6 +62998,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -62768,6 +63233,7 @@
     "address": "彰化縣員林市員林大道四段 377 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -63001,6 +63467,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "spicy-egg",
@@ -63059,6 +63526,7 @@
     "address": "彰化縣埔心鄉東門村中正路一段臨 497 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -63221,6 +63689,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -63533,6 +64002,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "spicy-egg",
       "hot-dog"
@@ -63587,6 +64057,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "spicy-egg",
@@ -63724,6 +64195,7 @@
     "address": "彰化縣竹塘鄉中央路二段 500 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -64098,6 +64570,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -64138,7 +64611,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "recyclable-cup",
@@ -64229,6 +64701,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "formosa-tea",
@@ -64439,6 +64912,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "hot-dog"
@@ -64457,7 +64931,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "hot-dog"
     ]
   },
@@ -64634,6 +65107,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "steam-fresh",
@@ -64712,6 +65186,7 @@
     "address": "南投縣埔里鎮大學路 501 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "spicy-egg",
       "sohot-grill",
@@ -64732,6 +65207,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -64769,6 +65245,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "spicy-egg",
       "hot-dog"
     ]
@@ -64812,6 +65289,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "cook-now",
       "hot-dog",
@@ -64898,7 +65376,7 @@
   },
   {
     "name": "全家埔里埔大店",
-    "id": "015328",
+    "id": "026072",
     "tel": "049-2906026",
     "lat": 23.95997,
     "lng": 120.96286,
@@ -64989,13 +65467,14 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "spicy-egg",
       "hot-dog"
     ]
   },
   {
     "name": "全家埔里九龍店",
-    "id": "015498",
+    "id": "026201",
     "tel": "049-2996297",
     "lat": 23.960772,
     "lng": 120.967916,
@@ -65085,6 +65564,7 @@
     "address": "南投縣仁愛鄉仁和路 224 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "hot-dog"
@@ -65157,6 +65637,7 @@
     "address": "南投縣名間鄉員集路 151-13 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -65189,6 +65670,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "spicy-egg",
       "gogoro-battery-exchange",
@@ -65247,6 +65729,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -65314,7 +65797,7 @@
   },
   {
     "name": "全家竹山金竹店",
-    "id": "014655",
+    "id": "026594",
     "tel": "049-2652785",
     "lat": 23.758129,
     "lng": 120.687663,
@@ -65341,6 +65824,7 @@
     "address": "南投縣竹山鎮社寮里集山路一段 1655 之 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -65395,6 +65879,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "smart-coffee",
@@ -65534,6 +66019,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog",
@@ -65552,6 +66038,7 @@
     "address": "雲林縣斗南鎮南昌里 22 鄰民生路 22 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "formosa-tea",
@@ -65574,6 +66061,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -65602,23 +66090,6 @@
       "steam-fresh",
       "cook-now",
       "no-pork",
-      "hot-dog"
-    ]
-  },
-  {
-    "name": "全家虎尾興南店",
-    "id": "015965",
-    "tel": "05-6328374",
-    "lat": 23.69512786,
-    "lng": 120.43723595,
-    "city": "雲林縣",
-    "area": "虎尾鎮",
-    "road": "無路名店鋪",
-    "address": "雲林縣虎尾鎮興南里興南 158 之 12 號",
-    "service": [
-      "sweat-potato",
-      "toilet",
-      "rest-area",
       "hot-dog"
     ]
   },
@@ -65676,7 +66147,7 @@
   },
   {
     "name": "全家虎尾三吉店",
-    "id": "023185",
+    "id": "026120",
     "tel": "05-6364272",
     "lat": 23.701074,
     "lng": 120.422432,
@@ -65729,6 +66200,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "spicy-egg",
@@ -65769,24 +66241,6 @@
       "sohot-dessert",
       "hot-dog",
       "veggie-zone"
-    ]
-  },
-  {
-    "name": "全家虎尾平和店",
-    "id": "016780",
-    "tel": "05-6324174",
-    "lat": 23.709453,
-    "lng": 120.446435,
-    "city": "雲林縣",
-    "area": "虎尾鎮",
-    "road": "光復路",
-    "address": "雲林縣虎尾鎮光復路 126 號",
-    "service": [
-      "sweat-potato",
-      "toilet",
-      "rest-area",
-      "spicy-egg",
-      "hot-dog"
     ]
   },
   {
@@ -65962,6 +66416,7 @@
     "address": "雲林縣土庫鎮三義路 18-3 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -66108,6 +66563,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -66203,6 +66659,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
@@ -66338,6 +66795,7 @@
     "address": "雲林縣斗六市中堅西路 581 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "gogoro-battery-exchange",
       "hot-dog"
@@ -66526,7 +66984,7 @@
   },
   {
     "name": "全家斗六西平店",
-    "id": "021286",
+    "id": "026170",
     "tel": "05-5516477",
     "lat": 23.72477,
     "lng": 120.524187,
@@ -66555,6 +67013,7 @@
     "address": "雲林縣斗六市鎮北里明德北路一段 165 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -66572,6 +67031,7 @@
     "road": "長安西路",
     "address": "雲林縣斗六市長安西路 16 之 2 號",
     "service": [
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "charge-spot",
@@ -66595,6 +67055,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "formosa-tea",
       "spicy-egg",
@@ -66706,7 +67167,7 @@
   },
   {
     "name": "全家林內采虹店",
-    "id": "018549",
+    "id": "026764",
     "tel": "05-5898442",
     "lat": 23.761618,
     "lng": 120.619612,
@@ -66751,6 +67212,7 @@
     "address": "雲林縣古坑鄉崁腳村 5 鄰新興 100 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -66892,6 +67354,7 @@
     "address": "雲林縣西螺鎮中山路 251-3 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "formosa-tea",
@@ -67082,6 +67545,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "sohot-grill",
       "hot-dog",
@@ -67157,6 +67621,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "spicy-egg",
       "hot-dog",
@@ -67236,6 +67701,7 @@
     "address": "雲林縣口湖鄉港東村 16 鄰中正路 1 之 3 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "formosa-tea",
@@ -67411,6 +67877,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -67437,7 +67904,7 @@
   },
   {
     "name": "全家嘉義友和店",
-    "id": "024817",
+    "id": "026734",
     "tel": "05-2910597",
     "lat": 23.481005,
     "lng": 120.434182,
@@ -67468,6 +67935,7 @@
     "address": "嘉義市西區北湖里 13 鄰北社尾路 260 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -67544,6 +68012,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "hot-dog",
@@ -67621,6 +68090,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "formosa-tea",
@@ -67819,6 +68289,7 @@
       "polaroid",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "recyclable-cup",
       "hot-dog",
       "veggie-zone",
@@ -67967,6 +68438,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "formosa-tea",
       "spicy-egg",
@@ -68369,6 +68841,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "spicy-egg",
       "steam-fresh",
@@ -68488,6 +68961,7 @@
     "address": "嘉義縣太保市太保里太保 74 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "costco-shelf",
@@ -68591,6 +69065,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "spicy-egg",
@@ -68667,6 +69142,7 @@
     "address": "嘉義縣朴子市竹圍里 11 鄰大同路 166 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "formosa-tea",
@@ -68745,6 +69221,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -68763,6 +69240,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
@@ -69013,6 +69491,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -69164,6 +69643,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -69260,6 +69740,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "formosa-tea",
@@ -69557,7 +70038,7 @@
   },
   {
     "name": "全家台南康樂一店",
-    "id": "015381",
+    "id": "026714",
     "tel": "06-2255075",
     "lat": 22.99279,
     "lng": 120.19439,
@@ -69568,6 +70049,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -69702,6 +70184,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
@@ -69814,6 +70297,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -69943,7 +70427,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "recyclable-cup",
@@ -70010,6 +70493,7 @@
     "address": "台南市東區裕信路 383 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "baked-potato",
       "spicy-egg",
@@ -70037,7 +70521,7 @@
   },
   {
     "name": "全家台南榮玉店",
-    "id": "019560",
+    "id": "026236",
     "tel": "06-2142839",
     "lat": 22.974563,
     "lng": 120.216777,
@@ -70127,7 +70611,6 @@
     "address": "台南市南區中華南路二段 110 號",
     "service": [
       "sweat-potato",
-      "toilet",
       "rest-area",
       "sohot-dessert",
       "formosa-tea",
@@ -70166,6 +70649,7 @@
     "address": "台南市南區金華路一段 484 巷 85 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "gogoro-battery-exchange",
       "recyclable-cup",
       "cook-now",
@@ -70187,6 +70671,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -70250,7 +70735,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "recyclable-cup",
@@ -70270,8 +70754,8 @@
     "address": "台南市南區新建路 47 號 1 樓",
     "service": [
       "sweat-potato",
-      "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "formosa-tea",
@@ -70358,6 +70842,7 @@
     "address": "台南市南區德興路 47-1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -70495,7 +70980,7 @@
   },
   {
     "name": "全家台南北成店",
-    "id": "025945",
+    "id": "026162",
     "tel": "06-2826541",
     "lat": 23.018563,
     "lng": 120.210832,
@@ -70597,6 +71082,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "spicy-egg",
@@ -70617,6 +71103,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -70702,6 +71189,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -70911,6 +71399,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "formosa-tea",
@@ -70931,6 +71420,7 @@
     "address": "台南市安平區國平里國平北路 145 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "steam-fresh",
       "hot-dog"
     ]
@@ -70957,7 +71447,7 @@
   },
   {
     "name": "全家台南慶平店",
-    "id": "019441",
+    "id": "026233",
     "tel": "06-2930685",
     "lat": 22.99711,
     "lng": 120.182187,
@@ -70968,6 +71458,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "steam-fresh",
       "recyclable-cup",
@@ -70989,6 +71480,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "hot-dog",
       "weighed-sweets"
@@ -71104,6 +71596,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "formosa-tea",
@@ -71166,6 +71659,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -71665,7 +72159,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -71774,6 +72267,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "gogoro-battery-exchange",
       "recyclable-cup",
       "hot-dog",
@@ -71811,6 +72305,7 @@
     "address": "台南市永康區正南一街 103 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -71844,6 +72339,7 @@
     "address": "台南市永康區永二街 140 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
@@ -71903,6 +72399,7 @@
     "address": "台南市永康區永安一街 16 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "spicy-egg",
@@ -71925,6 +72422,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
@@ -72228,6 +72726,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "formosa-tea",
       "gogoro-battery-exchange",
@@ -72464,6 +72963,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -72698,6 +73198,7 @@
     "address": "台南市仁德區崇德路 10 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "spicy-egg",
@@ -72766,6 +73267,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "cook-now",
@@ -72787,6 +73289,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "gogoro-battery-exchange",
       "recyclable-cup",
@@ -72968,7 +73471,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -72990,6 +73492,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "single-famiice",
       "baked-potato",
       "hot-dog"
     ]
@@ -73238,7 +73741,9 @@
     "area": "北門區",
     "road": "無路名店鋪",
     "address": "台南市北門區文山里 11 鄰二重港 112 號",
-    "service": []
+    "service": [
+      "single-famiice"
+    ]
   },
   {
     "name": "全家新營三族店",
@@ -73530,6 +74035,7 @@
     "address": "臺南市後壁區竹新里新厝 69 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -73606,6 +74112,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "costco-shelf",
       "charge-spot",
@@ -73627,6 +74134,7 @@
     "address": "台南市東山區中興路 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -73756,6 +74264,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -73798,7 +74307,6 @@
       "famiice",
       "sweat-potato",
       "polaroid",
-      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -73942,6 +74450,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -74011,6 +74520,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "sohot-grill",
@@ -74150,6 +74660,7 @@
     "address": "台南市新市區大社里大社 534 號部份",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "steam-fresh",
       "hot-dog"
     ]
@@ -74214,7 +74725,7 @@
   },
   {
     "name": "全家新市群創一店",
-    "id": "023025",
+    "id": "026186",
     "tel": "06-5055039",
     "lat": 23.087123,
     "lng": 120.280912,
@@ -74386,6 +74897,18 @@
     ]
   },
   {
+    "name": "全家新市緯穎店",
+    "id": "026137",
+    "tel": "06-5051931",
+    "lat": 23.091556,
+    "lng": 120.277385,
+    "city": "台南市",
+    "area": "新市區",
+    "road": "環西路一段",
+    "address": "台南市新市區環西路一段 8 號",
+    "service": []
+  },
+  {
     "name": "全家新市新群七店",
     "id": "024002",
     "tel": "06-5055215",
@@ -74503,6 +75026,7 @@
     "address": "台南市安定區港口里港口 245-5 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "spicy-egg",
@@ -74546,6 +75070,7 @@
     "address": "台南市安定區北園三路 8 號 4 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "sohot-grill",
       "cook-now",
@@ -74554,7 +75079,7 @@
   },
   {
     "name": "全家高雄福華店",
-    "id": "020857",
+    "id": "026027",
     "tel": "07-2360858",
     "lat": 22.633944,
     "lng": 120.308697,
@@ -74567,6 +75092,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "formosa-tea",
@@ -75038,6 +75564,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -75133,6 +75660,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -75211,6 +75739,7 @@
     "address": "高雄市苓雅區武仁街 95 號一樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "rest-area",
       "baked-potato",
       "hot-dog",
@@ -75406,6 +75935,18 @@
     ]
   },
   {
+    "name": "全家高雄雅憲店",
+    "id": "026086",
+    "tel": "07-2232629",
+    "lat": 22.63664,
+    "lng": 120.321946,
+    "city": "高雄市",
+    "area": "苓雅區",
+    "road": "憲政路",
+    "address": "高雄市苓雅區憲政路 232 號",
+    "service": []
+  },
+  {
     "name": "全家高雄中福店",
     "id": "017956",
     "tel": "07-3381378",
@@ -75433,6 +75974,7 @@
     "address": "高雄市鹽埕區七賢三路 169 號一樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "hot-dog",
@@ -75468,6 +76010,7 @@
     "address": "高雄市鹽埕區五福四路 36、38 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "spicy-egg",
       "hot-dog"
@@ -75503,6 +76046,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "charge-spot",
@@ -75583,6 +76127,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "recyclable-cup",
@@ -75602,6 +76147,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -75622,7 +76168,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -75695,7 +76240,6 @@
       "sweat-potato",
       "toilet",
       "rest-area",
-      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -75715,6 +76259,7 @@
     "address": "高雄市鼓山區美術南三路 203 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -75850,6 +76395,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -75964,6 +76510,7 @@
     "address": "高雄市鼓山區臨海二路 69 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -75983,6 +76530,7 @@
       "sweat-potato",
       "polaroid",
       "toilet",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -76067,7 +76615,7 @@
   },
   {
     "name": "全家高雄崇光店",
-    "id": "023711",
+    "id": "026185",
     "tel": "07-3359035",
     "lat": 22.614082,
     "lng": 120.305957,
@@ -76105,7 +76653,7 @@
   },
   {
     "name": "全家高雄大魯閣店",
-    "id": "015149",
+    "id": "026207",
     "tel": "07-7915278",
     "lat": 22.581541,
     "lng": 120.329271,
@@ -76448,6 +76996,7 @@
       "sweat-potato",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "tianhe-fresh",
       "baked-potato",
@@ -76473,7 +77022,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "recyclable-cup",
       "hot-dog"
@@ -76721,6 +77269,7 @@
     "address": "高雄市三民區大昌一路 186 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "fami-super",
       "steam-fresh",
@@ -76743,6 +77292,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog",
@@ -76763,6 +77313,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -76790,6 +77341,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -76860,6 +77412,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "recyclable-cup",
       "hot-dog"
@@ -76867,7 +77420,7 @@
   },
   {
     "name": "全家高雄正好店",
-    "id": "025449",
+    "id": "026087",
     "tel": "07-3925611",
     "lat": 22.648022,
     "lng": 120.329961,
@@ -77047,6 +77600,7 @@
     "address": "高雄市三民區建國二路 318 號 B1 西側",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "formosa-tea",
@@ -77076,7 +77630,7 @@
   },
   {
     "name": "全家高雄建武店",
-    "id": "021434",
+    "id": "026118",
     "tel": "07-3906846",
     "lat": 22.642448,
     "lng": 120.329104,
@@ -77110,6 +77664,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -77184,6 +77739,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -77206,6 +77762,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -77306,7 +77863,7 @@
   },
   {
     "name": "全家高雄鼎華店",
-    "id": "017845",
+    "id": "026140",
     "tel": "07-3945405",
     "lat": 22.651019,
     "lng": 120.316973,
@@ -77379,6 +77936,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -77470,7 +78028,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -77534,6 +78091,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "hot-dog"
@@ -77732,6 +78290,7 @@
     "address": "高雄市楠梓區加昌路 276 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "hot-dog"
     ]
   },
@@ -77748,6 +78307,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -77780,6 +78340,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "charge-spot",
       "recyclable-cup",
       "hot-dog"
@@ -77893,6 +78454,7 @@
     "service": [
       "sweat-potato",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -78002,7 +78564,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -78145,7 +78706,7 @@
   },
   {
     "name": "全家高雄屏信店",
-    "id": "018499",
+    "id": "026564",
     "tel": "07-3643093",
     "lat": 22.726436,
     "lng": 120.299386,
@@ -78378,7 +78939,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "charge-spot",
       "hot-dog"
     ]
@@ -78478,6 +79038,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "recyclable-cup",
       "sohot-grill",
@@ -78631,6 +79192,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "charge-spot",
@@ -78674,6 +79236,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "formosa-tea",
@@ -78892,6 +79455,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
@@ -79047,7 +79611,7 @@
   },
   {
     "name": "全家高雄新左營店",
-    "id": "020801",
+    "id": "025861",
     "tel": "07-5889698",
     "lat": 22.687616,
     "lng": 120.306892,
@@ -79161,6 +79725,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -79188,6 +79753,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "recyclable-cup",
@@ -79234,6 +79800,7 @@
     "address": "高雄市左營區曾子路 300 號（配送用）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -79819,6 +80386,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "charge-spot",
@@ -79826,6 +80394,18 @@
       "jpy-atm",
       "pokemon-machine"
     ]
+  },
+  {
+    "name": "全家岡山強茂店",
+    "id": "026136",
+    "tel": "07-6215983",
+    "lat": 22.809107,
+    "lng": 120.284332,
+    "city": "高雄市",
+    "area": "岡山區",
+    "road": "岡山北路",
+    "address": "高雄市岡山區岡山北路 24 號",
+    "service": []
   },
   {
     "name": "全家岡山平和店",
@@ -79841,6 +80421,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "formosa-tea",
       "hot-dog",
@@ -79860,7 +80441,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "recyclable-cup",
       "hot-dog"
@@ -80004,6 +80584,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "single-famiice",
       "toilet",
       "rest-area",
       "gogoro-battery-exchange",
@@ -80039,6 +80620,7 @@
     "address": "高雄市路竹區中和街 150 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "spicy-egg",
@@ -80058,6 +80640,7 @@
     "address": "高雄市路竹區中興路 140 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -80072,7 +80655,7 @@
   {
     "name": "全家路竹緯穎店",
     "id": "025810",
-    "tel": "07-6956175",
+    "tel": "07-",
     "lat": 22.833819,
     "lng": 120.259262,
     "city": "高雄市",
@@ -80113,6 +80696,7 @@
     "address": "高雄市阿蓮區民生路 142 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -80472,6 +81056,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "hot-dog",
       "pokemon-machine"
@@ -80673,6 +81258,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "formosa-tea",
@@ -80820,6 +81406,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "spicy-egg",
@@ -80839,6 +81426,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "spicy-egg",
@@ -81130,7 +81718,7 @@
   },
   {
     "name": "全家鳳山朝鳳店",
-    "id": "024520",
+    "id": "026524",
     "tel": "07-7965131",
     "lat": 22.586393,
     "lng": 120.343424,
@@ -81307,6 +81895,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "spicy-egg",
@@ -81379,6 +81968,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "gogoro-battery-exchange",
@@ -81403,6 +81993,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -81669,7 +82260,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "baked-potato",
       "hot-dog"
     ]
@@ -81704,6 +82294,7 @@
     "address": "高雄市大寮區進學路 151 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -81750,6 +82341,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -82262,6 +82854,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "costco-shelf",
       "charge-spot",
       "hot-dog",
@@ -82664,6 +83257,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -82874,6 +83468,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "recyclable-cup",
@@ -82948,6 +83543,7 @@
     "address": "屏東縣屏東市龍華路 178 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "costco-shelf",
       "hot-dog"
@@ -83361,6 +83957,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -83547,6 +84144,7 @@
     "address": "屏東縣萬丹鄉社皮路二段 466 號部分（如圖）",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "steam-fresh",
       "hot-dog"
     ]
@@ -83587,6 +84185,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "hot-dog"
     ]
@@ -83623,6 +84222,7 @@
     "address": "屏東縣潮州鎮中洲路 167 之 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -83681,6 +84281,7 @@
     "address": "屏東縣潮州鎮朝昇路 190-1 號一樓及二樓 15 坪",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "cook-now",
@@ -83724,6 +84325,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "hot-dog",
@@ -83954,6 +84556,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "charge-spot",
       "hot-dog"
@@ -84012,6 +84615,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -84303,6 +84907,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "hot-dog"
     ]
   },
@@ -84358,6 +84963,7 @@
       "sweat-potato",
       "polaroid",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -84726,6 +85332,7 @@
     "address": "宜蘭縣宜蘭市光復路 1 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "cook-now",
@@ -85028,6 +85635,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "cook-now",
@@ -85124,6 +85732,7 @@
     "address": "宜蘭縣礁溪鄉健康路 50 號 1 樓之 1",
     "service": [
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "sohot-grill",
@@ -85159,6 +85768,7 @@
     "address": "宜蘭縣壯圍鄉功勞路 19 之 1 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "hot-dog"
     ]
@@ -85214,6 +85824,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "steam-fresh",
@@ -85371,6 +85982,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "charge-spot",
       "spicy-egg",
       "hot-dog"
@@ -85579,6 +86191,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "hot-dog"
@@ -85624,7 +86237,7 @@
   },
   {
     "name": "全家大同鑫南山店",
-    "id": "024898",
+    "id": "026784",
     "tel": "03-9809972",
     "lat": 24.440681,
     "lng": 121.380366,
@@ -85715,6 +86328,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "spicy-egg",
@@ -85736,6 +86350,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "sohot-dessert",
       "charge-spot",
       "hot-dog"
@@ -85771,6 +86386,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -85969,7 +86585,7 @@
   },
   {
     "name": "全家蘇澳馬賽店",
-    "id": "017552",
+    "id": "026257",
     "tel": "03-9909822",
     "lat": 24.619717,
     "lng": 121.834165,
@@ -86156,6 +86772,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -86221,6 +86838,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "single-famiice",
       "toilet",
       "rest-area",
       "charge-spot",
@@ -86324,6 +86942,18 @@
     ]
   },
   {
+    "name": "全家花蓮民享店",
+    "id": "026001",
+    "tel": "03-8246592",
+    "lat": 23.99247,
+    "lng": 121.630208,
+    "city": "花蓮縣",
+    "area": "花蓮市",
+    "road": "中興路",
+    "address": "花蓮縣花蓮市中興路 65 號 1 樓",
+    "service": []
+  },
+  {
     "name": "全家花蓮新美店",
     "id": "024273",
     "tel": "03-8236890",
@@ -86364,6 +86994,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -86434,6 +87065,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -86686,7 +87318,7 @@
   },
   {
     "name": "全家新城康樂店",
-    "id": "017111",
+    "id": "026205",
     "tel": "03-8262100",
     "lat": 24.05170742,
     "lng": 121.60493959,
@@ -86786,7 +87418,7 @@
   },
   {
     "name": "全家秀林和平店",
-    "id": "025018",
+    "id": "026156",
     "tel": "03-8682172",
     "lat": 24.30750044,
     "lng": 121.74864205,
@@ -86837,7 +87469,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "rest-area",
       "baked-potato",
       "charge-spot",
@@ -86913,7 +87544,7 @@
   },
   {
     "name": "全家吉安鑫莊敬店",
-    "id": "015318",
+    "id": "026259",
     "tel": "03-8561115",
     "lat": 23.98923065,
     "lng": 121.59370128,
@@ -86992,6 +87623,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -87164,6 +87796,7 @@
     "address": "花蓮縣豐濱鄉三民路 120 號",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "baked-potato",
       "sohot-dessert",
       "steam-fresh",
@@ -87301,6 +87934,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "hot-dog",
       "jpy-atm"
     ]
@@ -87334,6 +87968,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "recyclable-cup",
       "hot-dog",
@@ -87566,7 +88201,7 @@
   },
   {
     "name": "全家台東車站店",
-    "id": "023829",
+    "id": "026195",
     "tel": "089-237179",
     "lat": 22.7937575,
     "lng": 121.1231664,
@@ -87616,6 +88251,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "charge-spot",
       "recyclable-cup",
@@ -87637,6 +88273,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -87661,6 +88298,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "charge-spot",
@@ -87680,6 +88318,7 @@
     "address": "台東縣台東市漢陽北路 200 號部分範圍（詳如附圖）",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -87904,6 +88543,7 @@
       "sweat-potato",
       "toilet",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -87930,6 +88570,7 @@
       "toilet",
       "rest-area",
       "fresh-vegetables",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -87952,6 +88593,7 @@
       "polaroid",
       "toilet",
       "rest-area",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -88087,6 +88729,7 @@
     "service": [
       "sweat-potato",
       "polaroid",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "sohot-grill",
@@ -88114,7 +88757,7 @@
   },
   {
     "name": "全家澎湖衛中店",
-    "id": "024762",
+    "id": "026180",
     "tel": "06-9266761",
     "lat": 23.581481,
     "lng": 119.580364,
@@ -88190,6 +88833,7 @@
     "service": [
       "sweat-potato",
       "rest-area",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -88230,7 +88874,6 @@
     "service": [
       "famiice",
       "sweat-potato",
-      "single-famiice",
       "hot-dog"
     ]
   },
@@ -88263,6 +88906,7 @@
     "address": "澎湖縣馬公市民權路 2 號一樓",
     "service": [
       "sweat-potato",
+      "single-famiice",
       "toilet",
       "rest-area",
       "baked-potato",
@@ -88375,7 +89019,7 @@
   },
   {
     "name": "全家澎湖同新店",
-    "id": "024480",
+    "id": "026206",
     "tel": "06-9263286",
     "lat": 23.566012,
     "lng": 119.571899,
@@ -88558,6 +89202,7 @@
     "address": "金門縣金沙鎮環島東路一段 110 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "sohot-dessert",
       "costco-shelf",
       "hot-dog"
@@ -88594,6 +89239,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "baked-potato",
       "sohot-dessert",
       "costco-shelf",
@@ -88631,6 +89277,7 @@
     "address": "金門縣金湖鎮環島北路 3 段 2 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "sohot-dessert",
@@ -88699,6 +89346,7 @@
     "service": [
       "sweat-potato",
       "toilet",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "costco-shelf",
@@ -88772,6 +89420,7 @@
     "address": "金門縣金城鎮金山路 9 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "baked-potato",
       "steam-fresh",
@@ -88790,6 +89439,7 @@
     "address": "金門縣烈嶼鄉林湖村西路 35 之 12 號",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "baked-potato",
       "hot-dog"
     ]
@@ -88865,6 +89515,7 @@
     "address": "連江縣南竿鄉福澳村 129 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "spicy-egg",
@@ -88899,6 +89550,7 @@
     "address": "連江縣南竿鄉介壽村 205 號 1 樓",
     "service": [
       "sweat-potato",
+      "two-famiice",
       "special-famiice",
       "sohot-dessert",
       "sohot-grill",
